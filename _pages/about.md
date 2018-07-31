@@ -2,8 +2,6 @@
 permalink: /about/
 ---
 
-## **About**
-
 Q. **Who are you?**
 
 A. I've spent the last 14+ years at the sharp end of the sports betting world.  Initially spending 9 years in Betfair's market operations team, subsequently I've worked for major gambling syndicates and for myself.  Going further back I have an Economics BSc from UCL.
