@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 ---
-
 ## **About**
 
 Q. **Who are you?**
