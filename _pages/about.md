@@ -9,11 +9,11 @@ A. I've spent the last 14+ years at the sharp end of the sports betting world.  
 
 Q. **Whats this blog all about?**
 
-A. Its not a betting blog, its a data blog.  Most posts will be a small data analysis, usually sports related, but I'll tackle non-sporting subjects too if I find an interesting data source.
+A. Its not a betting blog, its a data blog.  Most posts will be a brief piece of data analysis, usually on a sports related topic, but I'll tackle non-sporting subjects too if I find an interesting data source.
 
 Q. **Whats the code for in some of your posts?**
 
-A. I'm teaching myself Python to help with my data analysis.  Posts will include all the Python code used for the analysis, so I have a little online portfolio.  As I progress with Python hopefully the analysis and visualisations in my posts will improve too!  My posts are originally created as a Jupyter Notebook then converted into a Markdown file for publishing on the blog.
+A. I'm teaching myself Python to help with my data analysis.  Posts will include all the Python code used in the analysis, so I have a little online portfolio.  As I progress with Python hopefully the analysis and visualisations in my posts will improve too!  My posts are originally created as a Jupyter Notebook then converted into a Markdown file for publishing on the blog.
 
 Q. **This blog visually looks good, how did you create it?**
 
