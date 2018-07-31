@@ -1,17 +1,20 @@
-##**A Brief Look at Driving Distance and Putting on the PGA Tour in 2002 and 2017**
+## **A Brief Look at Driving Distance and Putting on the PGA Tour in 2002 and 2017**
 
-###**Driving**  
+### **Driving**  
+
 The PGA Tour has seen a huge increase in the distance players can drive the ball over the last few decades.  This has been down to technological advances in equipment allied to players focusing more on strength, fitness and flexibility.  I'll highlight this advancement using the PGA Tour **Driving Distance** statistic, described on the PGA Tour website as:
 > The average number of yards per measured drive. These drives are measured on two holes per round. Care is taken to select two holes which face in opposite directions to counteract the effect of wind. Drives are measured to the point at which they come to rest regardless of whether they are in the fairway or not.
 
-###**Putting**
+### **Putting**
+
 This led me to wonder if there had been a corresponding improvement in players putting ability over the same time frame.  The statistic I've chosen to use in this comparison is the PGA Tour **Putting From 10 Feet** statistic, described on the PGA Tour website as:  
 > For all holes where putting distance was determined with a laser, the percent of putts made when the ball is greater than 9 feet and less than or equal to 10 feet from the hole. In order to be ranked, a minimum of ten attempts must be made.
 
 I've chosen the starting point of the analysis as 2002 as that is the first season the relevant putting stats were collected.
 
 
-###**Methodology**
+### **Methodology**
+
 I'll begin by writing a function to turn the table contents of a PGATour.com stats page into a DataFrame using the URL of the page.  I'll use the function to collect the relevant data for each year, then I'll merge and clean up the DataFrames appropriately.
 
 
@@ -288,8 +291,10 @@ print(golf_data_17.info())
     None
     
 
-##**Analysis**
-###**Initial EDA**
+## **Analysis**
+
+### **Initial EDA**
+
 Lets take a quick look at some descriptive stats from our DataFrames.
 
 
@@ -323,7 +328,7 @@ print(golf_data_17.describe())
 
 **Putting** - The mean percentage of putts made from 10 feet was 44.47% in 2002, but *falls* to 41.24% in 2017.  This is odd, we should definitely look into this further.
 
-###**ECDF's**
+### **ECDF's**
 
 Lets look at the empirical cumulative distribution functions for both driving and putting in the 2 years.  To do this I'll use a function to help compute the ECDF.
 
@@ -409,7 +414,8 @@ plt.show()
 
 The ECDF for putting is far less clear.  The variance in the 2002 data is larger, as is the mean.  Lets take a closer look at putting.
 
-###**Parameter Estimates**
+### **Parameter Estimates**
+
 Here I'll estimate the difference of the mean putts made % of the samples from 2002 and 2017.  I'll then report a 95% confidence interval of this difference of means.  I'll be using hacker statistics for this part of the analysis, defining some functions to help with the task. 
 
 
@@ -462,7 +468,8 @@ print('95% confidence interval =', conf_int, '%')
 This difference of means and 95% C.I. suggests that putting ability might have gotten worse since 2002!  Is this effect down to random chance?  ie, what is the probability that we would get the observed difference in mean putts made % if the means were the same?
 Lets check this using a hypothesis test.
 
-###**Hypothesis Test**
+### **Hypothesis Test**
+
 **Null hypothesis** - Players in 2017 are as good at putting as those in 2002.
 ie, the mean % of putts made from 10 feet for both groups are equal.
 
@@ -494,10 +501,12 @@ print('p =', p)
     p = 0.0042
     
 
-###**Conclusion**
+### **Conclusion**
+
 A p-value of **0.0042** suggests there **is** a statistically significant difference.  I'm inclined to reject the null hypothesis and accept the alternative hypothesis, players in 2017 are not as good at putting as those in 2002.
 
-###**Further thoughts**
+### **Further thoughts**
+
 There's no doubt todays players drive the ball further than their 2002 cohort, so why has one area of the game improved so markedly yet another equally important area of the game, putting, seemingly haven gotten worse?  Are todays players *actually* worse at putting or are there other reasons that explain the difference?  If so what are those differences?
 
 **Potential Explanations**
@@ -508,5 +517,6 @@ There's no doubt todays players drive the ball further than their 2002 cohort, s
 
 If there is one takeaway for the average amateur golfer from this analysis its this, if your going to spend a lot of money on one golf club, make it a driver, not a putter.  There's no evidence here that putters have improved since 2002.
 
-##**Further Analysis**
+## **Further Analysis**
+
 How could this analysis be expanded to make its conclusion more robust (or debunked)?  Well i've only taken a snapshot from two years, what if either 2002 or 2017 were outliers to the general putting trend?  Repeating the analysis with data from 2003 and 2016 could prove enlightening here.
