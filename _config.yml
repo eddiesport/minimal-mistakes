@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Edward Hammond-Kenny"
-  avatar           : "/images/bio-pic.jpg" # path of avatar image, e.g. "/images/bio-pic.jpg"
+  avatar           : # "/images/bio-pic.jpg" # path of avatar image, e.g. "/images/bio-pic.jpg"
   bio              : "Sports fan, data fan."
   location         : "London"
   email            :
