@@ -2,10 +2,8 @@
 categories: 
     - Analysis
     - Sport
-    - Golf
 tags: 
     - Analysis
-    - Sport
     - Golf
 ---
 ## **A Brief Look at Driving Distance and Putting on the PGA Tour in 2002 and 2017**
