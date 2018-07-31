@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 ---
-## About
+**About**
 
 Q. **Who are you?**
 
@@ -17,7 +17,7 @@ A. I'm teaching myself Python to help with my data analysis.  Posts will include
 
 Q. **This blog visually looks good, how did you create it?**
 
-A. This is a Jekyll blog using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/ "Minimal Mistakes") theme.
+A. This is a [Jekyll](https://jekyllrb.com/ "Jekyll") blog using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/ "Minimal Mistakes") theme.
 
 
 
