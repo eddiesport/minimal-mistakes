@@ -1,6 +1,6 @@
 ---
 header:
-  image: 
+  image: /images/cricket-ground-2.jpg
   caption: 
 categories: 
     - Analysis
