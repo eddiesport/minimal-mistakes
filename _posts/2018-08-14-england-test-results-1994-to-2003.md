@@ -1,3 +1,15 @@
+---
+header:
+  image: 
+  caption: 
+categories: 
+    - Analysis
+    - Sport
+tags: 
+    - analysis
+    - cricket
+---
+
 ## **Test Cricket - How bad were England between 1994 and 2003?**
 
 ### **Introduction - Why this question?**
