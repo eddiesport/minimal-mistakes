@@ -1,6 +1,6 @@
 ---
 header:
-  image: 
+  image: /images/tennis-ball-3.jpg
   caption: 
 categories: 
     - Analysis
