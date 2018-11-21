@@ -1,6 +1,6 @@
 ---
 header:
-  image: /images/tennis-ball-3.jpg
+  image: /images/football.jpg
   caption: 
 categories: 
     - Classification Model
