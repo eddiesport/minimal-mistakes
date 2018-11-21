@@ -1,3 +1,15 @@
+---
+header:
+  image: /images/tennis-ball-3.jpg
+  caption: 
+categories: 
+    - Classification Model
+    - Sport
+tags: 
+    - Classification Model
+    - Football
+---
+
 ## **A Supervised Learning Classification Model Example Using Scikit Learn**
 
 This is my attempt at producing a classification model in Python using the Scikit-Learn package.  I'm going to use Fantasy Premier League player data from the 2017/18 season to create a model that will attempt to predict the position of a player given their player stats. There are four possible prediction classes: Goalkeeper, Defender, Midfielder, Forward.
