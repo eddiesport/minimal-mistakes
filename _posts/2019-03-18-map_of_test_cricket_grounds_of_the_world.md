@@ -1,3 +1,15 @@
+---
+header:
+  image: /images/cricket-ground-2.jpg
+  caption: 
+categories: 
+    - Maps
+    - Sport
+tags: 
+    - maps
+    - cricket
+---
+
 ## **A Map of Test Cricket Grounds of the World**
 
 A look at visualisations using maps in Python.  I'll use a data set I've collated of coordinates of all the main current test match cricket grounds and over the next few posts I'll plot them in different map based packages, making use of those packages specific functionality where possible.
