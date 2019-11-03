@@ -1,0 +1,540 @@
+,Player,POS,Valuation
+0,Gerónimo Rulli,Goalkeeper,£9.00m
+3,Dimitry Bertaud,Goalkeeper,£900k
+6,Matis Carvalho,Goalkeeper,£135k
+9,Pedro Mendes,Centre-Back,£5.40m
+12,Nicolas Cozza,Centre-Back,£3.60m
+15,Daniel Congré,Centre-Back,£675k
+18,Clément Vidal,Centre-Back,£135k
+21,Vitorino Hilton,Centre-Back,£90k
+24,Ambroise Oyongo,Left-Back,£3.60m
+27,Mihailo Ristic,Left-Back,£720k
+30,Arnaud Souquet,Right-Back,£3.15m
+33,Mathías Suárez,Right-Back,£1.35m
+36,Junior Sambia,Defensive Midfield,£3.60m
+39,Damien Le Tallec,Defensive Midfield,£3.60m
+42,Joris Chotard,Defensive Midfield,£450k
+45,Kylian Kaïboué,Defensive Midfield,£135k
+48,Téji Savanier,Central Midfield,£10.80m
+51,Jordan Ferri,Central Midfield,£3.60m
+54,Florent Mollet,Attacking Midfield,£8.10m
+57,Amir Adouyev,Attacking Midfield,£135k
+60,Keagan Dolly,Left Winger,£1.17m
+63,Bilal Boutobba,Right Winger,£450k
+66,Souleymane Camara,Right Winger,£225k
+69,Andy Delort,Centre-Forward,£11.25m
+72,Gaëtan Laborde,Centre-Forward,£9.00m
+75,Petar Skuletic,Centre-Forward,£900k
+78,Walter Benítez,Goalkeeper,£9.00m
+81,Yannis Clementia,Goalkeeper,£900k
+84,Yoan Cardinale,Goalkeeper,£900k
+87,Christophe Hérelle,Centre-Back,£8.10m
+90,Stanley Nsoki,Centre-Back,£7.65m
+93,Dante,Centre-Back,£1.35m
+96,Andy Pelmard,Centre-Back,£1.35m
+99,Ibrahim Cissé,Centre-Back,£450k
+102,Gautier Lloris,Centre-Back,£135k
+105,Malang Sarr,Left-Back,£16.20m
+108,Racine Coly,Left-Back,£2.25m
+111,Youcef Atal,Right-Back,£22.50m
+114,Patrick Burner,Right-Back,£3.15m
+117,Adrien Tamèze,Defensive Midfield,£7.20m
+120,Danilo,Defensive Midfield,£7.20m
+123,Khéphren Thuram,Defensive Midfield,£1.35m
+126,Wylan Cyprien,Central Midfield,£16.20m
+129,Pierre Lees Melou,Central Midfield,£7.20m
+132,Rémi Walter,Central Midfield,£3.15m
+135,Arnaud Lusamba,Central Midfield,£1.80m
+138,Hichem Boudaoui,Central Midfield,£1.26m
+141,Alexis Claude-Maurice,Left Winger,£6.75m
+144,Adam Ounas,Right Winger,£9.00m
+147,Bassem Srarfi,Right Winger,£2.70m
+150,Kasper Dolberg,Centre-Forward,£16.20m
+153,Myziane Maolida,Centre-Forward,£7.20m
+156,Ignatius Ganago,Centre-Forward,£2.70m
+159,Matz Sels,Goalkeeper,£6.30m
+162,Bingourou Kamara,Goalkeeper,£2.25m
+165,Eiji Kawashima,Goalkeeper,£225k
+168,Louis Pelletier,Goalkeeper,£135k
+171,Alexander Djiku,Centre-Back,£7.20m
+174,Stefan Mitrovic,Centre-Back,£3.15m
+177,Lamine Koné,Centre-Back,£2.70m
+180,Anthony Caci,Centre-Back,£2.70m
+183,Lionel Carole,Left-Back,£2.70m
+186,Abdallah Ndour,Left-Back,£540k
+189,Kenny Lala,Right-Back,£12.60m
+192,Mohamed Simakan,Right-Back,£2.25m
+195,Ismaël Aaneba,Right-Back,£900k
+198,Ibrahima Sissoko,Defensive Midfield,£5.85m
+201,Jérémy Grimm,Defensive Midfield,£450k
+204,Youssouf Fofana,Central Midfield,£4.50m
+207,Sanjin Prcic,Central Midfield,£3.60m
+210,Jean-Ricner Bellegarde,Central Midfield,£2.25m
+213,Dimitri Liénard,Central Midfield,£1.80m
+216,Moataz Zemzemi,Left Midfield,£225k
+219,Adrien Thomasson,Attacking Midfield,£7.20m
+222,Benjamin Corgnet,Attacking Midfield,£720k
+225,Lebo Mothiba,Centre-Forward,£6.30m
+228,Nuno Da Costa,Centre-Forward,£4.50m
+231,Ludovic Ajorque,Centre-Forward,£3.60m
+234,Kévin Zohi,Centre-Forward,£1.80m
+237,Sergio Rico,Goalkeeper,£10.80m
+240,Keylor Navas,Goalkeeper,£9.00m
+243,Marcin Bulka,Goalkeeper,£450k
+246,Garissone Innocent,Goalkeeper,£135k
+249,Marquinhos,Centre-Back,£58.50m
+252,Thilo Kehrer,Centre-Back,£31.50m
+255,Abdou Diallo,Centre-Back,£31.50m
+258,Presnel Kimpembe,Centre-Back,£27.00m
+261,Thiago Silva,Centre-Back,£5.40m
+264,Loïc Mbe Soh,Centre-Back,£2.70m
+267,Layvin Kurzawa,Left-Back,£15.75m
+270,Juan Bernat,Left-Back,£13.50m
+273,Mitchel Bakker,Left-Back,£450k
+276,Thomas Meunier,Right-Back,£27.00m
+279,Colin Dagba,Right-Back,£16.20m
+282,Idrissa Gueye,Defensive Midfield,£27.00m
+285,Leandro Paredes,Defensive Midfield,£22.50m
+288,Marco Verratti,Central Midfield,£67.50m
+291,Julian Draxler,Central Midfield,£31.50m
+294,Ander Herrera,Central Midfield,£22.50m
+297,Adil Aouchiche,Attacking Midfield,£2.70m
+300,Neymar,Left Winger,£162.00m
+303,Ángel Di María,Right Winger,£36.00m
+306,Pablo Sarabia,Right Winger,£36.00m
+309,Kylian Mbappé,Centre-Forward,£180.00m
+312,Mauro Icardi,Centre-Forward,£67.50m
+315,Edinson Cavani,Centre-Forward,£36.00m
+318,Eric Maxim Choupo-Moting,Centre-Forward,£4.50m
+321,Anthony Lopes,Goalkeeper,£22.50m
+324,Ciprian Tatarusanu,Goalkeeper,£2.25m
+327,Anthony Racioppi,Goalkeeper,£450k
+330,Joachim Andersen,Centre-Back,£22.50m
+333,Jason Denayer,Centre-Back,£13.50m
+336,Marcelo,Centre-Back,£6.30m
+339,Mapou Yanga-Mbiwa,Centre-Back,£1.80m
+342,Oumar Solet,Centre-Back,£900k
+345,Youssouf Koné,Left-Back,£8.10m
+348,Marçal,Left-Back,£4.50m
+351,Léo Dubois,Right-Back,£12.15m
+354,Rafael,Right-Back,£8.10m
+357,Kenny Tete,Right-Back,£7.20m
+360,Thiago Mendes,Defensive Midfield,£22.50m
+363,Lucas Tousart,Defensive Midfield,£18.00m
+366,Houssem Aouar,Central Midfield,£40.50m
+369,Jeff Reine-Adélaïde,Central Midfield,£22.50m
+372,Jean Lucas,Central Midfield,£4.50m
+375,Maxence Caqueret,Central Midfield,£450k
+378,Memphis Depay,Left Winger,£40.50m
+381,Martin Terrier,Left Winger,£13.50m
+384,Boubacar Fofana,Left Winger,£180k
+387,Bertrand Traoré,Right Winger,£13.50m
+390,Maxwel Cornet,Right Winger,£13.50m
+393,Moussa Dembélé,Centre-Forward,£27.00m
+396,Amine Gouiri,Centre-Forward,£4.05m
+399,Steve Mandanda,Goalkeeper,£2.25m
+402,Yohann Pelé,Goalkeeper,£450k
+405,Ahmadou Dia,Goalkeeper,£135k
+411,Boubacar Kamara,Centre-Back,£16.20m
+414,Duje Caleta-Car,Centre-Back,£13.50m
+417,Álvaro González,Centre-Back,£7.20m
+420,Lucas Perrin,Centre-Back,£270k
+423,Jordan Amavi,Left-Back,£7.20m
+426,Hiroki Sakai,Right-Back,£7.20m
+429,Bouna Sarr,Right-Back,£5.40m
+432,Abdallah Ali Mohamed,Right-Back,£135k
+435,Kevin Strootman,Defensive Midfield,£10.80m
+438,Grégory Sertic,Defensive Midfield,£900k
+441,Alexandre Phliponeau,Defensive Midfield,£225k
+444,Morgan Sanson,Central Midfield,£25.20m
+447,Valentin Rongier,Central Midfield,£13.50m
+450,Maxime López,Central Midfield,£13.50m
+453,Saîf-Eddine Khaoui,Attacking Midfield,£3.15m
+456,Florian Chabrolle,Attacking Midfield,£135k
+459,Dimitri Payet,Left Winger,£11.25m
+462,Nemanja Radonjic,Left Winger,£4.50m
+465,Marley Aké,Left Winger,£135k
+468,Florian Thauvin,Right Winger,£40.50m
+471,Isaac Lihadji,Right Winger,£450k
+474,Darío Benedetto,Centre-Forward,£13.50m
+477,Valère Germain,Centre-Forward,£6.30m
+480,Benoît Costil,Goalkeeper,£4.95m
+483,Gaëtan Poussin,Goalkeeper,£720k
+486,Pablo,Centre-Back,£9.00m
+489,Laurent Koscielny,Centre-Back,£4.50m
+492,Mexer,Centre-Back,£3.60m
+495,Vukasin Jovanovic,Centre-Back,£2.70m
+498,Paul Baysse,Centre-Back,£1.80m
+501,Maxime Poundjé,Left-Back,£4.50m
+504,Loris Benito,Left-Back,£3.60m
+507,Youssouf Sabaly,Right-Back,£9.00m
+510,Enock Kwateng,Right-Back,£3.60m
+513,Raoul Bellanova,Right-Back,£900k
+516,Otávio,Defensive Midfield,£6.30m
+519,Albert Lottin,Defensive Midfield,£450k
+522,Aurélien Tchouaméni,Central Midfield,£6.30m
+525,Youssef Aït Bennasser,Central Midfield,£6.30m
+528,Younousse Sankharé,Central Midfield,£4.50m
+531,Toma Basic,Central Midfield,£4.50m
+534,Yacine Adli,Attacking Midfield,£4.95m
+537,Yassine Benrahou,Attacking Midfield,£900k
+540,François Kamano,Left Winger,£13.50m
+543,Samuel Kalu,Right Winger,£9.00m
+546,Jonathan Cafú,Right Winger,£1.80m
+549,Nicolas de Préville,Centre-Forward,£3.60m
+552,Jimmy Briand,Centre-Forward,£2.25m
+555,Ui-jo Hwang,Centre-Forward,£1.80m
+558,Josh Maja,Centre-Forward,£1.53m
+561,Predrag Rajkovic,Goalkeeper,£4.50m
+564,Nicolas Lemaître,Goalkeeper,£360k
+567,Yehvann Diouf,Goalkeeper,£270k
+570,Axel Disasi,Centre-Back,£3.15m
+573,Dario Maresic,Centre-Back,£2.70m
+576,Yunis Abdelhamid,Centre-Back,£2.25m
+579,Marshall Munetsi,Centre-Back,£495k
+582,Ghislain Konan,Left-Back,£3.60m
+585,Hassane Kamara,Left-Back,£2.25m
+588,Lenny Vallier,Left-Back,£270k
+591,Thomas Foket,Right-Back,£5.40m
+594,Xavier Chavalerin,Defensive Midfield,£3.60m
+597,Nolan Mbemba,Defensive Midfield,£675k
+600,Alaixys Romao,Defensive Midfield,£450k
+603,Sambou Sissoko,Defensive Midfield,£450k
+606,Tristan Dingomé,Central Midfield,£2.25m
+609,Grégory Berthier,Right Midfield,£540k
+612,Dereck Kutesa,Left Midfield,£1.58m
+615,Mathieu Cafaro,Attacking Midfield,£6.75m
+618,Moreto Cassamá,Attacking Midfield,£315k
+621,Arbër Zeneli,Left Winger,£5.40m
+624,Moussa Doumbia,Left Winger,£1.80m
+627,Nathanaël Mbuku,Left Winger,£900k
+630,Rémi Oudin,Right Winger,£9.90m
+633,Anastasios Donis,Centre-Forward,£3.60m
+636,Hyun-jun Suk,Centre-Forward,£3.15m
+639,Boulaye Dia,Centre-Forward,£3.15m
+642,Timothé Nkada,Centre-Forward,£135k
+645,Virgile Pinson,Centre-Forward,£135k
+648,Alexandre Oukidja,Goalkeeper,£1.80m
+651,Paul Delecroix,Goalkeeper,£540k
+654,Guillaume Dietsch,Goalkeeper,£135k
+657,Mamadou Fofana,Centre-Back,£1.80m
+660,Stoppila Sunzu,Centre-Back,£1.80m
+663,John Boye,Centre-Back,£900k
+666,Thomas Delaine,Left-Back,£1.35m
+669,Manuel Cabit,Left-Back,£720k
+672,Matthieu Udol,Left-Back,£360k
+675,Fabien Centonze,Right-Back,£2.25m
+678,Kévin N'Doram,Defensive Midfield,£3.60m
+681,Habib Maïga,Defensive Midfield,£900k
+684,Victorien Angban,Central Midfield,£3.15m
+687,Adama Traoré,Central Midfield,£1.98m
+690,Marvin Gakpa,Central Midfield,£900k
+693,Renaud Cohade,Central Midfield,£900k
+696,Sami Lahssaini,Central Midfield,£135k
+699,Boubacar Traore,Central Midfield,£90k
+702,Opa Nguette,Left Winger,£1.80m
+705,Adama Traore,Left Winger,£270k
+708,Farid Boulaya,Right Winger,£1.80m
+711,Papa Ndiaga Yade,Second Striker,£135k
+714,Habib Diallo,Centre-Forward,£5.40m
+717,Ibrahima Niane,Centre-Forward,£3.15m
+720,Thierry Ambrose,Centre-Forward,£1.80m
+723,Amadou Ndiaye,Centre-Forward,£135k
+726,Alban Lafont,Goalkeeper,£10.80m
+729,Alexandre Olliero,Goalkeeper,£360k
+732,Denis Petric,Goalkeeper,£360k
+735,Nicolas Pallois,Centre-Back,£2.25m
+738,Molla Wagué,Centre-Back,£900k
+741,Thomas Basila,Centre-Back,£450k
+744,Josué Homawoo,Centre-Back,£135k
+747,Charles Traoré,Left-Back,£2.70m
+750,Wesley Moustache,Left-Back,£135k
+753,Fábio,Right-Back,£2.25m
+756,Dennis Appiah,Right-Back,£1.35m
+759,Abdoulaye Touré,Defensive Midfield,£9.00m
+762,Andrei Girotto,Defensive Midfield,£2.70m
+765,Batista Mendy,Defensive Midfield,£135k
+768,Ludovic Blas,Central Midfield,£6.30m
+771,Samuel Moutoussamy,Central Midfield,£4.50m
+774,Rene Krhin,Central Midfield,£1.80m
+777,Mehdi Abeid,Central Midfield,£1.58m
+780,Kayembe,Left Midfield,£450k
+783,Cristian Benavente,Attacking Midfield,£4.95m
+786,Imran Louza,Attacking Midfield,£2.70m
+789,Moses Simon,Left Winger,£2.70m
+792,Abdoulaye Dabo,Left Winger,£900k
+795,Marcus Coco,Right Winger,£2.70m
+798,Abdoul Kader Bamba,Right Winger,£720k
+801,Kalifa Coulibaly,Centre-Forward,£4.50m
+804,Bridge Ndilu,Centre-Forward,£360k
+807,Thody Élie Youan,Centre-Forward,£225k
+810,Danijel Petkovic,Goalkeeper,£810k
+813,Ludovic Butelle,Goalkeeper,£225k
+816,Anthony Mandrea,Goalkeeper,£180k
+819,Romain Thomas,Centre-Back,£2.70m
+822,Mateo Pavlovic,Centre-Back,£1.58m
+825,Ismaël Traoré,Centre-Back,£1.35m
+828,Ibrahim Cissé,Centre-Back,£540k
+831,Rayan Aït Nouri,Left-Back,£5.40m
+834,Théo Pellenard,Left-Back,£1.80m
+837,Abdoulaye Bamba,Right-Back,£2.70m
+840,Vincent Manceau,Right-Back,£2.25m
+843,Haithem Loucif,Right-Back,£585k
+846,Baptiste Santamaría,Defensive Midfield,£7.20m
+849,Vincent Pajot,Defensive Midfield,£2.25m
+852,Antonin Bobichon,Central Midfield,£4.50m
+855,Thomas Mangani,Central Midfield,£1.80m
+858,Angelo Fulgini,Right Midfield,£4.50m
+861,Sada Thioub,Right Midfield,£3.60m
+864,Mathias Pereira Lage,Left Midfield,£3.15m
+867,Pierrick Capelle,Left Midfield,£1.80m
+870,Anthony Gomez Mancini,Attacking Midfield,£135k
+873,Casimir Ninga,Left Winger,£2.70m
+876,Farid El Melali,Right Winger,£1.80m
+879,Stéphane Bahoken,Centre-Forward,£7.20m
+882,Rachid Alioui,Centre-Forward,£3.60m
+885,Wilfried Kanga,Centre-Forward,£1.35m
+888,Paul Bernardoni,Goalkeeper,£8.10m
+891,Lucas Dias,Goalkeeper,£135k
+894,Anthony Briancon,Centre-Back,£4.50m
+897,Pablo Martinez,Centre-Back,£3.15m
+900,Loïck Landre,Centre-Back,£3.15m
+903,Kelyan Guessoum,Centre-Back,£135k
+906,Florian Miguel,Left-Back,£1.80m
+909,Théo Sainte-Luce,Left-Back,£135k
+912,Sofiane Alakouch,Right-Back,£4.50m
+915,Gaëtan Paquiez,Right-Back,£900k
+918,Lucas Buades,Right-Back,£135k
+921,Lamine Fomba,Defensive Midfield,£3.60m
+924,Sidy Sarr,Defensive Midfield,£1.80m
+927,Lucas Deaux,Defensive Midfield,£1.80m
+930,Theo Valls,Central Midfield,£2.25m
+933,Zinedine Ferhat,Right Midfield,£3.15m
+936,Romain Philippoteaux,Left Midfield,£900k
+939,Haris Duljevic,Left Midfield,£900k
+942,Renaud Ripart,Centre-Forward,£3.60m
+945,Clément Depres,Centre-Forward,£1.35m
+948,Kévin Denkey,Centre-Forward,£1.35m
+951,Vlatko Stojanovski,Centre-Forward,£450k
+954,Sami Ben Amar,Centre-Forward,£135k
+957,Benjamin Lecomte,Goalkeeper,£12.60m
+960,Danijel Subasic,Goalkeeper,£1.80m
+963,Seydou Sy,Goalkeeper,£675k
+966,Diego Benaglio,Goalkeeper,£450k
+969,Benoît Badiashile,Centre-Back,£16.20m
+972,Guillermo Maripán,Centre-Back,£13.50m
+975,Kamil Glik,Centre-Back,£7.20m
+978,Jemerson,Centre-Back,£5.40m
+981,Naldo,Centre-Back,£450k
+984,Fodé Ballo-Touré,Left-Back,£9.00m
+987,Arthur Zagre,Left-Back,£6.30m
+990,Benjamin Henrichs,Right-Back,£13.50m
+993,Ruben Aguilar,Right-Back,£7.20m
+996,Tiemoué Bakayoko,Defensive Midfield,£31.50m
+999,Adrien Silva,Central Midfield,£11.70m
+1002,Cesc Fàbregas,Central Midfield,£10.80m
+1005,Aleksandr Golovin,Attacking Midfield,£22.50m
+1008,Gabriel Boschilia,Attacking Midfield,£3.60m
+1011,Keita Baldé,Left Winger,£22.50m
+1014,Henry Onyekuru,Left Winger,£11.70m
+1017,Willem Geubbels,Left Winger,£9.00m
+1020,Gelson Martins,Right Winger,£25.20m
+1023,Gil Dias,Right Winger,£2.25m
+1026,Wissam Ben Yedder,Centre-Forward,£36.00m
+1029,Jean-Kévin Augustin,Centre-Forward,£14.40m
+1032,Stevan Jovetic,Centre-Forward,£9.00m
+1035,Pietro Pellegri,Centre-Forward,£6.30m
+1038,Islam Slimani,Centre-Forward,£4.50m
+1041,Moussa Sylla,Centre-Forward,£3.60m
+1044,Gautier Larsonneur,Goalkeeper,£3.60m
+1047,Donovan Léon,Goalkeeper,£225k
+1050,Denys Bain,Centre-Back,£2.25m
+1053,Jean-Kevin Duverne,Centre-Back,£1.80m
+1056,Jean-Charles Castelletto,Centre-Back,£1.35m
+1059,Brendan Chardonnet,Centre-Back,£720k
+1062,Romain Perraud,Left-Back,£2.25m
+1065,David Kiki,Left-Back,£540k
+1068,Ludovic Baal,Left-Back,£450k
+1071,Julien Faussurier,Right-Back,£900k
+1074,Gaëtan Belaud,Right-Back,£810k
+1077,Paul Lasne,Defensive Midfield,£2.25m
+1080,Ibrahima Diallo,Central Midfield,£3.15m
+1083,Cristian Battocchio,Central Midfield,£1.35m
+1086,Haris Belkebla,Central Midfield,£900k
+1089,Ferris N'Goma,Central Midfield,£630k
+1092,Hugo Magnetti,Central Midfield,£135k
+1095,Hiang'a Mbock,Central Midfield,£135k
+1098,Samuel Grandsir,Right Midfield,£2.70m
+1101,Yoann Court,Left Midfield,£900k
+1104,Mathias Autret,Attacking Midfield,£2.25m
+1107,Gaëtan Charbonnier,Centre-Forward,£2.25m
+1110,Alexandre Mendy,Centre-Forward,£2.03m
+1113,Irvin Cardona,Centre-Forward,£1.35m
+1116,Kévin Mayi,Centre-Forward,£630k
+1119,Derick Osei Yaw,Centre-Forward,£135k
+1122,Mike Maignan,Goalkeeper,£19.80m
+1125,Léo Jardim,Goalkeeper,£3.60m
+1128,Gabriel Magalhães,Centre-Back,£9.00m
+1131,Adama Soumaoro,Centre-Back,£9.00m
+1134,Tiago Djaló,Centre-Back,£2.70m
+1137,José Fonte,Centre-Back,£1.80m
+1140,Saad Agouzoul,Centre-Back,£540k
+1143,Domagoj Bradaric,Left-Back,£5.85m
+1146,Reinildo Mandava,Left-Back,£1.80m
+1149,Zeki Celik,Right-Back,£15.30m
+1152,Jérémy Pied,Right-Back,£2.25m
+1155,Boubakary Soumaré,Defensive Midfield,£16.20m
+1158,Thiago Maia,Defensive Midfield,£3.60m
+1161,Renato Sanches,Central Midfield,£16.20m
+1164,Xeka,Central Midfield,£9.00m
+1167,Benjamin André,Central Midfield,£9.00m
+1170,Jonathan Ikoné,Attacking Midfield,£24.30m
+1173,Yusuf Yazici,Attacking Midfield,£14.40m
+1176,Jonathan Bamba,Left Winger,£18.00m
+1179,Luiz Araújo,Left Winger,£6.30m
+1182,Victor Osimhen,Centre-Forward,£11.70m
+1185,Timothy Weah,Centre-Forward,£7.20m
+1188,Loïc Rémy,Centre-Forward,£2.70m
+1191,Stéphane Ruffier,Goalkeeper,£3.15m
+1194,Jessy Moulin,Goalkeeper,£225k
+1197,Théo Vermot,Goalkeeper,£135k
+1200,Stefan Bajic,Goalkeeper,£135k
+1203,William Saliba,Centre-Back,£22.50m
+1206,Timothée Kolodziejczak,Centre-Back,£5.40m
+1209,Harold Moukoudi,Centre-Back,£2.70m
+1212,Loïc Perrin,Centre-Back,£1.80m
+1215,Léo Lacroix,Centre-Back,£1.13m
+1218,Gabriel Silva,Left-Back,£2.25m
+1221,Miguel Trauco,Left-Back,£1.58m
+1224,Sergi Palencia,Right-Back,£3.60m
+1227,Mathieu Debuchy,Right-Back,£2.70m
+1230,Alpha Sissoko,Right-Back,£450k
+1233,Yann M'Vila,Defensive Midfield,£9.00m
+1236,Jean-Eudes Aholou,Defensive Midfield,£6.30m
+1239,Assane Dioussé,Defensive Midfield,£4.05m
+1242,Zaydou Youssouf,Central Midfield,£3.60m
+1245,Yohan Cabaye,Central Midfield,£1.80m
+1248,Mahdi Camara,Central Midfield,£270k
+1251,Wahbi Khazri,Attacking Midfield,£14.40m
+1254,Ryad Boudebouz,Attacking Midfield,£5.40m
+1257,Denis Bouanga,Left Winger,£5.40m
+1260,Arnaud Nordin,Left Winger,£3.15m
+1263,Kévin Monnet-Paquet,Left Winger,£1.80m
+1266,Romain Hamouma,Right Winger,£2.25m
+1269,Franck Honorat,Right Winger,£1.80m
+1272,Loïs Diony,Centre-Forward,£4.50m
+1275,Robert Beric,Centre-Forward,£4.50m
+1278,Charles Abi,Centre-Forward,£450k
+1281,Edouard Mendy,Goalkeeper,£8.10m
+1284,Romain Salin,Goalkeeper,£180k
+1290,Joris Gnagnon,Centre-Back,£5.40m
+1293,Jérémy Gelin,Centre-Back,£5.40m
+1296,Damien Da Silva,Centre-Back,£4.50m
+1299,Gerzino Nyamsi,Centre-Back,£1.80m
+1302,Jérémy Morel,Centre-Back,£225k
+1305,Faitout Maouassa,Left-Back,£7.20m
+1308,Souleyman Doumbia,Left-Back,£2.70m
+1311,Hamari Traoré,Right-Back,£5.40m
+1314,Sacha Boey,Right-Back,£720k
+1317,Eduardo Camavinga,Defensive Midfield,£18.00m
+1320,Benjamin Bourigeaud,Central Midfield,£13.50m
+1323,Clément Grenier,Central Midfield,£6.75m
+1326,Jonas Martin,Central Midfield,£4.50m
+1329,James Léa Siliki,Central Midfield,£3.60m
+1332,Jakob Johansson,Central Midfield,£2.25m
+1335,Adrien Hunou,Attacking Midfield,£5.40m
+1338,Rafik Guitane,Attacking Midfield,£4.50m
+1341,Yann Gboho,Attacking Midfield,£135k
+1344,Flavien Tait,Left Winger,£7.20m
+1347,Raphinha,Right Winger,£12.60m
+1350,Romain Del Castillo,Right Winger,£3.15m
+1353,M'Baye Niang,Centre-Forward,£10.80m
+1356,Jordan Siebatcheu,Centre-Forward,£5.40m
+1359,Diafra Sakho,Centre-Forward,£1.80m
+1362,Metehan Güclü,Centre-Forward,£450k
+1365,Rúnar Alex Rúnarsson,Goalkeeper,£2.25m
+1368,Alfred Gomis,Goalkeeper,£1.80m
+1371,Lévi Ntumba,Goalkeeper,£270k
+1374,Nayef Aguerd,Centre-Back,£2.70m
+1377,Bruno Ecuele Manga,Centre-Back,£2.70m
+1380,Wesley Lautoa,Centre-Back,£1.80m
+1383,Senou Coulibaly,Centre-Back,£900k
+1386,Théo Barbet,Centre-Back,£135k
+1389,Hamza Mendyl,Left-Back,£3.60m
+1392,Ngonda Muzinga,Left-Back,£450k
+1395,Mickaël Alphonse,Right-Back,£810k
+1398,Fouad Chafik,Right-Back,£720k
+1401,Enzo Loiodice,Central Midfield,£4.95m
+1404,Didier Ndong,Central Midfield,£3.60m
+1407,Romain Amalfitano,Central Midfield,£1.80m
+1410,Jordan Marié,Central Midfield,£1.35m
+1413,Florent Balmont,Central Midfield,£225k
+1416,Matheus Pereira,Attacking Midfield,£900k
+1419,Frédéric Sammaritano,Attacking Midfield,£450k
+1422,Bryan Soumaré,Attacking Midfield,£360k
+1425,Mounir Chouiar,Left Winger,£3.60m
+1428,Mama Baldé,Right Winger,£2.25m
+1431,Julio Tavarès,Centre-Forward,£2.70m
+1434,Jhonder Cádiz,Centre-Forward,£1.80m
+1437,Stephy Mavididi,Centre-Forward,£900k
+1440,Régis Gurtner,Goalkeeper,£1.58m
+1443,Matthieu Dreyer,Goalkeeper,£360k
+1449,Prince Gouano,Centre-Back,£6.30m
+1452,Bakaye Dibassy,Centre-Back,£2.70m
+1455,Jordan Lefort,Centre-Back,£2.70m
+1458,Arturo Calabresi,Centre-Back,£1.62m
+1461,Aurélien Chedjou,Centre-Back,£360k
+1464,Haitam Aleesami,Left-Back,£1.35m
+1467,Sanasi Sy,Left-Back,£135k
+1470,Christophe Jallet,Right-Back,£450k
+1473,Valentin Gendrey,Right-Back,£135k
+1476,Alexis Blin,Defensive Midfield,£4.50m
+1479,Thomas Monconduit,Defensive Midfield,£3.15m
+1482,Mathieu Bodmer,Defensive Midfield,£225k
+1485,Eddy Gnahoré,Central Midfield,£3.60m
+1488,Bongani Zungu,Central Midfield,£2.25m
+1491,Madih Talal,Central Midfield,£270k
+1494,Jonathan Bumbu,Central Midfield,£135k
+1497,Rafal Kurzawa,Left Midfield,£1.35m
+1500,Gaël Kakuta,Attacking Midfield,£1.80m
+1503,Ulrick Eneme Ella,Attacking Midfield,£270k
+1506,Jayson Papeau,Attacking Midfield,£135k
+1509,Stiven Mendoza,Left Winger,£2.70m
+1512,Chadrac Akolo,Left Winger,£1.80m
+1515,Jack Lahne,Left Winger,£900k
+1521,Juan Ferney Otero,Right Winger,£3.60m
+1524,Fousseni Diabaté,Right Winger,£2.70m
+1527,Quentin Cornette,Right Winger,£270k
+1530,Moussa Konaté,Centre-Forward,£6.30m
+1533,Saman Ghoddos,Centre-Forward,£4.50m
+1536,Serhou Guirassy,Centre-Forward,£4.50m
+1542,Baptiste Reynet,Goalkeeper,£4.50m
+1545,Mauro Goicoechea,Goalkeeper,£720k
+1548,Florentin Bloch,Goalkeeper,£135k
+1551,Bafodé Diakité,Centre-Back,£5.40m
+1554,Gen Shoji,Centre-Back,£3.15m
+1557,Agustín Rogel,Centre-Back,£2.25m
+1560,Nicolas Isimat-Mirin,Centre-Back,£1.13m
+1563,Moussa Diarra,Centre-Back,£135k
+1566,Anthony Rouault,Centre-Back,£135k
+1569,Issiaga Sylla,Left-Back,£3.15m
+1572,Mathieu Gonçalves,Left-Back,£450k
+1575,Kelvin Amian,Right-Back,£6.30m
+1578,Steven Moreira,Right-Back,£1.80m
+1581,Ibrahim Sangaré,Defensive Midfield,£13.50m
+1584,Kalidou Sidibé,Defensive Midfield,£3.15m
+1587,William Vainqueur,Defensive Midfield,£1.13m
+1590,Jean-Victor Makengo,Central Midfield,£5.40m
+1593,Quentin Boisgard,Attacking Midfield,£1.35m
+1596,Amine Adli,Attacking Midfield,£135k
+1599,Kouadio Koné,Attacking Midfield,£135k
+1602,Max Gradel,Left Winger,£7.20m
+1605,Adil Taoui,Left Winger,£135k
+1608,Wesley Saïd,Right Winger,£6.75m
+1611,Corentin Jean,Right Winger,£2.25m
+1614,Mathieu Dossevi,Right Winger,£2.25m
+1617,Nathan N'Goumou,Right Winger,£270k
+1620,Efthymios Koulouris,Centre-Forward,£4.50m
+1623,Aaron Leya Iseka,Centre-Forward,£2.70m
+1626,Yaya Sanogo,Centre-Forward,£2.25m
+1629,Stéphane Zobo,Centre-Forward,£135k

@@ -1,0 +1,531 @@
+,Player,POS,Valuation
+0,Tomas Koubek,Goalkeeper,£5.40m
+3,Andreas Luthe,Goalkeeper,£630k
+6,Fabian Giefer,Goalkeeper,£270k
+9,Benjamin Leneis,Goalkeeper,£270k
+12,Jeffrey Gouweleeuw,Centre-Back,£10.80m
+15,Tin Jedvaj,Centre-Back,£6.75m
+18,Felix Uduokhai,Centre-Back,£5.85m
+21,Reece Oxford,Centre-Back,£2.70m
+24,Marek Suchy,Centre-Back,£2.03m
+27,Jozo Stanic,Centre-Back,£180k
+30,Philipp Max,Left-Back,£15.30m
+33,Iago,Left-Back,£4.50m
+36,Mads Pedersen,Left-Back,£810k
+39,Stephan Lichtsteiner,Right-Back,£1.35m
+42,Raphael Framberger,Right-Back,£900k
+45,Simon Asta,Right-Back,£225k
+48,Rani Khedira,Defensive Midfield,£9.00m
+51,Carlos Gruezo,Defensive Midfield,£1.80m
+54,Felix Götze,Defensive Midfield,£900k
+57,Daniel Baier,Defensive Midfield,£720k
+60,Jan Morávek,Central Midfield,£675k
+63,Georg Teigl,Right Midfield,£630k
+66,Fredrik Jensen,Attacking Midfield,£2.25m
+69,Marco Richter,Left Winger,£9.00m
+72,Ruben Vargas,Left Winger,£6.30m
+75,André Hahn,Right Winger,£3.15m
+78,Noah Sarenren Bazee,Right Winger,£1.13m
+81,Michael Gregoritsch,Second Striker,£10.80m
+84,Alfred Finnbogason,Centre-Forward,£13.50m
+87,Florian Niederlechner,Centre-Forward,£4.50m
+90,Sergio Córdova,Centre-Forward,£1.80m
+93,Julian Schieber,Centre-Forward,£675k
+96,Maurice Malone,Centre-Forward,£315k
+99,Seong-hoon Cheon,Centre-Forward,£225k
+102,Roman Bürki,Goalkeeper,£12.60m
+105,Marwin Hitz,Goalkeeper,£2.25m
+108,Luca Unbehaun,Goalkeeper,£360k
+111,Eric Oelschlägel,Goalkeeper,£270k
+114,Manuel Akanji,Centre-Back,£36.00m
+117,Mats Hummels,Centre-Back,£31.50m
+120,Dan-Axel Zagadou,Centre-Back,£25.20m
+123,Leonardo Balerdi,Centre-Back,£12.60m
+126,Nico Schulz,Left-Back,£22.50m
+129,Marcel Schmelzer,Left-Back,£2.25m
+132,Achraf Hakimi,Right-Back,£27.00m
+135,Lukasz Piszczek,Right-Back,£2.70m
+138,Mateu Morey,Right-Back,£900k
+141,Axel Witsel,Defensive Midfield,£28.80m
+144,Julian Weigl,Defensive Midfield,£22.50m
+147,Tobias Raschl,Defensive Midfield,£720k
+150,Thomas Delaney,Central Midfield,£24.30m
+153,Mahmoud Dahoud,Central Midfield,£9.00m
+156,Raphaël Guerreiro,Left Midfield,£22.50m
+159,Marco Reus,Attacking Midfield,£45.00m
+162,Julian Brandt,Left Winger,£45.00m
+165,Thorgan Hazard,Left Winger,£34.20m
+168,Jacob Bruun Larsen,Left Winger,£13.50m
+171,Jadon Sancho,Right Winger,£90.00m
+174,Paco Alcácer,Centre-Forward,£45.00m
+177,Mario Götze,Centre-Forward,£19.80m
+180,Péter Gulácsi,Goalkeeper,£10.80m
+183,Yvon Mvogo,Goalkeeper,£2.70m
+186,Philipp Tschauner,Goalkeeper,£360k
+189,Ibrahima Konaté,Centre-Back,£40.50m
+192,Dayot Upamecano,Centre-Back,£36.00m
+195,Willi Orban,Centre-Back,£18.00m
+198,Ethan Ampadu,Centre-Back,£9.00m
+201,Frederik Jäkel,Centre-Back,£135k
+204,Malik Talabidi,Centre-Back,£135k
+207,Marcel Halstenberg,Left-Back,£19.80m
+210,Marcelo Saracchi,Left-Back,£9.00m
+213,Luan Cândido,Left-Back,£3.60m
+216,Lukas Klostermann,Right-Back,£27.00m
+219,Nordi Mukiele,Right-Back,£19.80m
+222,Diego Demme,Defensive Midfield,£15.30m
+225,Tyler Adams,Defensive Midfield,£11.70m
+228,Stefan Ilsanker,Defensive Midfield,£2.70m
+231,Tom Krauß,Defensive Midfield,£270k
+234,Kevin Kampl,Central Midfield,£19.80m
+237,Amadou Haidara,Central Midfield,£18.00m
+240,Konrad Laimer,Central Midfield,£15.30m
+243,Christopher Nkunku,Central Midfield,£13.50m
+246,Mads Bidstrup,Central Midfield,£900k
+249,Hannes Wolf,Attacking Midfield,£10.80m
+252,Emil Forsberg,Left Winger,£22.50m
+255,Ademola Lookman,Left Winger,£18.00m
+258,Marcel Sabitzer,Right Winger,£27.00m
+261,Fabrice Hartmann,Right Winger,£360k
+264,Timo Werner,Centre-Forward,£58.50m
+267,Yussuf Poulsen,Centre-Forward,£31.50m
+270,Matheus Cunha,Centre-Forward,£13.50m
+273,Patrik Schick,Centre-Forward,£13.50m
+276,Rune Jarstein,Goalkeeper,£1.80m
+279,Thomas Kraft,Goalkeeper,£675k
+282,Dennis Smarsch,Goalkeeper,£180k
+285,Niklas Stark,Centre-Back,£18.00m
+288,Karim Rekik,Centre-Back,£13.50m
+291,Jordan Torunarigha,Centre-Back,£9.00m
+294,Dedryck Boyata,Centre-Back,£3.60m
+297,Florian Baak,Centre-Back,£360k
+300,Maximilian Mittelstädt,Left-Back,£9.90m
+303,Marvin Plattenhardt,Left-Back,£9.00m
+306,Lukas Klünter,Right-Back,£3.60m
+309,Peter Pekarik,Right-Back,£720k
+312,Arne Maier,Defensive Midfield,£21.60m
+315,Marko Grujic,Central Midfield,£18.00m
+318,Eduard Löwen,Central Midfield,£6.30m
+321,Vladimir Darida,Central Midfield,£3.60m
+324,Per Ciljan Skjelbred,Central Midfield,£1.58m
+327,Sidney Friede,Central Midfield,£630k
+330,Julian Albrecht,Central Midfield,£270k
+333,Ondrej Duda,Attacking Midfield,£15.30m
+336,Javairô Dilrosun,Left Winger,£10.80m
+339,Salomon Kalou,Left Winger,£2.70m
+342,Dennis Jastrzembski,Left Winger,£720k
+345,Dodi Lukebakio,Right Winger,£16.20m
+348,Marius Wolf,Right Winger,£7.20m
+351,Mathew Leckie,Right Winger,£3.15m
+354,Alexander Esswein,Right Winger,£900k
+357,Palko Dárdai,Right Winger,£900k
+360,Maurice Covic,Right Winger,£180k
+363,Davie Selke,Centre-Forward,£13.50m
+366,Daishawn Redan,Centre-Forward,£3.60m
+369,Vedad Ibisevic,Centre-Forward,£1.80m
+372,Pascal Köpke,Centre-Forward,£900k
+375,Muhammed Kiprit,Centre-Forward,£270k
+378,Alexander Schwolow,Goalkeeper,£8.10m
+381,Mark Flekken,Goalkeeper,£540k
+384,Niclas Thiede,Goalkeeper,£45k
+387,Robin Koch,Centre-Back,£9.00m
+390,Dominique Heintz,Centre-Back,£6.75m
+393,Philipp Lienhart,Centre-Back,£6.30m
+396,Manuel Gulde,Centre-Back,£3.60m
+399,Nico Schlotterbeck,Centre-Back,£2.25m
+402,Christian Günter,Left-Back,£8.10m
+405,Luca Itter,Left-Back,£1.80m
+408,Jonathan Schmid,Right-Back,£4.50m
+411,Lukas Kübler,Right-Back,£2.25m
+414,Nicolas Höfler,Defensive Midfield,£3.60m
+417,Amir Abrashi,Defensive Midfield,£2.25m
+420,Janik Haberer,Central Midfield,£9.00m
+423,Jérôme Gondorf,Central Midfield,£1.35m
+426,Mike Frantz,Central Midfield,£900k
+429,Lino Tempelmann,Central Midfield,£360k
+432,Vincenzo Grifo,Left Winger,£8.10m
+435,Roland Sallai,Left Winger,£4.05m
+438,Marco Terrazzino,Left Winger,£1.35m
+441,Florian Kath,Left Winger,£450k
+444,Chang-hun Kwon,Right Winger,£4.95m
+447,Woo-yeong Jeong,Right Winger,£1.80m
+450,Yoric Ravet,Right Winger,£1.13m
+453,Brandon Borrello,Right Winger,£1.08m
+456,Luca Waldschmidt,Centre-Forward,£18.00m
+459,Nils Petersen,Centre-Forward,£7.20m
+462,Lucas Höler,Centre-Forward,£2.70m
+465,Yann Sommer,Goalkeeper,£10.80m
+468,Tobias Sippel,Goalkeeper,£675k
+471,Max Grün,Goalkeeper,£135k
+474,Matthias Ginter,Centre-Back,£31.50m
+477,Nico Elvedi,Centre-Back,£27.00m
+480,Tony Jantschke,Centre-Back,£2.70m
+483,Mamadou Doucouré,Centre-Back,£450k
+486,Ramy Bensebaini,Left-Back,£7.20m
+489,Andreas Poulsen,Left-Back,£2.70m
+492,Oscar Wendt,Left-Back,£1.80m
+495,Stefan Lainer,Right-Back,£11.25m
+498,Jordan Beyer,Right-Back,£2.25m
+501,Denis Zakaria,Defensive Midfield,£25.20m
+504,Christoph Kramer,Defensive Midfield,£9.00m
+507,Tobias Strobl,Defensive Midfield,£6.30m
+510,Florian Neuhaus,Central Midfield,£19.80m
+513,Jonas Hofmann,Central Midfield,£8.10m
+516,Lászlo Bénes,Central Midfield,£3.60m
+519,Torben Müsel,Attacking Midfield,£315k
+522,Fabian Johnson,Left Winger,£2.70m
+525,Keanan Bennetts,Left Winger,£1.80m
+528,Patrick Herrmann,Right Winger,£4.05m
+531,Ibrahima Traoré,Right Winger,£1.80m
+534,Lars Stindl,Second Striker,£9.00m
+537,Raffael,Second Striker,£2.25m
+540,Alassane Plea,Centre-Forward,£27.00m
+543,Breel Embolo,Centre-Forward,£12.60m
+546,Marcus Thuram,Centre-Forward,£10.80m
+549,Julio Villalba,Centre-Forward,£675k
+552,Lukas Hradecky,Goalkeeper,£7.20m
+555,Ramazan Özcan,Goalkeeper,£270k
+558,Niklas Lomb,Goalkeeper,£225k
+561,Jonathan Tah,Centre-Back,£36.00m
+564,Panagiotis Retsos,Centre-Back,£8.10m
+567,Sven Bender,Centre-Back,£8.10m
+570,Aleksandar Dragovic,Centre-Back,£8.10m
+573,Wendell,Left-Back,£18.00m
+576,Daley Sinkgraven,Left-Back,£2.70m
+579,Mitchell Weiser,Right-Back,£12.60m
+582,Lars Bender,Defensive Midfield,£8.10m
+585,Julian Baumgartlinger,Defensive Midfield,£3.15m
+588,Adrian Stanilewicz,Defensive Midfield,£180k
+591,Kerem Demirbay,Central Midfield,£28.80m
+594,Charles Aránguiz,Central Midfield,£13.50m
+597,Kai Havertz,Attacking Midfield,£81.00m
+600,Nadiem Amiri,Attacking Midfield,£13.50m
+603,Leon Bailey,Left Winger,£36.00m
+606,Paulinho,Left Winger,£13.50m
+609,Moussa Diaby,Left Winger,£13.50m
+612,Karim Bellarabi,Right Winger,£13.50m
+615,Kevin Volland,Centre-Forward,£31.50m
+618,Lucas Alario,Centre-Forward,£15.30m
+621,Joel Pohjanpalo,Centre-Forward,£900k
+624,Koen Casteels,Goalkeeper,£11.70m
+627,Pavao Pervan,Goalkeeper,£720k
+630,Phillip Menzel,Goalkeeper,£135k
+633,Niklas Klinger,Goalkeeper,£90k
+636,John Anthony Brooks,Centre-Back,£13.50m
+639,Robin Knoche,Centre-Back,£7.20m
+642,Marcel Tisserand,Centre-Back,£4.05m
+645,Jeffrey Bruma,Centre-Back,£2.25m
+648,Jérôme Roussillon,Left-Back,£18.00m
+651,Paulo Otávio,Left-Back,£900k
+654,William,Right-Back,£9.90m
+657,Kevin Mbabu,Right-Back,£9.00m
+660,Josuha Guilavogui,Defensive Midfield,£10.80m
+663,Ignacio Camacho,Defensive Midfield,£4.50m
+666,Maximilian Arnold,Central Midfield,£16.20m
+669,Xaver Schlager,Central Midfield,£13.50m
+672,Yannick Gerhardt,Central Midfield,£9.00m
+675,Elvis Rexhbecaj,Central Midfield,£7.20m
+678,Yunus Malli,Attacking Midfield,£4.50m
+681,Josip Brekalo,Left Winger,£13.50m
+684,João Victor,Left Winger,£2.70m
+687,Renato Steffen,Right Winger,£4.50m
+690,Felix Klaus,Right Winger,£2.70m
+693,Ismail Azzaoui,Right Winger,£360k
+696,Admir Mehmedi,Second Striker,£9.00m
+699,Wout Weghorst,Centre-Forward,£22.50m
+702,Daniel Ginczek,Centre-Forward,£10.80m
+705,Lukas Nmecha,Centre-Forward,£900k
+708,Zack Steffen,Goalkeeper,£6.30m
+711,Michael Rensing,Goalkeeper,£450k
+714,Raphael Wolf,Goalkeeper,£450k
+717,Florian Kastenmeier,Goalkeeper,£90k
+720,Tim Wiesner,Goalkeeper,£90k
+723,Kaan Ayhan,Centre-Back,£8.10m
+726,Kasim Adams,Centre-Back,£6.30m
+729,André Hoffmann,Centre-Back,£2.25m
+732,Robin Bormuth,Centre-Back,£1.58m
+735,Niko Gießelmann,Left-Back,£3.60m
+738,Markus Suttner,Left-Back,£1.35m
+741,Diego Contento,Left-Back,£900k
+744,Georgios Siadas,Left-Back,£180k
+747,Matthias Zimmermann,Right-Back,£4.50m
+750,Jean Zimmer,Right-Back,£2.48m
+753,Marcel Sobottka,Defensive Midfield,£3.15m
+756,Adam Bodzek,Defensive Midfield,£360k
+759,Lewis Baker,Central Midfield,£3.60m
+762,Alfredo Morales,Central Midfield,£2.70m
+765,Oliver Fink,Central Midfield,£225k
+768,Johannes Bühler,Right Midfield,£90k
+771,Erik Thommy,Left Midfield,£3.15m
+774,Kevin Stöger,Attacking Midfield,£4.50m
+777,Aymen Barkok,Attacking Midfield,£1.80m
+780,Thomas Pledl,Attacking Midfield,£900k
+783,Kelvin Ofori,Attacking Midfield,£270k
+786,Shinta Appelkamp,Attacking Midfield,£90k
+789,Kenan Karaman,Left Winger,£2.25m
+792,Nana Ampomah,Left Winger,£2.25m
+795,Davor Lovren,Left Winger,£540k
+798,Bernard Tekpetey,Right Winger,£2.25m
+801,Dawid Kownacki,Centre-Forward,£8.10m
+804,Rouwen Hennings,Centre-Forward,£1.35m
+807,Rafal Gikiewicz,Goalkeeper,£900k
+810,Jakob Busk,Goalkeeper,£360k
+813,Moritz Nicolas,Goalkeeper,£135k
+816,Leo Oppermann,Goalkeeper,£45k
+819,Neven Subotic,Centre-Back,£2.70m
+822,Marvin Friedrich,Centre-Back,£2.70m
+825,Florian Hübner,Centre-Back,£1.58m
+828,Keven Schlotterbeck,Centre-Back,£900k
+831,Nicolai Rapp,Centre-Back,£540k
+834,Michael Parensen,Centre-Back,£225k
+837,Lennard Maloney,Centre-Back,£135k
+840,Christopher Lenz,Left-Back,£720k
+843,Ken Reichel,Left-Back,£540k
+846,Christopher Trimmel,Right-Back,£540k
+849,Julian Ryerson,Right-Back,£450k
+852,Manuel Schmiedebach,Defensive Midfield,£900k
+855,Maurice Opfermann Arcones,Defensive Midfield,£135k
+858,Grischa Prömel,Central Midfield,£1.80m
+861,Christian Gentner,Central Midfield,£1.35m
+864,Robert Andrich,Central Midfield,£900k
+867,Felix Kroos,Central Midfield,£720k
+870,Julius Kade,Attacking Midfield,£360k
+873,Laurenz Dehl,Attacking Midfield,£135k
+876,Joshua Mees,Left Winger,£900k
+879,Marius Bülter,Left Winger,£900k
+882,Suleiman Abdullahi,Right Winger,£1.80m
+885,Akaki Gogia,Right Winger,£1.13m
+888,Sheraldo Becker,Right Winger,£1.13m
+891,Florian Flecker,Right Winger,£810k
+894,Sebastian Andersson,Centre-Forward,£2.25m
+897,Sebastian Polter,Centre-Forward,£2.03m
+900,Anthony Ujah,Centre-Forward,£1.35m
+903,Marcus Ingvartsen,Centre-Forward,£1.35m
+906,Leopold Zingerle,Goalkeeper,£675k
+909,Jannik Huth,Goalkeeper,£675k
+912,Michael Ratajczak,Goalkeeper,£90k
+915,Leon Brüggemeier,Goalkeeper,£90k
+918,Sebastian Schonlau,Centre-Back,£1.35m
+921,Christian Strohdiek,Centre-Back,£540k
+924,Uwe Hünemeier,Centre-Back,£360k
+927,Luca Kilian,Centre-Back,£360k
+930,Jan-Luca Rumpf,Centre-Back,£135k
+933,Jamilu Collins,Left-Back,£2.70m
+936,Mohamed Dräger,Right-Back,£2.25m
+939,Laurent Jans,Right-Back,£630k
+942,Klaus Gjasula,Defensive Midfield,£675k
+945,Dominik Bilogrevic,Defensive Midfield,£45k
+948,Sebastian Vasiliadis,Central Midfield,£3.15m
+951,Rifet Kapic,Central Midfield,£585k
+954,Cauly,Right Midfield,£1.35m
+957,Christopher Antwi-Adjei,Left Midfield,£1.35m
+960,Abdelhamid Sabiri,Attacking Midfield,£900k
+963,Marlon Ritter,Attacking Midfield,£450k
+966,Gerrit Holtmann,Left Winger,£1.35m
+969,Kai Pröger,Right Winger,£720k
+972,Marcel Hilßner,Right Winger,£360k
+975,Johannes Dörfler,Right Winger,£225k
+978,Sven Michel,Centre-Forward,£1.13m
+981,Streli Mamba,Centre-Forward,£900k
+984,Babacar Gueye,Centre-Forward,£675k
+987,Ben Zolinski,Centre-Forward,£675k
+990,Khiry Shelton,Centre-Forward,£450k
+993,Kevin Trapp,Goalkeeper,£9.00m
+996,Frederik Rönnow,Goalkeeper,£1.35m
+999,Felix Wiedwald,Goalkeeper,£540k
+1002,Jan Zimmermann,Goalkeeper,£225k
+1005,Evan N'Dicka,Centre-Back,£19.80m
+1008,Martin Hinteregger,Centre-Back,£10.80m
+1011,Almamy Touré,Centre-Back,£5.85m
+1014,Simon Falette,Centre-Back,£3.60m
+1017,David Abraham,Centre-Back,£2.25m
+1020,Marco Russ,Centre-Back,£675k
+1023,Erik Durm,Left-Back,£1.80m
+1026,Danny da Costa,Right-Back,£13.50m
+1029,Timothy Chandler,Right-Back,£3.60m
+1032,Lucas Torró,Defensive Midfield,£3.15m
+1035,Gelson Fernandes,Defensive Midfield,£1.35m
+1038,Makoto Hasebe,Defensive Midfield,£900k
+1041,Nils Stendera,Defensive Midfield,£180k
+1044,Sahverdi Cetin,Defensive Midfield,£180k
+1047,Djibril Sow,Central Midfield,£8.10m
+1050,Dominik Kohr,Central Midfield,£7.65m
+1053,Sebastian Rode,Central Midfield,£4.50m
+1056,Jonathan de Guzmán,Central Midfield,£2.25m
+1059,Marijan Cavar,Central Midfield,£360k
+1062,Filip Kostic,Left Midfield,£34.20m
+1065,Mijat Gacinovic,Attacking Midfield,£9.90m
+1068,Daichi Kamada,Attacking Midfield,£8.10m
+1071,Patrick Finger,Attacking Midfield,£135k
+1074,André Silva,Centre-Forward,£19.80m
+1077,Bas Dost,Centre-Forward,£9.00m
+1080,Gonçalo Paciência,Centre-Forward,£8.10m
+1083,Dejan Joveljic,Centre-Forward,£3.60m
+1086,Timo Horn,Goalkeeper,£5.40m
+1089,Thomas Kessler,Goalkeeper,£225k
+1092,Julian Krahl,Goalkeeper,£180k
+1095,Brady Scott,Goalkeeper,£90k
+1098,Jorge Meré,Centre-Back,£9.00m
+1101,Sebastiaan Bornauw,Centre-Back,£5.85m
+1104,Rafael Czichos,Centre-Back,£1.80m
+1107,Lasse Sobiech,Centre-Back,£1.08m
+1110,Jonas Hector,Left-Back,£9.00m
+1113,Noah Katterbach,Left-Back,£810k
+1116,Kingsley Ehizibue,Right-Back,£2.25m
+1119,Benno Schmitz,Right-Back,£900k
+1122,Matthias Bader,Right-Back,£450k
+1125,Ellyes Skhiri,Defensive Midfield,£10.80m
+1128,Birger Verstraete,Defensive Midfield,£3.60m
+1131,Marco Höger,Defensive Midfield,£1.80m
+1134,Vincent Koziello,Central Midfield,£1.80m
+1137,Niklas Hauptmann,Central Midfield,£1.80m
+1140,Christian Clemens,Right Midfield,£1.58m
+1143,Marcel Risse,Right Midfield,£1.35m
+1146,Louis Schaub,Attacking Midfield,£3.60m
+1149,Dominick Drexler,Attacking Midfield,£3.60m
+1152,Florian Kainz,Left Winger,£2.70m
+1155,Darko Churlinov,Left Winger,£360k
+1158,Kingsley Schindler,Right Winger,£2.70m
+1161,Anthony Modeste,Centre-Forward,£6.30m
+1164,Jhon Córdoba,Centre-Forward,£5.85m
+1167,Simon Terodde,Centre-Forward,£3.15m
+1170,Alexander Nübel,Goalkeeper,£10.80m
+1173,Markus Schubert,Goalkeeper,£900k
+1176,Michael Langer,Goalkeeper,£90k
+1179,Matija Nastasic,Centre-Back,£16.20m
+1182,Ozan Kabak,Centre-Back,£13.50m
+1185,Salif Sané,Centre-Back,£10.80m
+1188,Benjamin Stambouli,Centre-Back,£9.00m
+1191,Juan Miranda,Left-Back,£4.50m
+1194,Bastian Oczipka,Left-Back,£3.60m
+1197,Jonas Carls,Left-Back,£180k
+1200,Jonjoe Kenny,Right-Back,£7.20m
+1203,Omar Mascarell,Defensive Midfield,£7.20m
+1206,Weston McKennie,Central Midfield,£18.00m
+1209,Suat Serdar,Central Midfield,£11.70m
+1212,Nabil Bentaleb,Central Midfield,£9.00m
+1215,Nassim Boujellab,Central Midfield,£1.35m
+1218,Levent Mercan,Central Midfield,£450k
+1221,Daniel Caligiuri,Right Midfield,£5.85m
+1224,Alessandro Schöpf,Right Midfield,£4.50m
+1227,Amine Harit,Attacking Midfield,£14.40m
+1230,Benito Raman,Left Winger,£9.00m
+1233,Rabbi Matondo,Right Winger,£8.10m
+1236,Steven Skrzybski,Right Winger,£3.15m
+1239,Mark Uth,Centre-Forward,£8.10m
+1242,Guido Burgstaller,Centre-Forward,£4.95m
+1245,Ahmed Kutucu,Centre-Forward,£4.05m
+1248,Fabian Reese,Centre-Forward,£540k
+1251,Jiri Pavlenka,Goalkeeper,£10.80m
+1254,Stefanos Kapino,Goalkeeper,£900k
+1257,Luca Plogmann,Goalkeeper,£450k
+1260,Milos Veljkovic,Centre-Back,£7.20m
+1263,Ömer Toprak,Centre-Back,£4.50m
+1266,Marco Friedl,Centre-Back,£3.15m
+1269,Sebastian Langkamp,Centre-Back,£1.80m
+1272,Niklas Moisander,Centre-Back,£1.80m
+1275,Christian Groß,Centre-Back,£270k
+1278,Ludwig Augustinsson,Left-Back,£10.80m
+1281,Michael Lang,Right-Back,£2.70m
+1284,Theodor Gebre Selassie,Right-Back,£2.25m
+1287,Nuri Sahin,Defensive Midfield,£2.25m
+1290,Philipp Bargfrede,Defensive Midfield,£2.25m
+1293,Ilia Gruev,Defensive Midfield,£180k
+1296,Maximilian Eggestein,Central Midfield,£27.00m
+1299,Davy Klaassen,Central Midfield,£19.80m
+1302,Kevin Möhwald,Central Midfield,£3.60m
+1305,Simon Straudi,Central Midfield,£180k
+1308,Leonardo Bittencourt,Attacking Midfield,£6.30m
+1311,David Philipp,Attacking Midfield,£90k
+1314,Milot Rashica,Left Winger,£18.00m
+1317,Johannes Eggestein,Right Winger,£9.00m
+1320,Benjamin Goller,Right Winger,£360k
+1323,Yuya Osako,Second Striker,£4.50m
+1326,Fin Bartels,Second Striker,£1.35m
+1329,Niclas Füllkrug,Centre-Forward,£7.20m
+1332,Josh Sargent,Centre-Forward,£5.40m
+1335,Claudio Pizarro,Centre-Forward,£450k
+1338,Luc Ihorst,Centre-Forward,£135k
+1341,Florian Müller,Goalkeeper,£9.00m
+1344,Robin Zentner,Goalkeeper,£900k
+1347,Omer Hanin,Goalkeeper,£270k
+1350,Finn Dahmen,Goalkeeper,£135k
+1353,Moussa Niakhaté,Centre-Back,£12.60m
+1356,Jeremiah St. Juste,Centre-Back,£8.10m
+1359,Stefan Bell,Centre-Back,£3.15m
+1362,Alexander Hack,Centre-Back,£2.25m
+1365,Ahmet Gürleyen,Centre-Back,£360k
+1368,Aarón Martín,Left-Back,£18.00m
+1371,Jonathan Meier,Left-Back,£630k
+1374,Ronaël Pierre-Gabriel,Right-Back,£3.60m
+1377,Daniel Brosinski,Right-Back,£2.25m
+1380,Phillipp Mwene,Right-Back,£1.35m
+1386,Pierre Kunde Malong,Central Midfield,£9.00m
+1389,Edimilson Fernandes,Central Midfield,£7.20m
+1392,Danny Latza,Central Midfield,£3.60m
+1395,Ridle Baku,Central Midfield,£3.15m
+1398,Leandro Barreiro Martins,Central Midfield,£450k
+1404,Levin Öztunali,Right Midfield,£3.15m
+1407,Jean-Paul Boëtius,Attacking Midfield,£5.40m
+1410,Alexandru Maxim,Attacking Midfield,£1.80m
+1413,Robin Quaison,Second Striker,£7.20m
+1416,Jean-Philippe Mateta,Centre-Forward,£19.80m
+1419,Taiwo Awoniyi,Centre-Forward,£4.05m
+1422,Karim Onisiwo,Centre-Forward,£3.15m
+1425,Ádám Szalai,Centre-Forward,£2.70m
+1428,Dong-won Ji,Centre-Forward,£1.58m
+1431,Jonathan Burkardt,Centre-Forward,£1.58m
+1434,Cyrill Akono,Centre-Forward,£450k
+1437,Aaron Seydel,Centre-Forward,£360k
+1440,Oliver Baumann,Goalkeeper,£7.20m
+1443,Philipp Pentke,Goalkeeper,£270k
+1446,Alexander Stolz,Goalkeeper,£90k
+1449,Kevin Vogt,Centre-Back,£10.80m
+1452,Stefan Posch,Centre-Back,£8.10m
+1455,Benjamin Hübner,Centre-Back,£6.30m
+1458,Ermin Bicakcic,Centre-Back,£3.60m
+1461,Kevin Akpoguma,Centre-Back,£3.60m
+1464,Lucas Ribeiro,Centre-Back,£2.70m
+1467,Konstantinos Stafylidis,Left-Back,£2.70m
+1470,Pavel Kaderabek,Right-Back,£18.00m
+1473,Joshua Brenet,Right-Back,£4.05m
+1476,Diadie Samassékou,Defensive Midfield,£15.30m
+1479,Dennis Geiger,Defensive Midfield,£7.65m
+1482,Sebastian Rudy,Defensive Midfield,£5.85m
+1485,Havard Nordtveit,Defensive Midfield,£2.25m
+1488,Florian Grillitsch,Central Midfield,£19.80m
+1491,Lukas Rupp,Central Midfield,£2.25m
+1494,Steven Zuber,Left Midfield,£6.30m
+1497,Robert Zulj,Attacking Midfield,£1.35m
+1500,Christoph Baumgartner,Attacking Midfield,£720k
+1503,Sargis Adamyan,Left Winger,£2.70m
+1506,Philipp Ochs,Left Winger,£540k
+1509,Robert Skov,Right Winger,£11.70m
+1512,Ihlas Bebou,Right Winger,£10.80m
+1515,Andrej Kramaric,Centre-Forward,£34.20m
+1518,Ishak Belfodil,Centre-Forward,£13.50m
+1521,Jürgen Locadia,Centre-Forward,£9.00m
+1524,Manuel Neuer,Goalkeeper,£16.20m
+1527,Sven Ulreich,Goalkeeper,£4.05m
+1530,Christian Früchtl,Goalkeeper,£450k
+1533,Ron-Thorben Hoffmann,Goalkeeper,£135k
+1536,Lucas Hernández,Centre-Back,£63.00m
+1539,Niklas Süle,Centre-Back,£54.00m
+1542,Benjamin Pavard,Centre-Back,£31.50m
+1545,Jérôme Boateng,Centre-Back,£13.50m
+1548,Lars Lukas Mai,Centre-Back,£2.25m
+1551,David Alaba,Left-Back,£49.50m
+1554,Joshua Kimmich,Right-Back,£63.00m
+1557,Javi Martínez,Defensive Midfield,£24.30m
+1560,Thiago,Central Midfield,£63.00m
+1563,Leon Goretzka,Central Midfield,£45.00m
+1566,Corentin Tolisso,Central Midfield,£36.00m
+1569,Michaël Cuisance,Central Midfield,£10.80m
+1572,Philippe Coutinho,Attacking Midfield,£81.00m
+1575,Kingsley Coman,Left Winger,£54.00m
+1578,Ivan Perisic,Left Winger,£21.60m
+1581,Alphonso Davies,Left Winger,£13.50m
+1584,Serge Gnabry,Right Winger,£54.00m
+1587,Thomas Müller,Second Striker,£31.50m
+1590,Robert Lewandowski,Centre-Forward,£58.50m
+1593,Fiete Arp,Centre-Forward,£3.60m

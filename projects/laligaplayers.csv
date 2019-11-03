@@ -1,0 +1,491 @@
+,Player,POS,Valuation
+0,Marc-André ter Stegen,Goalkeeper,£81.00m
+3,Neto,Goalkeeper,£16.20m
+6,Iñaki Peña,Goalkeeper,£2.25m
+9,Clément Lenglet,Centre-Back,£54.00m
+12,Samuel Umtiti,Centre-Back,£40.50m
+15,Gerard Piqué,Centre-Back,£31.50m
+18,Jean-Clair Todibo,Centre-Back,£7.20m
+21,Jordi Alba,Left-Back,£45.00m
+24,Júnior Firpo,Left-Back,£22.50m
+27,Nélson Semedo,Right-Back,£36.00m
+30,Moussa Wagué,Right-Back,£4.50m
+33,Sergio Busquets,Defensive Midfield,£45.00m
+36,Frenkie de Jong,Central Midfield,£76.50m
+39,Arthur,Central Midfield,£63.00m
+42,Sergi Roberto,Central Midfield,£45.00m
+45,Ivan Rakitic,Central Midfield,£31.50m
+48,Carles Aleñá,Central Midfield,£27.00m
+51,Arturo Vidal,Central Midfield,£13.50m
+54,Ousmane Dembélé,Left Winger,£90.00m
+57,Ansu Fati,Left Winger,£22.50m
+60,Lionel Messi,Right Winger,£135.00m
+63,Carles Pérez,Right Winger,£9.00m
+66,Antoine Griezmann,Centre-Forward,£117.00m
+69,Luis Suárez,Centre-Forward,£45.00m
+72,Oier Olazábal,Goalkeeper,£2.25m
+75,Aitor Fernández,Goalkeeper,£2.25m
+78,Rúben Vezo,Centre-Back,£5.40m
+81,Erick Cabaco,Centre-Back,£3.60m
+84,Rober Pier,Centre-Back,£2.25m
+87,Sergio Postigo,Centre-Back,£2.25m
+90,Óscar Duarte,Centre-Back,£900k
+93,Carlos Clerc,Left-Back,£1.80m
+96,Toño,Left-Back,£900k
+99,Jorge Miramón,Right-Back,£2.70m
+102,Coke,Right-Back,£1.80m
+105,Iván López,Right-Back,£360k
+108,Nemanja Radoja,Defensive Midfield,£2.70m
+111,Nikola Vukcevic,Defensive Midfield,£2.25m
+114,Enis Bardhi,Central Midfield,£13.50m
+117,José Campaña,Central Midfield,£13.50m
+120,Gonzalo Melero,Central Midfield,£3.60m
+123,Rubén Rochina,Attacking Midfield,£3.60m
+126,Hernâni,Right Winger,£2.25m
+129,Roger Martí,Centre-Forward,£9.00m
+132,José Luis Morales,Centre-Forward,£9.00m
+135,Borja Mayoral,Centre-Forward,£3.60m
+138,Sergio León,Centre-Forward,£2.70m
+141,Rubén Blanco,Goalkeeper,£2.70m
+144,Sergio Álvarez,Goalkeeper,£1.80m
+147,Iván Villar,Goalkeeper,£270k
+150,Néstor Araujo,Centre-Back,£7.20m
+153,Joseph Aidoo,Centre-Back,£7.20m
+156,David Costas,Centre-Back,£2.70m
+159,Jorge Sáenz,Centre-Back,£2.70m
+162,Lucas Olaza,Left-Back,£3.15m
+165,David Juncà,Left-Back,£1.35m
+168,Hugo Mallo,Right-Back,£13.50m
+171,Kevin Vázquez,Right-Back,£450k
+174,Stanislav Lobotka,Defensive Midfield,£22.50m
+177,Okay Yokuslu,Defensive Midfield,£10.80m
+180,Fran Beltrán,Central Midfield,£16.20m
+183,Pape Cheikh,Central Midfield,£6.30m
+186,Rafinha,Attacking Midfield,£13.50m
+189,Denis Suárez,Left Winger,£10.80m
+192,Pione Sisto,Left Winger,£7.20m
+195,Brais Méndez,Right Winger,£18.00m
+198,Juan Hernández,Right Winger,£900k
+201,Santi Mina,Centre-Forward,£27.00m
+204,Iago Aspas,Centre-Forward,£22.50m
+207,Gabriel Fernández,Centre-Forward,£2.70m
+210,Claudio Beauvue,Centre-Forward,£2.25m
+213,Joel Robles,Goalkeeper,£4.50m
+216,Dani Martín,Goalkeeper,£4.50m
+219,Marc Bartra,Centre-Back,£19.80m
+222,Aïssa Mandi,Centre-Back,£14.40m
+225,Sidnei,Centre-Back,£9.00m
+228,Zouhair Feddal,Centre-Back,£4.50m
+231,Alfonso Pedraza,Left-Back,£15.75m
+234,Álex Moreno,Left-Back,£6.30m
+237,Emerson,Right-Back,£5.40m
+240,Francis Guerrero,Right-Back,£3.60m
+243,Antonio Barragán,Right-Back,£1.80m
+246,William Carvalho,Defensive Midfield,£22.50m
+249,Javi García,Defensive Midfield,£1.80m
+252,Andrés Guardado,Central Midfield,£4.50m
+255,Wilfrid Kaptoum,Central Midfield,£3.60m
+258,Nabil Fekir,Attacking Midfield,£54.00m
+261,Sergio Canales,Attacking Midfield,£22.50m
+264,Diego Lainez,Left Winger,£12.60m
+267,Cristian Tello,Left Winger,£9.00m
+270,Juanmi,Right Winger,£7.20m
+273,Joaquín,Right Winger,£1.80m
+276,Borja Iglesias,Centre-Forward,£25.20m
+279,Loren Morón,Centre-Forward,£9.00m
+282,Andrii Lunin,Goalkeeper,£6.75m
+285,Jordi Masip,Goalkeeper,£5.40m
+288,Joaquín Fernández,Centre-Back,£2.70m
+291,Mohammed Salisu,Centre-Back,£2.25m
+294,Federico Barba,Centre-Back,£1.80m
+297,Kiko Olivas,Centre-Back,£1.80m
+300,Javi Sánchez,Centre-Back,£1.80m
+303,Nacho Martínez,Left-Back,£4.50m
+306,Pedro Porro,Right-Back,£9.00m
+309,Antoñito,Right-Back,£1.80m
+312,Javi Moyano,Right-Back,£720k
+315,Luismi,Defensive Midfield,£630k
+318,Rubén Alcaraz,Central Midfield,£9.00m
+321,Fede San Emeterio,Central Midfield,£4.50m
+324,Míchel,Central Midfield,£1.80m
+327,Anuar,Central Midfield,£1.35m
+330,Álvaro Aguado,Attacking Midfield,£540k
+333,Toni Villa,Left Winger,£3.60m
+336,Waldo Rubio,Left Winger,£900k
+339,Jorge de Frutos,Right Winger,£4.50m
+342,Pablo Hervías,Right Winger,£630k
+345,Sergi Guardiola,Centre-Forward,£4.50m
+348,Enes Ünal,Centre-Forward,£4.50m
+351,Óscar Plano,Centre-Forward,£3.60m
+354,Sandro Ramírez,Centre-Forward,£3.60m
+357,Tomas Vaclik,Goalkeeper,£16.20m
+360,Bono,Goalkeeper,£4.50m
+363,Javi Díaz,Goalkeeper,£180k
+366,Jules Koundé,Centre-Back,£22.50m
+369,Diego Carlos,Centre-Back,£13.50m
+372,Sergi Gómez,Centre-Back,£7.20m
+375,Daniel Carriço,Centre-Back,£2.70m
+378,Sergio Reguilón,Left-Back,£19.80m
+381,Sergio Escudero,Left-Back,£6.75m
+384,Jesús Navas,Right-Back,£3.60m
+387,Nemanja Gudelj,Defensive Midfield,£5.85m
+390,Fernando,Defensive Midfield,£4.05m
+393,Óliver Torres,Central Midfield,£15.30m
+396,Éver Banega,Central Midfield,£13.50m
+399,Joan Jordán,Central Midfield,£12.60m
+402,Franco Vázquez,Attacking Midfield,£13.50m
+405,Alejandro Pozo,Attacking Midfield,£2.25m
+408,Lucas Ocampos,Left Winger,£13.50m
+411,Bryan Gil,Left Winger,£9.00m
+414,Nolito,Left Winger,£1.80m
+417,Rony Lopes,Right Winger,£22.50m
+420,Munas Dabbur,Centre-Forward,£13.50m
+423,Chicharito,Centre-Forward,£10.80m
+426,Luuk de Jong,Centre-Forward,£10.80m
+429,Munir El Haddadi,Centre-Forward,£9.00m
+432,Marko Dmitrovic,Goalkeeper,£9.00m
+435,Yoel Rodríguez,Goalkeeper,£1.35m
+438,Paulo Oliveira,Centre-Back,£5.40m
+441,Pedro Bigas,Centre-Back,£2.70m
+444,Anaitz Arbilla,Centre-Back,£1.80m
+447,Esteban Burgos,Centre-Back,£900k
+450,Iván Ramis,Centre-Back,£900k
+453,José Ángel,Left-Back,£4.50m
+456,Álvaro Tejero,Right-Back,£2.70m
+459,Roberto Correa,Right-Back,£720k
+462,Pape Diop,Defensive Midfield,£1.35m
+465,Gonzalo Escalante,Central Midfield,£3.60m
+468,Edu Expósito,Central Midfield,£3.60m
+471,Sergio Álvarez,Central Midfield,£2.25m
+474,Takashi Inui,Left Winger,£3.60m
+477,Pablo de Blasis,Left Winger,£1.80m
+480,Fabián Orellana,Right Winger,£2.25m
+483,Pedro León,Right Winger,£1.62m
+486,Sergi Enrich,Centre-Forward,£6.75m
+489,Kike,Centre-Forward,£2.70m
+492,Charles,Centre-Forward,£1.80m
+495,Quique,Centre-Forward,£1.35m
+498,Jan Oblak,Goalkeeper,£90.00m
+501,Antonio Adán,Goalkeeper,£1.35m
+504,José Giménez,Centre-Back,£63.00m
+507,Stefan Savic,Centre-Back,£31.50m
+510,Mario Hermoso,Centre-Back,£22.50m
+513,Felipe,Centre-Back,£18.00m
+516,Renan Lodi,Left-Back,£13.50m
+519,Kieran Trippier,Right-Back,£31.50m
+522,Sime Vrsaljko,Right-Back,£18.00m
+525,Santiago Arias,Right-Back,£16.20m
+528,Thomas,Defensive Midfield,£45.00m
+531,Marcos Llorente,Defensive Midfield,£27.00m
+534,Saúl Ñíguez,Central Midfield,£81.00m
+537,Héctor Herrera,Central Midfield,£19.80m
+540,Koke,Right Midfield,£63.00m
+543,Thomas Lemar,Left Winger,£36.00m
+546,Vitolo,Left Winger,£16.20m
+549,Ángel Correa,Right Winger,£31.50m
+552,João Félix,Second Striker,£90.00m
+555,Álvaro Morata,Centre-Forward,£45.00m
+558,Diego Costa,Centre-Forward,£22.50m
+561,Ivan Saponjic,Centre-Forward,£2.70m
+564,Rui Silva,Goalkeeper,£2.25m
+567,Aarón Escandell,Goalkeeper,£270k
+570,Domingos Duarte,Centre-Back,£2.70m
+573,José Antonio Martínez,Centre-Back,£1.08m
+576,Neyder Lozano,Centre-Back,£540k
+579,Germán Sánchez,Centre-Back,£450k
+582,Álex Martínez,Left-Back,£900k
+585,Ismail Köybasi,Left-Back,£450k
+588,Carlos Neva,Left-Back,£180k
+591,Víctor Díaz,Right-Back,£1.08m
+594,Quini,Right-Back,£630k
+597,Maxime Gonalons,Defensive Midfield,£3.60m
+600,Yangel Herrera,Defensive Midfield,£1.80m
+603,Ángel Montoro,Central Midfield,£1.35m
+606,Yan Brice,Central Midfield,£900k
+609,Ramon Azeez,Central Midfield,£720k
+612,Fede Vico,Attacking Midfield,£1.35m
+615,Darwin Machís,Left Winger,£2.70m
+618,Álvaro Vadillo,Right Winger,£1.80m
+621,Antonio Puertas,Right Winger,£1.80m
+624,Carlos Fernández,Centre-Forward,£1.80m
+627,Roberto Soldado,Centre-Forward,£900k
+630,Adrián Ramos,Centre-Forward,£900k
+633,Sergio Asenjo,Goalkeeper,£10.80m
+636,Andrés Fernández,Goalkeeper,£1.35m
+639,Mariano Barbosa,Goalkeeper,£360k
+642,Ramiro Funes Mori,Centre-Back,£7.20m
+645,Pau Torres,Centre-Back,£5.40m
+648,Raúl Albiol,Centre-Back,£4.50m
+651,Alberto Moreno,Left-Back,£8.10m
+654,Xavi Quintillà,Left-Back,£1.80m
+657,Mario Gaspar,Right-Back,£9.00m
+660,Rubén Peña,Right-Back,£7.20m
+663,André Zambo Anguissa,Defensive Midfield,£22.50m
+666,Santiago Cáseres,Defensive Midfield,£9.00m
+669,Bruno Soriano,Defensive Midfield,£720k
+672,Manu Trigueros,Central Midfield,£13.50m
+675,Vicente Iborra,Central Midfield,£8.10m
+678,Santi Cazorla,Central Midfield,£3.60m
+681,Manu Morlanes,Central Midfield,£2.25m
+684,Javi Ontiveros,Left Winger,£6.75m
+687,Moi Gómez,Left Winger,£4.50m
+690,Samu Chukwueze,Right Winger,£27.00m
+693,Leo Suárez,Right Winger,£900k
+696,Gerard Moreno,Centre-Forward,£15.75m
+699,Karl Toko Ekambi,Centre-Forward,£15.75m
+702,Carlos Bacca,Centre-Forward,£4.50m
+705,Alex Remiro,Goalkeeper,£1.35m
+708,Miguel Ángel Moyà,Goalkeeper,£1.35m
+711,Andoni Zubiaurre,Goalkeeper,£270k
+714,Diego Llorente,Centre-Back,£22.50m
+717,Aritz Elustondo,Centre-Back,£9.00m
+720,Modibo Sagnan,Centre-Back,£4.05m
+723,Robin Le Normand,Centre-Back,£3.60m
+726,Nacho Monreal,Left-Back,£7.20m
+729,Aihen Muñoz,Left-Back,£6.75m
+732,Joseba Zaldua,Right-Back,£9.00m
+735,Andoni Gorosabel,Right-Back,£1.35m
+738,Igor Zubeldia,Defensive Midfield,£27.00m
+741,Asier Illarramendi,Defensive Midfield,£22.50m
+744,Mikel Merino,Central Midfield,£13.50m
+747,Rubén Pardo,Central Midfield,£3.60m
+750,Ander Guevara,Central Midfield,£2.25m
+753,David Zurutuza,Central Midfield,£2.25m
+756,Martin Ødegaard,Attacking Midfield,£18.00m
+759,Portu,Attacking Midfield,£9.00m
+762,Luca Sangalli,Attacking Midfield,£3.60m
+765,Mikel Oyarzabal,Left Winger,£54.00m
+768,Ander Barrenetxea,Left Winger,£9.00m
+771,Adnan Januzaj,Right Winger,£13.50m
+774,Willian José,Centre-Forward,£27.00m
+777,Alexander Isak,Centre-Forward,£7.20m
+780,Unai Simón,Goalkeeper,£5.40m
+783,Iago Herrerín,Goalkeeper,£3.60m
+786,Iñigo Martínez,Centre-Back,£28.80m
+789,Yeray Álvarez,Centre-Back,£22.50m
+792,Unai Núñez,Centre-Back,£13.50m
+795,Yuri Berchiche,Left-Back,£18.00m
+798,Mikel Balenziaga,Left-Back,£1.80m
+801,Cristian Ganea,Left-Back,£900k
+804,Óscar de Marcos,Right-Back,£5.40m
+807,Ander Capa,Right-Back,£2.70m
+810,Iñigo Lekue,Right-Back,£1.80m
+813,Mikel San José,Defensive Midfield,£6.75m
+816,Mikel Vesga,Defensive Midfield,£3.60m
+819,Beñat Etxebarria,Central Midfield,£3.60m
+822,Dani García,Central Midfield,£3.60m
+825,Oihan Sancet,Central Midfield,£900k
+828,Raúl García,Attacking Midfield,£6.75m
+831,Unai López,Attacking Midfield,£1.35m
+834,Iker Muniain,Left Winger,£13.50m
+837,Iñigo Córdoba,Left Winger,£3.60m
+840,Ibai Gómez,Right Winger,£3.60m
+843,Gaizka Larrazabal,Right Winger,£2.25m
+846,Iñaki Williams,Centre-Forward,£45.00m
+849,Asier Villalibre,Centre-Forward,£1.80m
+852,Aritz Aduriz,Centre-Forward,£900k
+855,Kenan Kodro,Centre-Forward,£900k
+858,David Soria,Goalkeeper,£13.50m
+861,Leandro Chichizola,Goalkeeper,£900k
+864,Filip Manojlovic,Goalkeeper,£360k
+867,Djené,Centre-Back,£22.50m
+870,Leandro Cabrera,Centre-Back,£4.50m
+873,Bruno González,Centre-Back,£1.80m
+876,Xabi Etxeita,Centre-Back,£1.80m
+879,Marc Cucurella,Left-Back,£9.00m
+882,Mathí­as Olivera,Left-Back,£2.70m
+885,Vitorino Antunes,Left-Back,£2.25m
+888,Raúl Garcia,Left-Back,£900k
+891,Damián Suárez,Right-Back,£3.15m
+894,Allan Nyom,Right-Back,£2.70m
+897,David Timor,Defensive Midfield,£1.35m
+900,Markel Bergara,Defensive Midfield,£720k
+903,Mauro Arambarri,Central Midfield,£13.50m
+906,Nemanja Maksimovic,Central Midfield,£13.50m
+909,Kenedy,Left Midfield,£9.00m
+912,Fayçal Fajr,Attacking Midfield,£4.05m
+915,Francisco Portillo,Attacking Midfield,£3.60m
+918,Amath Ndiaye,Left Winger,£3.60m
+921,Jason,Right Winger,£4.50m
+924,Jaime Mata,Centre-Forward,£9.00m
+927,Ángel Rodríguez,Centre-Forward,£2.70m
+930,Enric Gallego,Centre-Forward,£2.70m
+933,Jorge Molina,Centre-Forward,£1.80m
+936,Juan Soriano,Goalkeeper,£2.25m
+939,Iván Cuéllar,Goalkeeper,£720k
+942,Dimitrios Siovas,Centre-Back,£5.40m
+945,Kenneth Omeruo,Centre-Back,£4.50m
+948,Unai Bustinza,Centre-Back,£3.60m
+951,Chidozie Awaziem,Centre-Back,£3.15m
+954,Rodrigo Tarín,Centre-Back,£1.80m
+957,Jonathan Silva,Left-Back,£2.70m
+960,Vasyl Kravets,Left-Back,£2.70m
+963,Kévin Rodrigues,Left-Back,£2.70m
+966,Roberto Rosales,Right-Back,£2.25m
+969,Marc Navarro,Right-Back,£1.80m
+972,Rubén Pérez,Defensive Midfield,£6.75m
+975,Roque Mesa,Central Midfield,£6.30m
+978,Recio,Central Midfield,£2.70m
+981,Christian Rivera,Central Midfield,£2.25m
+984,Óscar Rodríguez,Attacking Midfield,£9.00m
+987,Fede Varela,Attacking Midfield,£1.80m
+990,Javi Eraso,Attacking Midfield,£1.35m
+993,José Manuel Arnáiz,Left Winger,£2.25m
+996,Alexander Szymanowski,Left Winger,£1.35m
+999,Sabin Merino,Left Winger,£900k
+1002,Aitor Ruibal,Right Winger,£1.35m
+1005,Youssef En-Nesyri,Centre-Forward,£10.80m
+1008,Martin Braithwaite,Centre-Forward,£9.00m
+1011,Guido Carrillo,Centre-Forward,£6.75m
+1014,Fernando Pacheco,Goalkeeper,£13.50m
+1017,Antonio Sivera,Goalkeeper,£1.35m
+1020,Víctor Laguardia,Centre-Back,£9.00m
+1023,Lisandro Magallán,Centre-Back,£5.40m
+1026,Ximo Navarro,Centre-Back,£2.70m
+1029,Rodrigo Ely,Centre-Back,£1.80m
+1032,Tachi,Centre-Back,£900k
+1035,Rubén Duarte,Left-Back,£4.50m
+1038,Adrián Marín,Left-Back,£720k
+1041,Martin Aguirregabiria,Right-Back,£6.75m
+1044,Rafa Navarro,Right-Back,£450k
+1047,Pere Pons,Defensive Midfield,£3.60m
+1050,Manu García,Defensive Midfield,£1.80m
+1053,Daniel Torres,Defensive Midfield,£810k
+1056,Tomás Pina,Central Midfield,£2.25m
+1059,Mubarak Wakaso,Central Midfield,£2.25m
+1062,Javi Muñoz,Central Midfield,£450k
+1065,Luis Rioja,Left Winger,£1.35m
+1068,Burgui,Left Winger,£1.35m
+1074,Oliver Burke,Right Winger,£6.75m
+1077,Aleix Vidal,Right Winger,£3.60m
+1080,Lucas Pérez,Centre-Forward,£3.60m
+1083,Joselu,Centre-Forward,£3.60m
+1086,John Guidetti,Centre-Forward,£2.70m
+1089,Rubén Martínez,Goalkeeper,£630k
+1092,Sergio Herrera,Goalkeeper,£450k
+1095,Raúl Navas,Centre-Back,£2.70m
+1098,Facundo Roncaglia,Centre-Back,£2.25m
+1101,Unai García,Centre-Back,£1.80m
+1104,David García,Centre-Back,£1.80m
+1107,Aridane Hernández,Centre-Back,£630k
+1110,Pervis Estupiñán,Left-Back,£1.80m
+1113,Nacho Vidal,Right-Back,£1.80m
+1116,Lillo Castellano,Right-Back,£630k
+1119,Oier,Defensive Midfield,£1.08m
+1122,Luis Perea,Defensive Midfield,£450k
+1125,Darko Brasanac,Central Midfield,£1.80m
+1128,Fran Mérida,Central Midfield,£1.35m
+1131,Jon Moncayola,Central Midfield,£1.35m
+1134,Iñigo Pérez,Central Midfield,£720k
+1137,Rubén García,Attacking Midfield,£3.15m
+1140,Roberto Torres,Attacking Midfield,£1.80m
+1143,Chimy Ávila,Left Winger,£4.50m
+1146,Kike Barja,Right Winger,£1.35m
+1149,Robert Ibáñez,Right Winger,£900k
+1152,Juan Villar,Right Winger,£810k
+1155,Adrián López,Centre-Forward,£2.25m
+1158,Brandon,Centre-Forward,£1.80m
+1161,Marc Cardona,Centre-Forward,£1.35m
+1164,Jasper Cillessen,Goalkeeper,£16.20m
+1167,Jaume Doménech,Goalkeeper,£2.25m
+1170,Mouctar Diakhaby,Centre-Back,£27.00m
+1173,Gabriel Paulista,Centre-Back,£18.00m
+1176,Eliaquim Mangala,Centre-Back,£9.00m
+1179,Ezequiel Garay,Centre-Back,£7.20m
+1182,José Gayà,Left-Back,£45.00m
+1185,Jaume Costa,Left-Back,£3.60m
+1188,Daniel Wass,Right-Back,£12.60m
+1191,Cristiano Piccini,Right-Back,£9.00m
+1194,Thierry Correia,Right-Back,£5.40m
+1197,Francis Coquelin,Defensive Midfield,£18.00m
+1200,Geoffrey Kondogbia,Central Midfield,£27.00m
+1203,Dani Parejo,Central Midfield,£27.00m
+1206,Kang-in Lee,Attacking Midfield,£18.00m
+1209,Gonçalo Guedes,Left Winger,£36.00m
+1212,Denis Cheryshev,Left Winger,£5.40m
+1215,Manu Vallejo,Left Winger,£4.50m
+1218,Carlos Soler,Right Winger,£45.00m
+1221,Ferran Torres,Right Winger,£18.00m
+1224,Rodrigo,Centre-Forward,£45.00m
+1227,Maxi Gómez,Centre-Forward,£36.00m
+1230,Kévin Gameiro,Centre-Forward,£8.10m
+1233,Rubén Sobrino,Centre-Forward,£2.70m
+1236,Thibaut Courtois,Goalkeeper,£49.50m
+1239,Alphonse Areola,Goalkeeper,£15.75m
+1242,Raphaël Varane,Centre-Back,£63.00m
+1245,Éder Militão,Centre-Back,£45.00m
+1248,Sergio Ramos,Centre-Back,£22.50m
+1251,Nacho,Centre-Back,£18.00m
+1254,Ferland Mendy,Left-Back,£36.00m
+1257,Marcelo,Left-Back,£22.50m
+1260,Daniel Carvajal,Right-Back,£45.00m
+1263,Álvaro Odriozola,Right-Back,£22.50m
+1266,Casemiro,Defensive Midfield,£54.00m
+1269,Toni Kroos,Central Midfield,£54.00m
+1272,Luka Modric,Central Midfield,£18.00m
+1275,Federico Valverde,Central Midfield,£18.00m
+1278,Isco,Attacking Midfield,£54.00m
+1281,James Rodríguez,Attacking Midfield,£45.00m
+1284,Brahim Díaz,Attacking Midfield,£15.30m
+1287,Eden Hazard,Left Winger,£135.00m
+1290,Vinícius Júnior,Left Winger,£63.00m
+1293,Marco Asensio,Left Winger,£54.00m
+1296,Rodrygo,Left Winger,£36.00m
+1299,Gareth Bale,Right Winger,£54.00m
+1302,Lucas Vázquez,Right Winger,£22.50m
+1305,Luka Jovic,Centre-Forward,£54.00m
+1308,Karim Benzema,Centre-Forward,£36.00m
+1311,Mariano Díaz,Centre-Forward,£18.00m
+1314,Diego López,Goalkeeper,£900k
+1317,Andrés Prieto,Goalkeeper,£180k
+1320,Fernando Calero,Centre-Back,£9.00m
+1323,David López,Centre-Back,£8.10m
+1326,Bernardo Espinosa,Centre-Back,£5.40m
+1329,Naldo,Centre-Back,£1.80m
+1332,Lluis López,Centre-Back,£1.35m
+1335,Adrià Pedrosa,Left-Back,£9.00m
+1338,Dídac Vilà,Left-Back,£3.60m
+1341,Sébastien Corchia,Right-Back,£1.80m
+1344,Javi López,Right-Back,£900k
+1347,Pipa,Right-Back,£270k
+1350,Marc Roca,Defensive Midfield,£27.00m
+1353,Ander Iturraspe,Defensive Midfield,£2.25m
+1356,Sergi Darder,Central Midfield,£12.60m
+1359,Víctor Sánchez,Central Midfield,£2.70m
+1362,Esteban Granero,Central Midfield,£2.70m
+1365,Pol Lozano,Central Midfield,£1.35m
+1368,Matías Vargas,Left Winger,£9.90m
+1371,Lei Wu,Left Winger,£9.00m
+1374,Pablo Piatti,Left Winger,£3.60m
+1377,Oscar Melendo,Right Winger,£9.00m
+1380,Javi Puado,Right Winger,£900k
+1383,Jonathan Calleri,Centre-Forward,£8.10m
+1386,Facundo Ferreyra,Centre-Forward,£3.60m
+1389,Víctor Campuzano,Centre-Forward,£270k
+1392,Fabri,Goalkeeper,£3.60m
+1395,Manolo Reina,Goalkeeper,£270k
+1398,Miquel Parera,Goalkeeper,£270k
+1401,Antonio Raíllo,Centre-Back,£2.25m
+1404,Martin Valjent,Centre-Back,£2.25m
+1407,Aleksandar Sedlar,Centre-Back,£810k
+1410,Xisco Campos,Centre-Back,£90k
+1413,Abdul Rahman Baba,Left-Back,£4.50m
+1416,Lumor,Left-Back,£1.26m
+1419,Joan Sastre,Right-Back,£1.80m
+1422,Fran Gámez,Right-Back,£450k
+1425,Aleix Febas,Central Midfield,£3.60m
+1428,Iddrisu Baba,Central Midfield,£900k
+1431,Dani Rodríguez,Central Midfield,£630k
+1434,Marc Pedraza,Central Midfield,£360k
+1437,Salva Sevilla,Central Midfield,£180k
+1440,Takefusa Kubo,Attacking Midfield,£9.00m
+1443,Josep Señé,Attacking Midfield,£225k
+1446,Lago Júnior,Left Winger,£1.80m
+1449,Aleksandar Trajkovski,Left Winger,£1.80m
+1452,Yannis Salibur,Right Winger,£1.80m
+1455,Ariday Cabrera,Right Winger,£360k
+1458,Cucho Hernández,Centre-Forward,£9.00m
+1461,Pablo Chavarría,Centre-Forward,£2.25m
+1464,Ante Budimir,Centre-Forward,£1.80m
+1467,Abdón Prats,Centre-Forward,£720k
+1470,Alex Alegría,Centre-Forward,£720k

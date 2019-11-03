@@ -1,0 +1,549 @@
+,Player,POS,Valuation
+0,Bartlomiej Dragowski,Goalkeeper,£9.00m
+3,Pietro Terracciano,Goalkeeper,£720k
+6,Federico Brancolini,Goalkeeper,£90k
+9,Nikola Milenkovic,Centre-Back,£27.00m
+12,Germán Pezzella,Centre-Back,£16.20m
+15,Jacob Rasmussen,Centre-Back,£3.60m
+18,Federico Ceccherini,Centre-Back,£3.15m
+21,Martín Cáceres,Centre-Back,£1.35m
+24,Dalbert,Left-Back,£9.00m
+27,Luca Ranieri,Left-Back,£1.80m
+30,Aleksa Terzic,Left-Back,£1.35m
+33,Pol Lirola,Right-Back,£11.70m
+36,Lorenzo Venuti,Right-Back,£1.80m
+39,Erick Pulgar,Defensive Midfield,£12.60m
+42,Milan Badelj,Defensive Midfield,£4.50m
+45,Bryan Dabo,Defensive Midfield,£3.15m
+48,Marco Benassi,Central Midfield,£16.20m
+51,Gaetano Castrovilli,Central Midfield,£7.20m
+54,Szymon Zurkowski,Central Midfield,£3.60m
+57,Sebastián Cristóforo,Central Midfield,£1.62m
+60,Valentin Eysseric,Attacking Midfield,£2.70m
+63,Tòfol Montiel,Attacking Midfield,£900k
+66,Franck Ribéry,Left Winger,£3.60m
+69,Riccardo Sottil,Left Winger,£2.25m
+72,Federico Chiesa,Right Winger,£54.00m
+75,Rachid Ghezzal,Right Winger,£7.20m
+78,Cyril Théréau,Second Striker,£450k
+81,Pedro,Centre-Forward,£16.20m
+84,Kevin-Prince Boateng,Centre-Forward,£6.30m
+87,Dusan Vlahovic,Centre-Forward,£2.70m
+90,Bobby Duncan,Centre-Forward,£1.35m
+93,Lukasz Skorupski,Goalkeeper,£6.30m
+96,Angelo da Costa,Goalkeeper,£180k
+99,Mouhamadou Sarr,Goalkeeper,£90k
+102,Stefano Denswil,Centre-Back,£5.40m
+105,Mattia Bani,Centre-Back,£2.25m
+108,Danilo,Centre-Back,£720k
+111,Gabriele Corbo,Centre-Back,£720k
+114,Nehuén Paz,Centre-Back,£360k
+117,Mitchell Dijks,Left-Back,£4.50m
+120,Takehiro Tomiyasu,Right-Back,£8.10m
+123,Ibrahima Mbaye,Right-Back,£2.70m
+126,Gary Medel,Defensive Midfield,£3.38m
+129,Roberto Soriano,Central Midfield,£6.30m
+132,Mattias Svanberg,Central Midfield,£3.60m
+135,Andrea Poli,Central Midfield,£2.70m
+138,Jerdy Schouten,Central Midfield,£1.80m
+141,Blerim Dzemaili,Central Midfield,£900k
+144,Nicola Sansone,Left Winger,£6.75m
+147,Ladislav Krejci,Left Winger,£2.48m
+150,Riccardo Orsolini,Right Winger,£18.00m
+153,Andreas Skov Olsen,Right Winger,£7.20m
+156,Federico Santander,Centre-Forward,£5.40m
+159,Mattia Destro,Centre-Forward,£3.15m
+162,Rodrigo Palacio,Centre-Forward,£450k
+165,Emil Audero,Goalkeeper,£13.50m
+168,Andrea Seculin,Goalkeeper,£270k
+171,Wladimiro Falcone,Goalkeeper,£158k
+174,Jeison Murillo,Centre-Back,£9.00m
+177,Omar Colley,Centre-Back,£7.20m
+180,Julian Chabot,Centre-Back,£3.15m
+183,Alex Ferrari,Centre-Back,£1.35m
+186,Vasco Regini,Centre-Back,£1.26m
+189,Nicola Murru,Left-Back,£6.30m
+192,Tommaso Augello,Left-Back,£900k
+195,Bartosz Bereszynski,Right-Back,£7.20m
+198,Fabio Depaoli,Right-Back,£4.50m
+201,Albin Ekdal,Defensive Midfield,£4.50m
+204,Karol Linetty,Central Midfield,£13.50m
+207,Jakub Jankto,Central Midfield,£10.80m
+210,Ronaldo Vieira,Central Midfield,£4.50m
+213,Andrea Bertolacci,Central Midfield,£2.70m
+216,Morten Thorsby,Central Midfield,£2.25m
+219,Mehdi Léris,Central Midfield,£2.25m
+222,Édgar Barreto,Central Midfield,£900k
+225,Gastón Ramírez,Attacking Midfield,£7.20m
+228,Gonzalo Maroni,Attacking Midfield,£4.50m
+231,Emiliano Rigoni,Right Winger,£7.20m
+234,Gianluca Caprari,Second Striker,£9.00m
+237,Manolo Gabbiadini,Centre-Forward,£10.80m
+240,Fabio Quagliarella,Centre-Forward,£2.25m
+243,Federico Bonazzoli,Centre-Forward,£1.35m
+246,Andrea Consigli,Goalkeeper,£3.60m
+249,Gianluca Pegolo,Goalkeeper,£135k
+252,Alessandro Russo,Goalkeeper,£90k
+255,Gian Marco Ferrari,Centre-Back,£12.60m
+258,Marlon,Centre-Back,£9.00m
+261,Filippo Romagna,Centre-Back,£5.40m
+264,Vlad Chiriches,Centre-Back,£5.40m
+267,Leonardo Fontanesi,Centre-Back,£135k
+270,Rogério,Left-Back,£9.00m
+273,Georgios Kyriakopoulos,Left-Back,£540k
+276,Federico Peluso,Left-Back,£450k
+279,Alessandro Tripaldelli,Left-Back,£450k
+282,Mert Müldür,Right-Back,£4.50m
+285,Jeremy Toljan,Right-Back,£3.60m
+288,Francesco Magnanelli,Defensive Midfield,£720k
+291,Alfred Duncan,Central Midfield,£15.30m
+294,Manuel Locatelli,Central Midfield,£10.80m
+297,Pedro Obiang,Central Midfield,£6.30m
+300,Mehdi Bourabia,Central Midfield,£3.60m
+303,Luca Mazzitelli,Central Midfield,£3.15m
+306,Hamed Junior Traorè,Attacking Midfield,£12.60m
+309,Filip Djuricic,Attacking Midfield,£1.35m
+312,Jeremie Boga,Left Winger,£5.40m
+315,Domenico Berardi,Right Winger,£21.60m
+318,Grégoire Defrel,Centre-Forward,£10.80m
+321,Francesco Caputo,Centre-Forward,£4.50m
+324,Giacomo Raspadori,Centre-Forward,£450k
+327,Jesse Joronen,Goalkeeper,£4.50m
+330,Enrico Alfonso,Goalkeeper,£540k
+333,Lorenzo Andrenacci,Goalkeeper,£90k
+336,Andrea Cistana,Centre-Back,£4.50m
+339,Giangiacomo Magnani,Centre-Back,£4.50m
+342,Jhon Chancellor,Centre-Back,£1.35m
+345,Daniele Gastaldello,Centre-Back,£270k
+348,Massimiliano Mangraviti,Centre-Back,£113k
+351,Bruno Martella,Left-Back,£1.62m
+354,Felipe Curcio,Left-Back,£360k
+357,Stefano Sabelli,Right-Back,£1.53m
+360,Ales Mateju,Right-Back,£1.53m
+363,Alessandro Semprini,Right-Back,£180k
+366,Sandro Tonali,Defensive Midfield,£27.00m
+369,Mattia Viviani,Defensive Midfield,£360k
+372,Dimitri Bisoli,Central Midfield,£3.15m
+375,Emanuele Ndoj,Central Midfield,£2.70m
+378,Rômulo,Central Midfield,£2.25m
+381,Daniele Dessena,Central Midfield,£450k
+384,Jaromir Zmrhal,Left Midfield,£2.93m
+387,Nikolas Spalek,Attacking Midfield,£2.25m
+390,Leonardo Morosini,Attacking Midfield,£1.35m
+393,Luca Tremolada,Attacking Midfield,£810k
+396,Mario Balotelli,Centre-Forward,£18.00m
+399,Alfredo Donnarumma,Centre-Forward,£5.40m
+402,Florian Ayé,Centre-Forward,£2.88m
+405,Ernesto Torregrossa,Centre-Forward,£2.70m
+408,Alessandro Matri,Centre-Forward,£270k
+411,Luigi Sepe,Goalkeeper,£4.50m
+414,Simone Colombi,Goalkeeper,£720k
+417,Fabrizio Alastra,Goalkeeper,£270k
+420,Riccardo Gagliolo,Centre-Back,£2.70m
+423,Bruno Alves,Centre-Back,£900k
+426,Kastriot Dermaku,Centre-Back,£540k
+429,Giuseppe Pezzella,Left-Back,£2.70m
+432,Matteo Darmian,Right-Back,£9.00m
+435,Vincent Laurini,Right-Back,£1.35m
+438,Simone Iacoponi,Right-Back,£900k
+441,Hernani,Defensive Midfield,£3.15m
+444,Gastón Brugman,Defensive Midfield,£2.25m
+447,Matteo Scozzarella,Defensive Midfield,£720k
+450,Emerson Espinoza,Defensive Midfield,£270k
+453,Alberto Grassi,Central Midfield,£6.30m
+456,Juraj Kucka,Central Midfield,£4.50m
+459,Antonino Barillà,Central Midfield,£900k
+462,Gianni Munari,Central Midfield,£90k
+465,Gervinho,Left Winger,£8.10m
+468,Yann Karamoh,Right Winger,£9.00m
+471,Dejan Kulusevski,Right Winger,£5.40m
+474,Mattia Sprocati,Right Winger,£1.35m
+477,Luca Siligardi,Right Winger,£720k
+480,Roberto Inglese,Centre-Forward,£13.50m
+483,Andreas Cornelius,Centre-Forward,£2.70m
+486,Andrea Adorante,Centre-Forward,£450k
+489,Wojciech Szczesny,Goalkeeper,£31.50m
+492,Mattia Perin,Goalkeeper,£9.00m
+495,Gianluigi Buffon,Goalkeeper,£900k
+498,Carlo Pinsoglio,Goalkeeper,£450k
+501,Matthijs de Ligt,Centre-Back,£67.50m
+504,Leonardo Bonucci,Centre-Back,£25.20m
+507,Daniele Rugani,Centre-Back,£19.80m
+510,Merih Demiral,Centre-Back,£13.50m
+513,Giorgio Chiellini,Centre-Back,£6.75m
+516,Alex Sandro,Left-Back,£40.50m
+519,Danilo,Right-Back,£18.00m
+522,Mattia De Sciglio,Right-Back,£12.60m
+525,Emre Can,Defensive Midfield,£29.70m
+528,Miralem Pjanic,Central Midfield,£63.00m
+531,Aaron Ramsey,Central Midfield,£36.00m
+534,Adrien Rabiot,Central Midfield,£31.50m
+537,Rodrigo Bentancur,Central Midfield,£31.50m
+540,Blaise Matuidi,Central Midfield,£19.80m
+543,Sami Khedira,Central Midfield,£7.65m
+546,Cristiano Ronaldo,Left Winger,£81.00m
+549,Marko Pjaca,Left Winger,£9.00m
+552,Federico Bernardeschi,Right Winger,£40.50m
+555,Douglas Costa,Right Winger,£34.20m
+558,Juan Cuadrado,Right Winger,£16.20m
+561,Paulo Dybala,Second Striker,£67.50m
+564,Gonzalo Higuaín,Centre-Forward,£31.50m
+567,Mario Mandzukic,Centre-Forward,£9.00m
+570,Alessio Cragno,Goalkeeper,£18.00m
+573,Robin Olsen,Goalkeeper,£6.75m
+576,Rafael,Goalkeeper,£180k
+579,Simone Aresti,Goalkeeper,£180k
+582,Sebastian Walukiewicz,Centre-Back,£3.60m
+585,Luca Ceppitelli,Centre-Back,£2.25m
+588,Ragnar Klavan,Centre-Back,£1.35m
+591,Fabio Pisacane,Centre-Back,£630k
+594,Luca Pellegrini,Left-Back,£9.00m
+597,Charalampos Lykogiannis,Left-Back,£1.35m
+600,Paolo Faragò,Right-Back,£4.50m
+603,Federico Mattiello,Right-Back,£2.25m
+606,Fabrizio Cacciatore,Right-Back,£720k
+609,Simone Pinna,Right-Back,£158k
+612,Christian Oliva,Defensive Midfield,£4.50m
+615,Luca Cigarini,Defensive Midfield,£720k
+618,Nahitan Nández,Central Midfield,£19.80m
+621,Radja Nainggolan,Central Midfield,£18.00m
+624,Marko Rog,Central Midfield,£9.90m
+627,Lucas Castro,Central Midfield,£5.40m
+630,Artur Ionita,Central Midfield,£4.05m
+633,Alessandro Deiola,Central Midfield,£1.08m
+636,Valter Birsa,Attacking Midfield,£1.80m
+639,João Pedro,Second Striker,£7.20m
+642,Daniele Ragatzu,Second Striker,£360k
+645,Giovanni Simeone,Centre-Forward,£15.30m
+648,Leonardo Pavoletti,Centre-Forward,£10.80m
+651,Alberto Cerri,Centre-Forward,£5.40m
+654,Samir Handanovic,Goalkeeper,£5.40m
+657,Daniele Padelli,Goalkeeper,£720k
+660,Tommaso Berni,Goalkeeper,£90k
+663,Milan Skriniar,Centre-Back,£54.00m
+666,Stefan de Vrij,Centre-Back,£45.00m
+669,Diego Godín,Centre-Back,£18.00m
+672,Alessandro Bastoni,Centre-Back,£13.50m
+675,Andrea Ranocchia,Centre-Back,£2.70m
+678,Lorenzo Pirola,Centre-Back,£360k
+681,Federico Dimarco,Left-Back,£4.50m
+684,Danilo D'Ambrosio,Right-Back,£11.70m
+687,Marcelo Brozovic,Defensive Midfield,£45.00m
+690,Nicolò Barella,Central Midfield,£32.40m
+693,Stefano Sensi,Central Midfield,£27.00m
+696,Matías Vecino,Central Midfield,£20.70m
+699,Roberto Gagliardini,Central Midfield,£13.50m
+702,Lucien Agoume,Central Midfield,£3.15m
+705,Borja Valero,Central Midfield,£2.25m
+708,Valentino Lazaro,Right Midfield,£17.10m
+711,Antonio Candreva,Right Midfield,£6.30m
+714,Kwadwo Asamoah,Left Midfield,£11.70m
+717,Cristiano Biraghi,Left Midfield,£9.00m
+720,Alexis Sánchez,Left Winger,£31.50m
+723,Matteo Politano,Right Winger,£27.00m
+726,Romelu Lukaku,Centre-Forward,£67.50m
+729,Lautaro Martínez,Centre-Forward,£36.00m
+732,Sebastiano Esposito,Centre-Forward,£4.50m
+735,Pau López,Goalkeeper,£18.00m
+738,Antonio Mirante,Goalkeeper,£720k
+741,Daniel Fuzato,Goalkeeper,£90k
+744,Gianluca Mancini,Centre-Back,£19.80m
+747,Chris Smalling,Centre-Back,£18.00m
+750,Juan Jesus,Centre-Back,£8.10m
+753,Federico Fazio,Centre-Back,£5.40m
+756,Mert Cetin,Centre-Back,£1.80m
+759,Leonardo Spinazzola,Left-Back,£13.50m
+762,Aleksandar Kolarov,Left-Back,£7.20m
+765,Davide Santon,Left-Back,£4.50m
+768,Alessandro Florenzi,Right-Back,£22.50m
+771,Davide Zappacosta,Right-Back,£13.50m
+774,Amadou Diawara,Defensive Midfield,£13.50m
+777,Lorenzo Pellegrini,Central Midfield,£36.00m
+780,Bryan Cristante,Central Midfield,£22.50m
+783,Jordan Veretout,Central Midfield,£18.00m
+786,Nicolò Zaniolo,Attacking Midfield,£36.00m
+789,Henrikh Mkhitaryan,Attacking Midfield,£22.50m
+792,Javier Pastore,Attacking Midfield,£13.50m
+795,Justin Kluivert,Left Winger,£20.70m
+798,Diego Perotti,Left Winger,£10.80m
+801,Cengiz Ünder,Right Winger,£31.50m
+804,Mirko Antonucci,Right Winger,£450k
+807,Edin Dzeko,Centre-Forward,£12.60m
+810,Nikola Kalinic,Centre-Forward,£9.00m
+813,Alex Meret,Goalkeeper,£27.00m
+816,David Ospina,Goalkeeper,£3.60m
+819,Orestis Karnezis,Goalkeeper,£1.35m
+822,Kalidou Koulibaly,Centre-Back,£67.50m
+825,Konstantinos Manolas,Centre-Back,£40.50m
+828,Nikola Maksimovic,Centre-Back,£15.30m
+831,Lorenzo Tonelli,Centre-Back,£6.30m
+834,Sebastiano Luperto,Centre-Back,£3.60m
+837,Faouzi Ghoulam,Left-Back,£20.70m
+840,Mário Rui,Left-Back,£13.50m
+843,Elseid Hysaj,Right-Back,£16.20m
+846,Kévin Malcuit,Right-Back,£14.40m
+849,Giovanni Di Lorenzo,Right-Back,£13.50m
+852,Allan,Central Midfield,£54.00m
+855,Fabián Ruiz,Central Midfield,£54.00m
+858,Piotr Zielinski,Central Midfield,£36.00m
+861,Eljif Elmas,Central Midfield,£15.30m
+864,Gianluca Gaetano,Attacking Midfield,£720k
+867,Lorenzo Insigne,Left Winger,£58.50m
+870,Hirving Lozano,Left Winger,£36.00m
+873,Amin Younes,Left Winger,£7.20m
+876,Leandrinho,Left Winger,£450k
+879,José Callejón,Right Winger,£18.00m
+882,Amato Ciciretti,Right Winger,£1.35m
+885,Arkadiusz Milik,Centre-Forward,£36.00m
+888,Dries Mertens,Centre-Forward,£22.50m
+891,Fernando Llorente,Centre-Forward,£4.50m
+894,Juan Musso,Goalkeeper,£9.00m
+897,Nícolas,Goalkeeper,£630k
+900,Samuele Perisan,Goalkeeper,£135k
+903,Rodrigo Becão,Centre-Back,£6.30m
+906,Samir,Centre-Back,£5.40m
+909,William Troost-Ekong,Centre-Back,£3.60m
+912,Bram Nuytinck,Centre-Back,£3.15m
+915,Nicholas Opoku,Centre-Back,£900k
+918,Sebastien De Maio,Centre-Back,£900k
+921,Francisco Sierralta,Centre-Back,£360k
+924,Jens Stryger Larsen,Right-Back,£3.60m
+927,Hidde ter Avest,Right-Back,£1.80m
+930,Rolando Mandragora,Defensive Midfield,£13.50m
+933,Walace,Defensive Midfield,£7.65m
+936,Mato Jajalo,Defensive Midfield,£900k
+939,Rodrigo de Paul,Central Midfield,£22.50m
+942,Seko Fofana,Central Midfield,£11.70m
+945,Antonin Barak,Central Midfield,£10.80m
+948,Ken Sema,Left Midfield,£3.15m
+951,Ignacio Pussetto,Right Winger,£9.00m
+954,Kevin Lasagna,Centre-Forward,£6.75m
+957,Stefano Okaka,Centre-Forward,£4.50m
+960,Ilija Nestorovski,Centre-Forward,£3.60m
+963,Lukasz Teodorczyk,Centre-Forward,£2.70m
+966,Emanuele Rovini,Centre-Forward,£225k
+969,Boris Radunovi?,Goalkeeper,£810k
+972,Marco Silvestri,Goalkeeper,£720k
+975,Alessandro Berardi,Goalkeeper,£45k
+978,Amir Rrahmani,Centre-Back,£2.70m
+981,Marash Kumbulla,Centre-Back,£2.70m
+984,Pawel Dawidowicz,Centre-Back,£1.80m
+987,Salvatore Bocchetti,Centre-Back,£1.35m
+990,Koray Günter,Centre-Back,£900k
+993,Alan Empereur,Centre-Back,£450k
+996,Alessandro Crescenzi,Left-Back,£630k
+999,Luigi Vitale,Left-Back,£540k
+1002,Claud Adjapong,Right-Back,£3.15m
+1005,Davide Faraoni,Right-Back,£810k
+1008,Wesley,Right-Back,£180k
+1011,Miguel Veloso,Defensive Midfield,£900k
+1014,Andrea Danzi,Defensive Midfield,£450k
+1017,Daniel Bessa,Central Midfield,£3.60m
+1020,Valerio Verre,Central Midfield,£3.15m
+1023,Sofyan Amrabat,Central Midfield,£2.70m
+1026,Mattia Zaccagni,Central Midfield,£2.25m
+1029,Emmanuel Badu,Central Midfield,£1.35m
+1032,Matteo Pessina,Central Midfield,£1.35m
+1035,Liam Henderson,Central Midfield,£1.26m
+1038,Lucas Felippe,Central Midfield,£68k
+1041,Darko Lazovic,Right Midfield,£2.70m
+1044,Gennaro Tutino,Left Winger,£2.25m
+1047,Antonio Di Gaudio,Left Winger,£1.26m
+1050,Mariusz Stepinski,Centre-Forward,£3.60m
+1053,Eddie Salcedo,Centre-Forward,£1.80m
+1056,Samuel Di Carmine,Centre-Forward,£1.53m
+1059,Giampaolo Pazzini,Centre-Forward,£450k
+1062,Lubomir Tupta,Centre-Forward,£360k
+1065,Etrit Berisha,Goalkeeper,£2.70m
+1068,Karlo Letica,Goalkeeper,£1.62m
+1071,Demba Thiam,Goalkeeper,£90k
+1074,Francesco Vicari,Centre-Back,£4.50m
+1077,Igor,Centre-Back,£2.70m
+1080,Thiago Cionek,Centre-Back,£720k
+1083,Bartosz Salamon,Centre-Back,£720k
+1086,Nenad Tomovi?,Centre-Back,£540k
+1089,Felipe,Centre-Back,£450k
+1092,Paolo Cannistrà,Centre-Back,£23k
+1095,Arkadiusz Reca,Left-Back,£3.15m
+1098,Riccardo Mastrilli,Left-Back,£90k
+1101,Jacopo Sala,Right-Back,£1.44m
+1104,Simone Missiroli,Defensive Midfield,£1.80m
+1107,Mirko Valdifiori,Defensive Midfield,£450k
+1110,Jasmin Kurtic,Central Midfield,£5.40m
+1113,Alessandro Murgia,Central Midfield,£4.50m
+1116,Mattia Valoti,Central Midfield,£900k
+1119,Marco D'Alessandro,Right Midfield,£1.80m
+1122,Gabriel Strefezza,Right Midfield,£630k
+1125,Mohamed Fares,Left Midfield,£5.40m
+1128,Federico Di Francesco,Left Winger,£4.05m
+1131,Marko Jankovic,Right Winger,£1.62m
+1134,Andrea Petagna,Centre-Forward,£18.00m
+1137,Gabriele Moncini,Centre-Forward,£1.80m
+1140,Alberto Paloschi,Centre-Forward,£1.80m
+1143,Sergio Floccari,Centre-Forward,£270k
+1146,Gabriel,Goalkeeper,£900k
+1149,Mauro Vigorito,Goalkeeper,£540k
+1152,Marco Bleve,Goalkeeper,£135k
+1155,Gianmarco Chironi,Goalkeeper,£45k
+1158,Fabio Lucioni,Centre-Back,£810k
+1161,Biagio Meccariello,Centre-Back,£540k
+1164,Luca Rossettini,Centre-Back,£450k
+1167,Davide Riccardi,Centre-Back,£135k
+1170,Luka Dumancic,Centre-Back,£68k
+1173,Cristian Dell'Orco,Left-Back,£900k
+1176,Marco Calderoni,Left-Back,£630k
+1179,Brayan Vera,Left-Back,£450k
+1182,Antonino Gallo,Left-Back,£180k
+1185,Romario Benzar,Right-Back,£2.25m
+1188,Andrea Rispoli,Right-Back,£900k
+1191,Riccardo Fiamozzi,Right-Back,£630k
+1194,Roberto Pierno,Right-Back,£90k
+1197,Giannelli Imbula,Defensive Midfield,£4.50m
+1200,Panagiotis Tachtsidis,Defensive Midfield,£1.08m
+1203,Jacopo Petriccione,Central Midfield,£1.80m
+1206,Yevhen Shakhov,Central Midfield,£1.80m
+1209,Zan Majer,Central Midfield,£1.35m
+1212,Andrea Tabanelli,Central Midfield,£540k
+1215,Radoslav Tsonev,Central Midfield,£225k
+1218,Marco Mancosu,Attacking Midfield,£2.25m
+1221,Diego Farias,Second Striker,£4.05m
+1224,Filippo Falco,Second Striker,£3.60m
+1227,Simone Lo Faso,Second Striker,£450k
+1230,Edgaras Dubickas,Second Striker,£90k
+1233,Khouma Babacar,Centre-Forward,£7.20m
+1236,Gianluca Lapadula,Centre-Forward,£4.50m
+1239,Andrea La Mantia,Centre-Forward,£2.25m
+1242,Salvatore Sirigu,Goalkeeper,£6.75m
+1245,Samir Ujkani,Goalkeeper,£180k
+1248,Antonio Rosati,Goalkeeper,£180k
+1251,Armando Izzo,Centre-Back,£18.00m
+1254,Nicolas N'Koulou,Centre-Back,£18.00m
+1257,Lyanco,Centre-Back,£7.20m
+1260,Kevin Bonifazi,Centre-Back,£4.95m
+1263,Koffi Djidji,Centre-Back,£4.50m
+1266,Bremer,Centre-Back,£3.15m
+1269,Wilfried Stephane Singo,Centre-Back,£113k
+1272,Cristian Ansaldi,Left-Back,£4.50m
+1275,Ola Aina,Right-Back,£9.00m
+1278,Lorenzo De Silvestri,Right-Back,£3.60m
+1281,Tomás Rincón,Defensive Midfield,£7.20m
+1284,Soualiho Meïté,Central Midfield,£11.70m
+1287,Daniele Baselli,Central Midfield,£9.00m
+1290,Sasa Lukic,Central Midfield,£3.60m
+1293,Diego Laxalt,Left Midfield,£10.80m
+1296,Álex Berenguer,Left Winger,£5.40m
+1299,Simone Verdi,Right Winger,£20.70m
+1302,Iago Falque,Right Winger,£15.75m
+1305,Vittorio Parigini,Right Winger,£1.80m
+1308,Simone Edera,Right Winger,£900k
+1311,Vincenzo Millico,Second Striker,£900k
+1314,Andrea Belotti,Centre-Forward,£31.50m
+1317,Simone Zaza,Centre-Forward,£9.00m
+1320,Nicola Rauti,Centre-Forward,£360k
+1323,Thomas Strakosha,Goalkeeper,£18.00m
+1326,Ivan Vargic,Goalkeeper,£360k
+1329,Silvio Proto,Goalkeeper,£360k
+1332,Guido Guerrieri,Goalkeeper,£270k
+1335,Francesco Acerbi,Centre-Back,£10.80m
+1338,Luiz Felipe,Centre-Back,£9.00m
+1341,Denis Vavro,Centre-Back,£7.20m
+1344,Stefan Radu,Centre-Back,£4.50m
+1347,Bastos,Centre-Back,£3.60m
+1350,Nicolò Armini,Centre-Back,£180k
+1353,Jorge Silva,Centre-Back,£45k
+1356,Jordan Lukaku,Left-Back,£5.40m
+1359,Riza Durmisi,Left-Back,£3.60m
+1362,Patric,Right-Back,£1.62m
+1365,Tiago Casasola,Right-Back,£450k
+1368,Lucas Leiva,Defensive Midfield,£8.10m
+1371,Sergej Milinkovic-Savic,Central Midfield,£58.50m
+1374,Valon Berisha,Central Midfield,£6.30m
+1377,Danilo Cataldi,Central Midfield,£3.60m
+1380,Marco Parolo,Central Midfield,£2.70m
+1383,Manuel Lazzari,Right Midfield,£16.20m
+1386,Adam Marusic,Right Midfield,£6.30m
+1389,Djavan Anderson,Right Midfield,£270k
+1392,Senad Lulic,Left Midfield,£3.60m
+1395,Luis Alberto,Attacking Midfield,£25.20m
+1398,André Anderson,Attacking Midfield,£810k
+1401,Jony,Left Winger,£9.00m
+1404,Ricardo Kishna,Left Winger,£900k
+1407,Bobby Adekanye,Right Winger,£540k
+1410,Joaquín Correa,Second Striker,£25.20m
+1413,Ciro Immobile,Centre-Forward,£36.00m
+1416,Felipe Caicedo,Centre-Forward,£2.70m
+1419,Ionut Radu,Goalkeeper,£13.50m
+1422,Jandrei,Goalkeeper,£1.80m
+1425,Federico Marchetti,Goalkeeper,£270k
+1428,Cristian Romero,Centre-Back,£13.50m
+1431,Davide Biraschi,Centre-Back,£4.05m
+1434,Cristián Zapata,Centre-Back,£1.80m
+1437,Edoardo Goldaniga,Centre-Back,£1.80m
+1440,Jawad El Yamiq,Centre-Back,£720k
+1443,Antonio Barreca,Left-Back,£6.30m
+1446,Domenico Criscito,Left-Back,£3.60m
+1449,Marko Pajac,Left-Back,£1.35m
+1452,Peter Ankersen,Right-Back,£2.70m
+1455,Paolo Ghiglione,Right-Back,£2.25m
+1458,Lasse Schöne,Defensive Midfield,£2.70m
+1461,Ivan Radovanovic,Defensive Midfield,£2.70m
+1464,Sandro,Defensive Midfield,£1.80m
+1467,Stefano Sturaro,Central Midfield,£9.00m
+1470,Lukas Lerager,Central Midfield,£5.40m
+1473,Francesco Cassata,Central Midfield,£3.15m
+1476,Filip Jagiello,Central Midfield,£1.35m
+1479,Kevin Agudelo,Central Midfield,£1.17m
+1482,Riccardo Saponara,Attacking Midfield,£3.60m
+1485,Sinan Gümüs,Right Winger,£1.17m
+1488,Goran Pandev,Second Striker,£360k
+1491,Christian Kouamé,Centre-Forward,£19.80m
+1494,Andrea Pinamonti,Centre-Forward,£13.50m
+1497,Antonio Sanabria,Centre-Forward,£8.10m
+1500,Andrea Favilli,Centre-Forward,£5.40m
+1503,Pierluigi Gollini,Goalkeeper,£7.20m
+1506,Marco Sportiello,Goalkeeper,£3.60m
+1509,Francesco Rossi,Goalkeeper,£90k
+1512,Rafael Tolói,Centre-Back,£9.90m
+1515,José Luis Palomino,Centre-Back,£9.00m
+1518,Simon Kjaer,Centre-Back,£7.20m
+1521,Berat Djimsiti,Centre-Back,£6.75m
+1524,Roger Ibañez,Centre-Back,£2.70m
+1527,Andrea Masiello,Centre-Back,£900k
+1530,Robin Gosens,Left-Back,£10.80m
+1533,Guilherme Arana,Left-Back,£2.70m
+1536,Timothy Castagne,Right-Back,£16.20m
+1539,Hans Hateboer,Right-Back,£13.50m
+1542,Marten de Roon,Central Midfield,£21.60m
+1545,Remo Freuler,Central Midfield,£18.00m
+1548,Ruslan Malinovskyi,Central Midfield,£11.25m
+1551,Mario Pasalic,Central Midfield,£9.00m
+1554,Josip Ilicic,Second Striker,£15.30m
+1557,Papu Gómez,Second Striker,£14.40m
+1560,Duván Zapata,Centre-Forward,£40.50m
+1563,Luis Muriel,Centre-Forward,£13.50m
+1566,Musa Barrow,Centre-Forward,£4.50m
+1569,Gianluigi Donnarumma,Goalkeeper,£49.50m
+1572,Pepe Reina,Goalkeeper,£900k
+1575,Antonio Donnarumma,Goalkeeper,£450k
+1578,Alessio Romagnoli,Centre-Back,£45.00m
+1581,Mattia Caldara,Centre-Back,£18.00m
+1584,Mateo Musacchio,Centre-Back,£13.50m
+1587,Léo Duarte,Centre-Back,£7.20m
+1590,Matteo Gabbia,Centre-Back,£450k
+1593,Theo Hernández,Left-Back,£16.20m
+1596,Ricardo Rodríguez,Left-Back,£11.70m
+1599,Davide Calabria,Right-Back,£16.20m
+1602,Andrea Conti,Right-Back,£13.50m
+1605,Ismaël Bennacer,Defensive Midfield,£15.30m
+1608,Lucas Biglia,Defensive Midfield,£5.40m
+1611,Franck Kessié,Central Midfield,£27.00m
+1614,Giacomo Bonaventura,Central Midfield,£18.00m
+1617,Rade Krunic,Central Midfield,£7.20m
+1620,Lucas Paquetá,Attacking Midfield,£31.50m
+1623,Hakan Calhanoglu,Left Winger,£16.20m
+1626,Fabio Borini,Left Winger,£6.30m
+1629,Suso,Right Winger,£29.70m
+1632,Samu Castillejo,Right Winger,£13.50m
+1635,Ante Rebic,Second Striker,£36.00m
+1638,Krzysztof Piatek,Centre-Forward,£36.00m
+1641,Rafael Leão,Centre-Forward,£19.80m
