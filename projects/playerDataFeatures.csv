@@ -1,0 +1,73 @@
+Feature Acronym,Feature,Stat Area
+GP,Games Played,General
+ST,Starts,General
+ON,Sub On,General
+OFF,Sub Off,General
+MIN,Minutes,General
+Y,Yellow Cards,General
+YR,Yellow and Red Cards,General
+R,Red Cards,General
+G,Goals,General
+A,Assists,General
+SA,Secondary Assists,General
+S,Shots,General
+SOG,Shots On Goal,General
+INT,Interceptions,General
+CR,Crosses,General
+ACR,Accurate Crosses,General
+CC,Chances Created,General
+BLK,Blocks,General
+TKL,Tackles,General
+TKLW,Tackles Won,General
+FC,Fouls Committed,General
+FS,Fouls Suffered,General
+P,Passes,General
+AP,Attempted Passes,General
+ACRO,Accurate Crosses - Open Play,General
+AW,Aerials Won,General
+BCC,Big Chances Created,General
+BR,Ball Recoveries,General
+DR,Dribbles,General
+DW,Duels Won,General
+EG,Errors Lead To Goal,General
+ES,Errors Lead To Shot,General
+IBS,Shots Inside Box,General
+IBSOG,Shots On Goal Inside Box,General
+IBG,Goals Inside Box,General
+OBS,Shots Outside Box,General
+OBSOG,Shots On Goal Outside Box,General
+OBG,Goals Outside Box,General
+AOG,Assist Own Goals,General
+APW,Assist Penalties Won,General
+DSP,Dispossessed,General
+OWN,Own Goals,General
+TOUCH,Touches,General
+TBOX,Touches In Box,General
+PK,Penalty Kicks Taken,General
+ALB,Accurate Long Balls,General
+ATB,Accurate Through Balls,General
+LMT,Last Man Tackle,General
+TOFF,Total Offside,General
+BCM,Big Chance Missed,General
+BCS,Big Chance Scored,General
+ATTDR,Attempted Dribbles,General
+AOP,Assists From Open Play,General
+ASP,Assists From Set Play,General
+CCOP,Chances Created From Open Play,General
+CCSP,Chances Created From Set Play,General
+GC,Goals Conceded,Defensive
+CS,Clean Sheets,Defensive
+PKC,Penalty Kicks Conceded,Defensive
+CL,Clearances,Defensive
+ECL,Effective Clearances,Defensive
+PKG,Penalty Kick Goals,Set Piece
+PKM,Penalty Kick Misses,Set Piece
+PKSVD,Penalty Kicks Saved,Set Piece
+FKCR,Free Kick Crosses,Set Piece
+FKACR,Free Kick Accurate Crosses,Set Piece
+CRN,Corners,Set Piece
+CRNCR,Corner Crosses,Set Piece
+CRNW,Corners Won,Set Piece
+FKS,Free Kick Shots,Set Piece
+FKSOG,Free Kick Shots On Goal,Set Piece
+FKG,Free Kick Goals,Set Piece
