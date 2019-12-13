@@ -1,0 +1,2315 @@
+Player,POS,Position,ValMillions
+Harry Maguire,Centre Back,Defender,63.0
+Victor Lindelof,Centre Back,Defender,31.5
+Eric Bailly,Centre Back,Defender,22.5
+Phil Jones,Centre Back,Defender,13.5
+Marcos Rojo,Centre Back,Defender,9.0
+Axel Tuanzebe,Centre Back,Defender,6.3
+Luke Shaw,Left Back,Defender,27.0
+Ashley Young,Left Back,Defender,4.5
+Aaron Wan Bissaka,Right Back,Defender,36.0
+Diogo Dalot,Right Back,Defender,18.0
+Timothy Fosu Mensah,Right Back,Defender,6.3
+Nemanja Matic,Defensive Midfield,Midfielder,22.5
+Paul Pogba,Central Midfield,Midfielder,90.0
+Fred,Central Midfield,Midfielder,22.5
+Scott McTominay,Central Midfield,Midfielder,18.0
+Juan Mata,Attacking Midfield,Midfielder,18.0
+Andreas Pereira,Attacking Midfield,Midfielder,13.5
+Anthony Martial,Left Winger,Midfielder,54.0
+Daniel James,Left Winger,Midfielder,22.5
+Jesse Lingard,Right Winger,Midfielder,36.0
+Marcus Rashford,Centre Forward,Striker,72.0
+Mason Greenwood,Centre Forward,Striker,9.0
+John Egan,Centre Back,Defender,6.3
+Jack OConnell,Centre Back,Defender,5.85
+Chris Basham,Centre Back,Defender,2.25
+Phil Jagielka,Centre Back,Defender,0.9
+Richard Stearman,Centre Back,Defender,0.9
+Kean Bryan,Centre Back,Defender,0.225
+Enda Stevens,Left Back,Defender,3.15
+George Baldock,Right Back,Defender,2.7
+Kieron Freeman,Right Back,Defender,1.35
+Muhamed Besic,Defensive Midfield,Midfielder,4.5
+John Fleck,Central Midfield,Midfielder,4.5
+Oliver Norwood,Central Midfield,Midfielder,4.5
+John Lundstram,Central Midfield,Midfielder,1.8
+Ben Osborn,Left Midfield,Midfielder,2.7
+Luke Freeman,Attacking Midfield,Midfielder,4.5
+Ravel Morrison,Attacking Midfield,Midfielder,0.9
+Callum Robinson,Left Winger,Midfielder,6.3
+Ricky Holmes,Left Winger,Midfielder,0.315
+Oliver McBurnie,Centre Forward,Striker,10.8
+Lys Mousset,Centre Forward,Striker,5.4
+Billy Sharp,Centre Forward,Striker,2.25
+David McGoldrick,Centre Forward,Striker,1.8
+Leon Clarke,Centre Forward,Striker,0.45
+Ben Godfrey,Centre Back,Defender,8.1
+Christoph Zimmermann,Centre Back,Defender,3.15
+Grant Hanley,Centre Back,Defender,2.7
+Timm Klose,Centre Back,Defender,2.7
+Jamal Lewis,Left Back,Defender,8.1
+Philip Heise,Left Back,Defender,0.9
+Max Aarons,Right Back,Defender,7.2
+Sam Byram,Right Back,Defender,3.15
+Ibrahim Amadou,Defensive Midfield,Midfielder,6.3
+Tom Trybull,Defensive Midfield,Midfielder,3.6
+Alexander Tettey,Defensive Midfield,Midfielder,1.8
+Mario Vrancic,Central Midfield,Midfielder,3.15
+Moritz Leitner,Central Midfield,Midfielder,2.7
+Kenny McLean,Central Midfield,Midfielder,2.25
+Todd Cantwell,Left Midfield,Midfielder,6.3
+Marco Stiepermann,Attacking Midfield,Midfielder,3.6
+Onel Hernandez,Left Winger,Midfielder,3.6
+Emiliano Buendia,Right Winger,Midfielder,16.2
+Patrick Roberts,Right Winger,Midfielder,4.5
+Teemu Pukki,Centre Forward,Striker,8.1
+Josip Drmic,Centre Forward,Striker,2.7
+Dennis Srbeny,Centre Forward,Striker,1.13
+Davinson Sanchez,Centre Back,Defender,49.5
+Toby Alderweireld,Centre Back,Defender,36.0
+Jan Vertonghen,Centre Back,Defender,19.8
+Juan Foyth,Centre Back,Defender,13.5
+Danny Rose,Left Back,Defender,22.5
+Ben Davies,Left Back,Defender,22.5
+Serge Aurier,Right Back,Defender,13.5
+Kyle Walker Peters,Right Back,Defender,9.0
+Eric Dier,Defensive Midfield,Midfielder,27.0
+Victor Wanyama,Defensive Midfield,Midfielder,13.5
+Oliver Skipp,Defensive Midfield,Midfielder,7.2
+Tanguy Ndombele,Central Midfield,Midfielder,58.5
+Giovani Lo Celso,Central Midfield,Midfielder,45.0
+Harry Winks,Central Midfield,Midfielder,36.0
+Moussa Sissoko,Central Midfield,Midfielder,22.5
+Ryan Sessegnon,Left Midfield,Midfielder,31.5
+Christian Eriksen,Attacking Midfield,Midfielder,90.0
+Dele Alli,Attacking Midfield,Midfielder,81.0
+Heung min Son,Left Winger,Midfielder,72.0
+Lucas Moura,Right Winger,Midfielder,36.0
+Erik Lamela,Right Winger,Midfielder,19.8
+Harry Kane,Centre Forward,Striker,135.0
+Tyrone Mings,Centre Back,Defender,16.2
+Bjorn Engels,Centre Back,Defender,9.0
+James Chester,Centre Back,Defender,7.2
+Ezri Konsa,Centre Back,Defender,7.2
+Kortney Hause,Centre Back,Defender,2.7
+Matt Targett,Left Back,Defender,9.0
+Neil Taylor,Left Back,Defender,3.6
+Frederic Guilbert,Right Back,Defender,5.4
+Ahmed Elmohamady,Right Back,Defender,2.7
+Marvelous Nakamba,Defensive Midfield,Midfielder,7.2
+Douglas Luiz,Central Midfield,Midfielder,9.0
+John McGinn,Central Midfield,Midfielder,5.85
+Conor Hourihane,Central Midfield,Midfielder,5.85
+Henri Lansbury,Central Midfield,Midfielder,1.35
+Jack Grealish,Attacking Midfield,Midfielder,22.5
+Trezeguet,Left Winger,Midfielder,7.2
+Anwar El Ghazi,Right Winger,Midfielder,6.75
+Jota,Right Winger,Midfielder,4.5
+Wesley,Centre Forward,Striker,18.0
+Jonathan Kodjia,Centre Forward,Striker,6.3
+Keinan Davis,Centre Forward,Striker,1.8
+Antonio Rudiger,Centre Back,Defender,45.0
+Andreas Christensen,Centre Back,Defender,31.5
+Kurt Zouma,Centre Back,Defender,22.5
+Fikayo Tomori,Centre Back,Defender,9.0
+Michael Hector,Centre Back,Defender,2.7
+Marcos Alonso,Left Back,Defender,28.8
+Emerson,Left Back,Defender,22.5
+Cesar Azpilicueta,Right Back,Defender,31.5
+Reece James,Right Back,Defender,6.3
+Jorginho,Defensive Midfield,Midfielder,58.5
+NGolo Kante,Central Midfield,Midfielder,90.0
+Mateo Kovacic,Central Midfield,Midfielder,31.5
+Ross Barkley,Central Midfield,Midfielder,27.0
+Ruben Loftus Cheek,Central Midfield,Midfielder,27.0
+Marco van Ginkel,Central Midfield,Midfielder,9.0
+Mason Mount,Attacking Midfield,Midfielder,31.5
+Callum Hudson Odoi,Left Winger,Midfielder,31.5
+Christian Pulisic,Right Winger,Midfielder,54.0
+Willian,Right Winger,Midfielder,31.5
+Pedro,Right Winger,Midfielder,18.0
+Tammy Abraham,Centre Forward,Striker,28.8
+Michy Batshuayi,Centre Forward,Striker,22.5
+Olivier Giroud,Centre Forward,Striker,10.8
+Virgil van Dijk,Centre Back,Defender,90.0
+Joe Gomez,Centre Back,Defender,31.5
+Joel Matip,Centre Back,Defender,31.5
+Dejan Lovren,Centre Back,Defender,18.0
+Sepp van den Berg,Centre Back,Defender,1.8
+Andrew Robertson,Left Back,Defender,54.0
+Trent Alexander Arnold,Right Back,Defender,72.0
+Nathaniel Clyne,Right Back,Defender,10.8
+Fabinho,Defensive Midfield,Midfielder,45.0
+Georginio Wijnaldum,Central Midfield,Midfielder,45.0
+Naby Keita,Central Midfield,Midfielder,45.0
+Jordan Henderson,Central Midfield,Midfielder,31.5
+Alex Oxlade Chamberlain,Central Midfield,Midfielder,31.5
+James Milner,Central Midfield,Midfielder,13.5
+Adam Lallana,Attacking Midfield,Midfielder,13.5
+Sadio Mane,Left Winger,Midfielder,108.0
+Mohamed Salah,Right Winger,Midfielder,135.0
+Xherdan Shaqiri,Right Winger,Midfielder,22.5
+Roberto Firmino,Centre Forward,Striker,72.0
+Divock Origi,Centre Forward,Striker,18.0
+Sokratis,Centre Back,Defender,18.0
+David Luiz,Centre Back,Defender,18.0
+Shkodran Mustafi,Centre Back,Defender,16.2
+Rob Holding,Centre Back,Defender,10.8
+Konstantinos Mavropanos,Centre Back,Defender,2.7
+Kieran Tierney,Left Back,Defender,22.5
+Sead Kolasinac,Left Back,Defender,18.0
+Hector Bellerin,Right Back,Defender,36.0
+Calum Chambers,Right Back,Defender,12.6
+Lucas Torreira,Defensive Midfield,Midfielder,49.5
+Granit Xhaka,Defensive Midfield,Midfielder,36.0
+Dani Ceballos,Central Midfield,Midfielder,40.5
+Matteo Guendouzi,Central Midfield,Midfielder,40.5
+Joe Willock,Central Midfield,Midfielder,9.0
+Ainsley Maitland Niles,Right Midfield,Midfielder,16.2
+Mesut Ozil,Attacking Midfield,Midfielder,22.5
+Bukayo Saka,Left Winger,Midfielder,6.3
+Nicolas Pepe,Right Winger,Midfielder,67.5
+Reiss Nelson,Right Winger,Midfielder,15.3
+Alexandre Lacazette,Centre Forward,Striker,63.0
+Pierre Emerick Aubameyang,Centre Forward,Striker,63.0
+Gabriel Martinelli,Centre Forward,Striker,7.2
+Jannik Vestergaard,Centre Back,Defender,18.0
+Jan Bednarek,Centre Back,Defender,13.5
+Jack Stephens,Centre Back,Defender,7.2
+Kevin Danso,Centre Back,Defender,7.2
+Maya Yoshida,Centre Back,Defender,6.3
+Ryan Bertrand,Left Back,Defender,13.5
+Sam McQueen,Left Back,Defender,0.9
+Cedric Soares,Right Back,Defender,10.8
+Yan Valery,Right Back,Defender,6.3
+Oriol Romeu,Defensive Midfield,Midfielder,9.0
+James Ward Prowse,Central Midfield,Midfielder,16.2
+Pierre Emile Hojbjerg,Central Midfield,Midfielder,13.5
+Stuart Armstrong,Central Midfield,Midfielder,7.2
+Nathan Redmond,Left Winger,Midfielder,18.0
+Moussa Djenepo,Left Winger,Midfielder,10.8
+Sofiane Boufal,Left Winger,Midfielder,10.8
+Danny Ings,Centre Forward,Striker,13.5
+Che Adams,Centre Forward,Striker,10.8
+Shane Long,Centre Forward,Striker,4.5
+Michael Obafemi,Centre Forward,Striker,1.8
+Aymeric Laporte,Centre Back,Defender,67.5
+John Stones,Centre Back,Defender,54.0
+Nicolas Otamendi,Centre Back,Defender,22.5
+Benjamin Mendy,Left Back,Defender,31.5
+Oleksandr Zinchenko,Left Back,Defender,27.0
+Angelino,Left Back,Defender,14.4
+Joao Cancelo,Right Back,Defender,49.5
+Kyle Walker,Right Back,Defender,45.0
+Rodri,Defensive Midfield,Midfielder,72.0
+Fernandinho,Defensive Midfield,Midfielder,10.8
+Ilkay Gundogan,Central Midfield,Midfielder,45.0
+Phil Foden,Central Midfield,Midfielder,27.0
+Kevin De Bruyne,Attacking Midfield,Midfielder,117.0
+David Silva,Attacking Midfield,Midfielder,18.0
+Raheem Sterling,Left Winger,Midfielder,126.0
+Leroy Sane,Left Winger,Midfielder,90.0
+Bernardo Silva,Right Winger,Midfielder,90.0
+Riyad Mahrez,Right Winger,Midfielder,54.0
+Gabriel Jesus,Centre Forward,Striker,63.0
+Sergio Aguero,Centre Forward,Striker,58.5
+Christian Kabasele,Centre Back,Defender,7.2
+Craig Dawson,Centre Back,Defender,5.4
+Craig Cathcart,Centre Back,Defender,4.5
+Adrian Mariappa,Centre Back,Defender,2.7
+Sebastian Prodl,Centre Back,Defender,2.25
+Adam Masina,Left Back,Defender,4.5
+Marvin Zeegelaar,Left Back,Defender,2.25
+Jose Holebas,Left Back,Defender,1.8
+Daryl Janmaat,Right Back,Defender,5.4
+Kiko Femenia,Right Back,Defender,5.4
+Dimitri Foulquier,Right Back,Defender,3.15
+Etienne Capoue,Defensive Midfield,Midfielder,7.2
+Nathaniel Chalobah,Defensive Midfield,Midfielder,6.3
+Abdoulaye Doucoure,Central Midfield,Midfielder,22.5
+Will Hughes,Central Midfield,Midfielder,16.2
+Tom Cleverley,Central Midfield,Midfielder,6.3
+Domingos Quina,Central Midfield,Midfielder,4.5
+Tom Dele Bashiru,Central Midfield,Midfielder,0.135
+Roberto Pereyra,Attacking Midfield,Midfielder,11.7
+Isaac Success,Left Winger,Midfielder,4.5
+Ismaila Sarr,Right Winger,Midfielder,27.0
+Gerard Deulofeu,Right Winger,Midfielder,22.5
+Andre Gray,Centre Forward,Striker,13.5
+Danny Welbeck,Centre Forward,Striker,10.8
+Troy Deeney,Centre Forward,Striker,9.0
+Mamadou Sakho,Centre Back,Defender,13.5
+James Tomkins,Centre Back,Defender,5.4
+Gary Cahill,Centre Back,Defender,5.4
+Jairo Riedewald,Centre Back,Defender,4.5
+Scott Dann,Centre Back,Defender,3.6
+Patrick van Aanholt,Left Back,Defender,9.0
+Joel Ward,Right Back,Defender,3.6
+Martin Kelly,Right Back,Defender,2.7
+Luka Milivojevic,Defensive Midfield,Midfielder,18.0
+Cheikhou Kouyate,Defensive Midfield,Midfielder,9.0
+Victor Camarasa,Central Midfield,Midfielder,9.0
+James McArthur,Central Midfield,Midfielder,6.3
+James McCarthy,Central Midfield,Midfielder,4.5
+Jeffrey Schlupp,Left Midfield,Midfielder,9.0
+Max Meyer,Attacking Midfield,Midfielder,13.5
+Wilfried Zaha,Right Winger,Midfielder,49.5
+Andros Townsend,Right Winger,Midfielder,13.5
+Christian Benteke,Centre Forward,Striker,13.5
+Jordan Ayew,Centre Forward,Striker,7.2
+Connor Wickham,Centre Forward,Striker,2.7
+Lewis Dunk,Centre Back,Defender,18.0
+Adam Webster,Centre Back,Defender,13.5
+Shane Duffy,Centre Back,Defender,10.8
+Dan Burn,Centre Back,Defender,2.7
+Leon Balogun,Centre Back,Defender,1.8
+Bernardo,Left Back,Defender,8.1
+Gaetan Bong,Left Back,Defender,1.8
+Martin Montoya,Right Back,Defender,7.2
+Ezequiel Schelotto,Right Back,Defender,1.8
+Tudor Baluta,Defensive Midfield,Midfielder,4.05
+Yves Bissouma,Central Midfield,Midfielder,13.5
+Davy Propper,Central Midfield,Midfielder,13.5
+Aaron Mooy,Central Midfield,Midfielder,12.6
+Pascal Gross,Central Midfield,Midfielder,9.0
+Dale Stephens,Central Midfield,Midfielder,5.4
+Andrew Crofts,Central Midfield,Midfielder,0.315
+Solly March,Left Midfield,Midfielder,7.2
+Leandro Trossard,Left Winger,Midfielder,14.4
+Jose Izquierdo,Left Winger,Midfielder,9.0
+Alireza Jahanbakhsh,Right Winger,Midfielder,10.8
+Neal Maupay,Centre Forward,Striker,16.2
+Glenn Murray,Centre Forward,Striker,2.7
+Aaron Connolly,Centre Forward,Striker,2.25
+Issa Diop,Centre Back,Defender,31.5
+Fabian Balbuena,Centre Back,Defender,10.8
+Angelo Ogbonna,Centre Back,Defender,7.2
+Winston Reid,Centre Back,Defender,4.5
+Goncalo Cardoso,Centre Back,Defender,2.25
+Arthur Masuaku,Left Back,Defender,9.0
+Aaron Cresswell,Left Back,Defender,7.2
+Ryan Fredericks,Right Back,Defender,6.3
+Pablo Zabaleta,Right Back,Defender,1.8
+Declan Rice,Defensive Midfield,Midfielder,45.0
+Carlos Sanchez,Defensive Midfield,Midfielder,1.35
+Jack Wilshere,Central Midfield,Midfielder,9.0
+Mark Noble,Central Midfield,Midfielder,6.3
+Pablo Fornals,Attacking Midfield,Midfielder,22.5
+Manuel Lanzini,Attacking Midfield,Midfielder,18.0
+Felipe Anderson,Left Winger,Midfielder,40.5
+Andrii Yarmolenko,Right Winger,Midfielder,18.0
+Michail Antonio,Right Winger,Midfielder,13.5
+Robert Snodgrass,Right Winger,Midfielder,6.3
+Sebastien Haller,Centre Forward,Striker,40.5
+Albian Ajeti,Centre Forward,Striker,6.3
+Willy Boly,Centre Back,Defender,13.5
+Conor Coady,Centre Back,Defender,13.5
+Jesus Vallejo,Centre Back,Defender,9.0
+Ryan Bennett,Centre Back,Defender,6.3
+Jonny Otto,Left Back,Defender,18.0
+Ruben Vinagre,Left Back,Defender,9.0
+Matt Doherty,Right Back,Defender,13.5
+Phil Ofosu Ayeh,Right Back,Defender,0.27
+Ruben Neves,Defensive Midfield,Midfielder,45.0
+Leander Dendoncker,Defensive Midfield,Midfielder,22.5
+Romain Saiss,Defensive Midfield,Midfielder,4.5
+Joao Moutinho,Central Midfield,Midfielder,9.0
+Morgan Gibbs White,Central Midfield,Midfielder,7.2
+Bruno Jordao,Central Midfield,Midfielder,2.25
+Ming Yang Yang,Central Midfield,Midfielder,0.225
+Diogo Jota,Left Winger,Midfielder,31.5
+Jordan Graham,Left Winger,Midfielder,0.45
+Adama Traore,Right Winger,Midfielder,13.5
+Pedro Neto,Right Winger,Midfielder,6.3
+Raul Jimenez,Centre Forward,Striker,31.5
+Patrick Cutrone,Centre Forward,Striker,22.5
+James Tarkowski,Centre Back,Defender,16.2
+Ben Mee,Centre Back,Defender,9.0
+Ben Gibson,Centre Back,Defender,9.0
+Kevin Long,Centre Back,Defender,2.25
+Charlie Taylor,Left Back,Defender,6.3
+Erik Pieters,Left Back,Defender,4.5
+Matthew Lowton,Right Back,Defender,4.5
+Phil Bardsley,Right Back,Defender,1.35
+Jack Cork,Defensive Midfield,Midfielder,13.5
+Ashley Westwood,Defensive Midfield,Midfielder,6.3
+Jeff Hendrick,Central Midfield,Midfielder,9.0
+Danny Drinkwater,Central Midfield,Midfielder,7.2
+Robbie Brady,Left Midfield,Midfielder,7.2
+Dwight McNeil,Left Winger,Midfielder,13.5
+Johann Berg Gudmundsson,Right Winger,Midfielder,9.0
+Aaron Lennon,Right Winger,Midfielder,4.5
+Chris Wood,Centre Forward,Striker,16.2
+Ashley Barnes,Centre Forward,Striker,9.0
+Jay Rodriguez,Centre Forward,Striker,9.0
+Matej Vydra,Centre Forward,Striker,7.2
+Caglar Soyuncu,Centre Back,Defender,18.0
+Jonny Evans,Centre Back,Defender,10.8
+Filip Benkovic,Centre Back,Defender,9.9
+Wes Morgan,Centre Back,Defender,1.8
+Ben Chilwell,Left Back,Defender,31.5
+Christian Fuchs,Left Back,Defender,2.7
+Ricardo Pereira,Right Back,Defender,27.0
+James Justin,Right Back,Defender,3.6
+Wilfred Ndidi,Defensive Midfield,Midfielder,31.5
+Hamza Choudhury,Defensive Midfield,Midfielder,9.0
+Nampalys Mendy,Defensive Midfield,Midfielder,7.2
+Daniel Amartey,Defensive Midfield,Midfielder,6.3
+Youri Tielemans,Central Midfield,Midfielder,40.5
+Dennis Praet,Central Midfield,Midfielder,21.6
+Matty James,Central Midfield,Midfielder,1.35
+Marc Albrighton,Right Midfield,Midfielder,9.0
+Harvey Barnes,Left Midfield,Midfielder,10.8
+James Maddison,Attacking Midfield,Midfielder,40.5
+Bartosz Kapustka,Attacking Midfield,Midfielder,2.25
+Demarai Gray,Left Winger,Midfielder,18.0
+George Thomas,Right Winger,Midfielder,0.45
+Ayoze Perez,Second Striker,Striker,18.0
+Jamie Vardy,Centre Forward,Striker,18.0
+Kelechi Iheanacho,Centre Forward,Striker,10.8
+Jamaal Lascelles,Centre Back,Defender,16.2
+Fabian Schar,Centre Back,Defender,10.8
+Florian Lejeune,Centre Back,Defender,7.2
+Federico Fernandez,Centre Back,Defender,6.3
+Ciaran Clark,Centre Back,Defender,5.4
+Paul Dummett,Left Back,Defender,6.3
+Jetro Willems,Left Back,Defender,4.5
+DeAndre Yedlin,Right Back,Defender,7.2
+Emil Krafth,Right Back,Defender,4.5
+Javier Manquillo,Right Back,Defender,4.5
+Jamie Sterry,Right Back,Defender,0.068
+Isaac Hayden,Defensive Midfield,Midfielder,9.0
+Sung yong Ki,Defensive Midfield,Midfielder,5.4
+Jack Colback,Defensive Midfield,Midfielder,2.7
+Sean Longstaff,Central Midfield,Midfielder,16.2
+Jonjo Shelvey,Central Midfield,Midfielder,13.5
+Matt Ritchie,Right Midfield,Midfielder,10.8
+Miguel Almiron,Attacking Midfield,Midfielder,18.0
+Henri Saivet,Attacking Midfield,Midfielder,0.9
+Christian Atsu,Left Winger,Midfielder,5.4
+Allan Saint Maximin,Right Winger,Midfielder,22.5
+Joelinton,Centre Forward,Striker,31.5
+Dwight Gayle,Centre Forward,Striker,13.5
+Yoshinori Muto,Centre Forward,Striker,8.1
+Andy Carroll,Centre Forward,Striker,5.4
+Michael Keane,Centre Back,Defender,27.0
+Yerry Mina,Centre Back,Defender,22.5
+Mason Holgate,Centre Back,Defender,6.3
+Lucas Digne,Left Back,Defender,27.0
+Leighton Baines,Left Back,Defender,3.15
+Seamus Coleman,Right Back,Defender,13.5
+Djibril Sidibe,Right Back,Defender,10.8
+Cuco Martina,Right Back,Defender,1.35
+Jean Philippe Gbamin,Defensive Midfield,Midfielder,25.2
+Morgan Schneiderlin,Defensive Midfield,Midfielder,13.5
+Andre Gomes,Central Midfield,Midfielder,25.2
+Fabian Delph,Central Midfield,Midfielder,13.5
+Tom Davies,Central Midfield,Midfielder,13.5
+Beni Baningime,Central Midfield,Midfielder,1.8
+Gylfi Sigurdsson,Attacking Midfield,Midfielder,31.5
+Richarlison,Left Winger,Midfielder,45.0
+Alex Iwobi,Left Winger,Midfielder,28.8
+Bernard,Left Winger,Midfielder,18.0
+Theo Walcott,Right Winger,Midfielder,13.5
+Moise Kean,Centre Forward,Striker,36.0
+Dominic Calvert Lewin,Centre Forward,Striker,18.0
+Cenk Tosun,Centre Forward,Striker,13.5
+Oumar Niasse,Centre Forward,Striker,5.4
+Nathan Ake,Centre Back,Defender,31.5
+Chris Mepham,Centre Back,Defender,11.7
+Steve Cook,Centre Back,Defender,9.0
+Jack Simpson,Centre Back,Defender,1.35
+Lloyd Kelly,Left Back,Defender,8.1
+Diego Rico,Left Back,Defender,6.3
+Charlie Daniels,Left Back,Defender,2.7
+Adam Smith,Right Back,Defender,6.3
+Jack Stacey,Right Back,Defender,3.6
+Simon Francis,Right Back,Defender,1.8
+Jefferson Lerma,Defensive Midfield,Midfielder,22.5
+Lewis Cook,Central Midfield,Midfielder,18.0
+Philip Billing,Central Midfield,Midfielder,13.5
+Dan Gosling,Central Midfield,Midfielder,3.15
+Andrew Surman,Central Midfield,Midfielder,2.25
+David Brooks,Attacking Midfield,Midfielder,27.0
+Ryan Fraser,Left Winger,Midfielder,27.0
+Arnaut Danjuma,Left Winger,Midfielder,10.8
+Junior Stanislas,Left Winger,Midfielder,3.15
+Harry Wilson,Right Winger,Midfielder,16.2
+Jordon Ibe,Right Winger,Midfielder,7.2
+Joshua King,Second Striker,Striker,18.0
+Callum Wilson,Centre Forward,Striker,27.0
+Dominic Solanke,Centre Forward,Striker,16.2
+Jeffrey Gouweleeuw,Centre Back,Defender,10.8
+Tin Jedvaj,Centre Back,Defender,6.75
+Felix Uduokhai,Centre Back,Defender,5.85
+Reece Oxford,Centre Back,Defender,2.7
+Marek Suchy,Centre Back,Defender,2.03
+Jozo Stanic,Centre Back,Defender,0.18
+Philipp Max,Left Back,Defender,15.3
+Iago,Left Back,Defender,4.5
+Mads Pedersen,Left Back,Defender,0.81
+Stephan Lichtsteiner,Right Back,Defender,1.35
+Raphael Framberger,Right Back,Defender,0.9
+Simon Asta,Right Back,Defender,0.225
+Rani Khedira,Defensive Midfield,Midfielder,9.0
+Carlos Gruezo,Defensive Midfield,Midfielder,1.8
+Felix Gotze,Defensive Midfield,Midfielder,0.9
+Daniel Baier,Defensive Midfield,Midfielder,0.72
+Jan Moravek,Central Midfield,Midfielder,0.675
+Georg Teigl,Right Midfield,Midfielder,0.63
+Fredrik Jensen,Attacking Midfield,Midfielder,2.25
+Marco Richter,Left Winger,Midfielder,9.0
+Ruben Vargas,Left Winger,Midfielder,6.3
+Andre Hahn,Right Winger,Midfielder,3.15
+Noah Sarenren Bazee,Right Winger,Midfielder,1.13
+Michael Gregoritsch,Second Striker,Striker,10.8
+Alfred Finnbogason,Centre Forward,Striker,13.5
+Florian Niederlechner,Centre Forward,Striker,4.5
+Sergio Cordova,Centre Forward,Striker,1.8
+Julian Schieber,Centre Forward,Striker,0.675
+Maurice Malone,Centre Forward,Striker,0.315
+Seong hoon Cheon,Centre Forward,Striker,0.225
+Manuel Akanji,Centre Back,Defender,36.0
+Mats Hummels,Centre Back,Defender,31.5
+Dan Axel Zagadou,Centre Back,Defender,25.2
+Leonardo Balerdi,Centre Back,Defender,12.6
+Nico Schulz,Left Back,Defender,22.5
+Marcel Schmelzer,Left Back,Defender,2.25
+Achraf Hakimi,Right Back,Defender,27.0
+Lukasz Piszczek,Right Back,Defender,2.7
+Mateu Morey,Right Back,Defender,0.9
+Axel Witsel,Defensive Midfield,Midfielder,28.8
+Julian Weigl,Defensive Midfield,Midfielder,22.5
+Tobias Raschl,Defensive Midfield,Midfielder,0.72
+Thomas Delaney,Central Midfield,Midfielder,24.3
+Mahmoud Dahoud,Central Midfield,Midfielder,9.0
+Raphael Guerreiro,Left Midfield,Midfielder,22.5
+Marco Reus,Attacking Midfield,Midfielder,45.0
+Julian Brandt,Left Winger,Midfielder,45.0
+Thorgan Hazard,Left Winger,Midfielder,34.2
+Jacob Bruun Larsen,Left Winger,Midfielder,13.5
+Jadon Sancho,Right Winger,Midfielder,90.0
+Paco Alcacer,Centre Forward,Striker,45.0
+Mario Gotze,Centre Forward,Striker,19.8
+Ibrahima Konate,Centre Back,Defender,40.5
+Dayot Upamecano,Centre Back,Defender,36.0
+Willi Orban,Centre Back,Defender,18.0
+Ethan Ampadu,Centre Back,Defender,9.0
+Frederik Jakel,Centre Back,Defender,0.135
+Malik Talabidi,Centre Back,Defender,0.135
+Marcel Halstenberg,Left Back,Defender,19.8
+Marcelo Saracchi,Left Back,Defender,9.0
+Luan Candido,Left Back,Defender,3.6
+Lukas Klostermann,Right Back,Defender,27.0
+Nordi Mukiele,Right Back,Defender,19.8
+Diego Demme,Defensive Midfield,Midfielder,15.3
+Tyler Adams,Defensive Midfield,Midfielder,11.7
+Stefan Ilsanker,Defensive Midfield,Midfielder,2.7
+Tom Krauss,Defensive Midfield,Midfielder,0.27
+Kevin Kampl,Central Midfield,Midfielder,19.8
+Amadou Haidara,Central Midfield,Midfielder,18.0
+Konrad Laimer,Central Midfield,Midfielder,15.3
+Christopher Nkunku,Central Midfield,Midfielder,13.5
+Mads Bidstrup,Central Midfield,Midfielder,0.9
+Hannes Wolf,Attacking Midfield,Midfielder,10.8
+Emil Forsberg,Left Winger,Midfielder,22.5
+Ademola Lookman,Left Winger,Midfielder,18.0
+Marcel Sabitzer,Right Winger,Midfielder,27.0
+Fabrice Hartmann,Right Winger,Midfielder,0.36
+Timo Werner,Centre Forward,Striker,58.5
+Yussuf Poulsen,Centre Forward,Striker,31.5
+Matheus Cunha,Centre Forward,Striker,13.5
+Patrik Schick,Centre Forward,Striker,13.5
+Niklas Stark,Centre Back,Defender,18.0
+Karim Rekik,Centre Back,Defender,13.5
+Jordan Torunarigha,Centre Back,Defender,9.0
+Dedryck Boyata,Centre Back,Defender,3.6
+Florian Baak,Centre Back,Defender,0.36
+Maximilian Mittelstadt,Left Back,Defender,9.9
+Marvin Plattenhardt,Left Back,Defender,9.0
+Lukas Klunter,Right Back,Defender,3.6
+Peter Pekarik,Right Back,Defender,0.72
+Arne Maier,Defensive Midfield,Midfielder,21.6
+Marko Grujic,Central Midfield,Midfielder,18.0
+Eduard Lowen,Central Midfield,Midfielder,6.3
+Vladimir Darida,Central Midfield,Midfielder,3.6
+Per Ciljan Skjelbred,Central Midfield,Midfielder,1.58
+Sidney Friede,Central Midfield,Midfielder,0.63
+Julian Albrecht,Central Midfield,Midfielder,0.27
+Ondrej Duda,Attacking Midfield,Midfielder,15.3
+Javairo Dilrosun,Left Winger,Midfielder,10.8
+Salomon Kalou,Left Winger,Midfielder,2.7
+Dennis Jastrzembski,Left Winger,Midfielder,0.72
+Dodi Lukebakio,Right Winger,Midfielder,16.2
+Marius Wolf,Right Winger,Midfielder,7.2
+Mathew Leckie,Right Winger,Midfielder,3.15
+Alexander Esswein,Right Winger,Midfielder,0.9
+Palko Dardai,Right Winger,Midfielder,0.9
+Maurice Covic,Right Winger,Midfielder,0.18
+Davie Selke,Centre Forward,Striker,13.5
+Daishawn Redan,Centre Forward,Striker,3.6
+Vedad Ibisevic,Centre Forward,Striker,1.8
+Pascal Kopke,Centre Forward,Striker,0.9
+Muhammed Kiprit,Centre Forward,Striker,0.27
+Robin Koch,Centre Back,Defender,9.0
+Dominique Heintz,Centre Back,Defender,6.75
+Philipp Lienhart,Centre Back,Defender,6.3
+Manuel Gulde,Centre Back,Defender,3.6
+Nico Schlotterbeck,Centre Back,Defender,2.25
+Christian Gunter,Left Back,Defender,8.1
+Luca Itter,Left Back,Defender,1.8
+Jonathan Schmid,Right Back,Defender,4.5
+Lukas Kubler,Right Back,Defender,2.25
+Nicolas Hofler,Defensive Midfield,Midfielder,3.6
+Amir Abrashi,Defensive Midfield,Midfielder,2.25
+Janik Haberer,Central Midfield,Midfielder,9.0
+Jerome Gondorf,Central Midfield,Midfielder,1.35
+Mike Frantz,Central Midfield,Midfielder,0.9
+Lino Tempelmann,Central Midfield,Midfielder,0.36
+Vincenzo Grifo,Left Winger,Midfielder,8.1
+Roland Sallai,Left Winger,Midfielder,4.05
+Marco Terrazzino,Left Winger,Midfielder,1.35
+Florian Kath,Left Winger,Midfielder,0.45
+Chang hun Kwon,Right Winger,Midfielder,4.95
+Woo yeong Jeong,Right Winger,Midfielder,1.8
+Yoric Ravet,Right Winger,Midfielder,1.13
+Brandon Borrello,Right Winger,Midfielder,1.08
+Luca Waldschmidt,Centre Forward,Striker,18.0
+Nils Petersen,Centre Forward,Striker,7.2
+Lucas Holer,Centre Forward,Striker,2.7
+Matthias Ginter,Centre Back,Defender,31.5
+Nico Elvedi,Centre Back,Defender,27.0
+Tony Jantschke,Centre Back,Defender,2.7
+Mamadou Doucoure,Centre Back,Defender,0.45
+Ramy Bensebaini,Left Back,Defender,7.2
+Andreas Poulsen,Left Back,Defender,2.7
+Oscar Wendt,Left Back,Defender,1.8
+Stefan Lainer,Right Back,Defender,11.25
+Jordan Beyer,Right Back,Defender,2.25
+Denis Zakaria,Defensive Midfield,Midfielder,25.2
+Christoph Kramer,Defensive Midfield,Midfielder,9.0
+Tobias Strobl,Defensive Midfield,Midfielder,6.3
+Florian Neuhaus,Central Midfield,Midfielder,19.8
+Jonas Hofmann,Central Midfield,Midfielder,8.1
+Laszlo Benes,Central Midfield,Midfielder,3.6
+Torben Musel,Attacking Midfield,Midfielder,0.315
+Fabian Johnson,Left Winger,Midfielder,2.7
+Keanan Bennetts,Left Winger,Midfielder,1.8
+Patrick Herrmann,Right Winger,Midfielder,4.05
+Ibrahima Traore,Right Winger,Midfielder,1.8
+Lars Stindl,Second Striker,Striker,9.0
+Raffael,Second Striker,Striker,2.25
+Alassane Plea,Centre Forward,Striker,27.0
+Breel Embolo,Centre Forward,Striker,12.6
+Marcus Thuram,Centre Forward,Striker,10.8
+Julio Villalba,Centre Forward,Striker,0.675
+Jonathan Tah,Centre Back,Defender,36.0
+Panagiotis Retsos,Centre Back,Defender,8.1
+Sven Bender,Centre Back,Defender,8.1
+Aleksandar Dragovic,Centre Back,Defender,8.1
+Wendell,Left Back,Defender,18.0
+Daley Sinkgraven,Left Back,Defender,2.7
+Mitchell Weiser,Right Back,Defender,12.6
+Lars Bender,Defensive Midfield,Midfielder,8.1
+Julian Baumgartlinger,Defensive Midfield,Midfielder,3.15
+Adrian Stanilewicz,Defensive Midfield,Midfielder,0.18
+Kerem Demirbay,Central Midfield,Midfielder,28.8
+Charles Aranguiz,Central Midfield,Midfielder,13.5
+Kai Havertz,Attacking Midfield,Midfielder,81.0
+Nadiem Amiri,Attacking Midfield,Midfielder,13.5
+Leon Bailey,Left Winger,Midfielder,36.0
+Paulinho,Left Winger,Midfielder,13.5
+Moussa Diaby,Left Winger,Midfielder,13.5
+Karim Bellarabi,Right Winger,Midfielder,13.5
+Kevin Volland,Centre Forward,Striker,31.5
+Lucas Alario,Centre Forward,Striker,15.3
+Joel Pohjanpalo,Centre Forward,Striker,0.9
+John Anthony Brooks,Centre Back,Defender,13.5
+Robin Knoche,Centre Back,Defender,7.2
+Marcel Tisserand,Centre Back,Defender,4.05
+Jeffrey Bruma,Centre Back,Defender,2.25
+Jerome Roussillon,Left Back,Defender,18.0
+Paulo Otavio,Left Back,Defender,0.9
+William,Right Back,Defender,9.9
+Kevin Mbabu,Right Back,Defender,9.0
+Josuha Guilavogui,Defensive Midfield,Midfielder,10.8
+Ignacio Camacho,Defensive Midfield,Midfielder,4.5
+Maximilian Arnold,Central Midfield,Midfielder,16.2
+Xaver Schlager,Central Midfield,Midfielder,13.5
+Yannick Gerhardt,Central Midfield,Midfielder,9.0
+Elvis Rexhbecaj,Central Midfield,Midfielder,7.2
+Yunus Malli,Attacking Midfield,Midfielder,4.5
+Josip Brekalo,Left Winger,Midfielder,13.5
+Joao Victor,Left Winger,Midfielder,2.7
+Renato Steffen,Right Winger,Midfielder,4.5
+Felix Klaus,Right Winger,Midfielder,2.7
+Ismail Azzaoui,Right Winger,Midfielder,0.36
+Admir Mehmedi,Second Striker,Striker,9.0
+Wout Weghorst,Centre Forward,Striker,22.5
+Daniel Ginczek,Centre Forward,Striker,10.8
+Lukas Nmecha,Centre Forward,Striker,0.9
+Kaan Ayhan,Centre Back,Defender,8.1
+Kasim Adams,Centre Back,Defender,6.3
+Andre Hoffmann,Centre Back,Defender,2.25
+Robin Bormuth,Centre Back,Defender,1.58
+Niko Giesselmann,Left Back,Defender,3.6
+Markus Suttner,Left Back,Defender,1.35
+Diego Contento,Left Back,Defender,0.9
+Georgios Siadas,Left Back,Defender,0.18
+Matthias Zimmermann,Right Back,Defender,4.5
+Jean Zimmer,Right Back,Defender,2.48
+Marcel Sobottka,Defensive Midfield,Midfielder,3.15
+Adam Bodzek,Defensive Midfield,Midfielder,0.36
+Lewis Baker,Central Midfield,Midfielder,3.6
+Alfredo Morales,Central Midfield,Midfielder,2.7
+Oliver Fink,Central Midfield,Midfielder,0.225
+Johannes Buhler,Right Midfield,Midfielder,0.09
+Erik Thommy,Left Midfield,Midfielder,3.15
+Kevin Stoger,Attacking Midfield,Midfielder,4.5
+Aymen Barkok,Attacking Midfield,Midfielder,1.8
+Thomas Pledl,Attacking Midfield,Midfielder,0.9
+Kelvin Ofori,Attacking Midfield,Midfielder,0.27
+Shinta Appelkamp,Attacking Midfield,Midfielder,0.09
+Kenan Karaman,Left Winger,Midfielder,2.25
+Nana Ampomah,Left Winger,Midfielder,2.25
+Davor Lovren,Left Winger,Midfielder,0.54
+Bernard Tekpetey,Right Winger,Midfielder,2.25
+Dawid Kownacki,Centre Forward,Striker,8.1
+Rouwen Hennings,Centre Forward,Striker,1.35
+Neven Subotic,Centre Back,Defender,2.7
+Marvin Friedrich,Centre Back,Defender,2.7
+Florian Hubner,Centre Back,Defender,1.58
+Keven Schlotterbeck,Centre Back,Defender,0.9
+Nicolai Rapp,Centre Back,Defender,0.54
+Michael Parensen,Centre Back,Defender,0.225
+Lennard Maloney,Centre Back,Defender,0.135
+Christopher Lenz,Left Back,Defender,0.72
+Ken Reichel,Left Back,Defender,0.54
+Christopher Trimmel,Right Back,Defender,0.54
+Julian Ryerson,Right Back,Defender,0.45
+Manuel Schmiedebach,Defensive Midfield,Midfielder,0.9
+Maurice Opfermann Arcones,Defensive Midfield,Midfielder,0.135
+Grischa Promel,Central Midfield,Midfielder,1.8
+Christian Gentner,Central Midfield,Midfielder,1.35
+Robert Andrich,Central Midfield,Midfielder,0.9
+Felix Kroos,Central Midfield,Midfielder,0.72
+Julius Kade,Attacking Midfield,Midfielder,0.36
+Laurenz Dehl,Attacking Midfield,Midfielder,0.135
+Joshua Mees,Left Winger,Midfielder,0.9
+Marius Bulter,Left Winger,Midfielder,0.9
+Suleiman Abdullahi,Right Winger,Midfielder,1.8
+Akaki Gogia,Right Winger,Midfielder,1.13
+Sheraldo Becker,Right Winger,Midfielder,1.13
+Florian Flecker,Right Winger,Midfielder,0.81
+Sebastian Andersson,Centre Forward,Striker,2.25
+Sebastian Polter,Centre Forward,Striker,2.03
+Anthony Ujah,Centre Forward,Striker,1.35
+Marcus Ingvartsen,Centre Forward,Striker,1.35
+Sebastian Schonlau,Centre Back,Defender,1.35
+Christian Strohdiek,Centre Back,Defender,0.54
+Uwe Hunemeier,Centre Back,Defender,0.36
+Luca Kilian,Centre Back,Defender,0.36
+Jan Luca Rumpf,Centre Back,Defender,0.135
+Jamilu Collins,Left Back,Defender,2.7
+Mohamed Drager,Right Back,Defender,2.25
+Laurent Jans,Right Back,Defender,0.63
+Klaus Gjasula,Defensive Midfield,Midfielder,0.675
+Dominik Bilogrevic,Defensive Midfield,Midfielder,0.045
+Sebastian Vasiliadis,Central Midfield,Midfielder,3.15
+Rifet Kapic,Central Midfield,Midfielder,0.585
+Cauly,Right Midfield,Midfielder,1.35
+Christopher Antwi Adjei,Left Midfield,Midfielder,1.35
+Abdelhamid Sabiri,Attacking Midfield,Midfielder,0.9
+Marlon Ritter,Attacking Midfield,Midfielder,0.45
+Gerrit Holtmann,Left Winger,Midfielder,1.35
+Kai Proger,Right Winger,Midfielder,0.72
+Marcel Hilssner,Right Winger,Midfielder,0.36
+Johannes Dorfler,Right Winger,Midfielder,0.225
+Sven Michel,Centre Forward,Striker,1.13
+Streli Mamba,Centre Forward,Striker,0.9
+Babacar Gueye,Centre Forward,Striker,0.675
+Ben Zolinski,Centre Forward,Striker,0.675
+Khiry Shelton,Centre Forward,Striker,0.45
+Evan NDicka,Centre Back,Defender,19.8
+Martin Hinteregger,Centre Back,Defender,10.8
+Almamy Toure,Centre Back,Defender,5.85
+Simon Falette,Centre Back,Defender,3.6
+David Abraham,Centre Back,Defender,2.25
+Marco Russ,Centre Back,Defender,0.675
+Erik Durm,Left Back,Defender,1.8
+Danny da Costa,Right Back,Defender,13.5
+Timothy Chandler,Right Back,Defender,3.6
+Lucas Torro,Defensive Midfield,Midfielder,3.15
+Gelson Fernandes,Defensive Midfield,Midfielder,1.35
+Makoto Hasebe,Defensive Midfield,Midfielder,0.9
+Nils Stendera,Defensive Midfield,Midfielder,0.18
+Sahverdi Cetin,Defensive Midfield,Midfielder,0.18
+Djibril Sow,Central Midfield,Midfielder,8.1
+Dominik Kohr,Central Midfield,Midfielder,7.65
+Sebastian Rode,Central Midfield,Midfielder,4.5
+Jonathan de Guzman,Central Midfield,Midfielder,2.25
+Marijan Cavar,Central Midfield,Midfielder,0.36
+Filip Kostic,Left Midfield,Midfielder,34.2
+Mijat Gacinovic,Attacking Midfield,Midfielder,9.9
+Daichi Kamada,Attacking Midfield,Midfielder,8.1
+Patrick Finger,Attacking Midfield,Midfielder,0.135
+Andre Silva,Centre Forward,Striker,19.8
+Bas Dost,Centre Forward,Striker,9.0
+Goncalo Paciencia,Centre Forward,Striker,8.1
+Dejan Joveljic,Centre Forward,Striker,3.6
+Jorge Mere,Centre Back,Defender,9.0
+Sebastiaan Bornauw,Centre Back,Defender,5.85
+Rafael Czichos,Centre Back,Defender,1.8
+Lasse Sobiech,Centre Back,Defender,1.08
+Jonas Hector,Left Back,Defender,9.0
+Noah Katterbach,Left Back,Defender,0.81
+Kingsley Ehizibue,Right Back,Defender,2.25
+Benno Schmitz,Right Back,Defender,0.9
+Matthias Bader,Right Back,Defender,0.45
+Ellyes Skhiri,Defensive Midfield,Midfielder,10.8
+Birger Verstraete,Defensive Midfield,Midfielder,3.6
+Marco Hoger,Defensive Midfield,Midfielder,1.8
+Vincent Koziello,Central Midfield,Midfielder,1.8
+Niklas Hauptmann,Central Midfield,Midfielder,1.8
+Christian Clemens,Right Midfield,Midfielder,1.58
+Marcel Risse,Right Midfield,Midfielder,1.35
+Louis Schaub,Attacking Midfield,Midfielder,3.6
+Dominick Drexler,Attacking Midfield,Midfielder,3.6
+Florian Kainz,Left Winger,Midfielder,2.7
+Darko Churlinov,Left Winger,Midfielder,0.36
+Kingsley Schindler,Right Winger,Midfielder,2.7
+Anthony Modeste,Centre Forward,Striker,6.3
+Jhon Cordoba,Centre Forward,Striker,5.85
+Simon Terodde,Centre Forward,Striker,3.15
+Matija Nastasic,Centre Back,Defender,16.2
+Ozan Kabak,Centre Back,Defender,13.5
+Salif Sane,Centre Back,Defender,10.8
+Benjamin Stambouli,Centre Back,Defender,9.0
+Juan Miranda,Left Back,Defender,4.5
+Bastian Oczipka,Left Back,Defender,3.6
+Jonas Carls,Left Back,Defender,0.18
+Jonjoe Kenny,Right Back,Defender,7.2
+Omar Mascarell,Defensive Midfield,Midfielder,7.2
+Weston McKennie,Central Midfield,Midfielder,18.0
+Suat Serdar,Central Midfield,Midfielder,11.7
+Nabil Bentaleb,Central Midfield,Midfielder,9.0
+Nassim Boujellab,Central Midfield,Midfielder,1.35
+Levent Mercan,Central Midfield,Midfielder,0.45
+Daniel Caligiuri,Right Midfield,Midfielder,5.85
+Alessandro Schopf,Right Midfield,Midfielder,4.5
+Amine Harit,Attacking Midfield,Midfielder,14.4
+Benito Raman,Left Winger,Midfielder,9.0
+Rabbi Matondo,Right Winger,Midfielder,8.1
+Steven Skrzybski,Right Winger,Midfielder,3.15
+Mark Uth,Centre Forward,Striker,8.1
+Guido Burgstaller,Centre Forward,Striker,4.95
+Ahmed Kutucu,Centre Forward,Striker,4.05
+Fabian Reese,Centre Forward,Striker,0.54
+Milos Veljkovic,Centre Back,Defender,7.2
+Omer Toprak,Centre Back,Defender,4.5
+Marco Friedl,Centre Back,Defender,3.15
+Sebastian Langkamp,Centre Back,Defender,1.8
+Niklas Moisander,Centre Back,Defender,1.8
+Christian Gross,Centre Back,Defender,0.27
+Ludwig Augustinsson,Left Back,Defender,10.8
+Michael Lang,Right Back,Defender,2.7
+Theodor Gebre Selassie,Right Back,Defender,2.25
+Nuri Sahin,Defensive Midfield,Midfielder,2.25
+Philipp Bargfrede,Defensive Midfield,Midfielder,2.25
+Ilia Gruev,Defensive Midfield,Midfielder,0.18
+Maximilian Eggestein,Central Midfield,Midfielder,27.0
+Davy Klaassen,Central Midfield,Midfielder,19.8
+Kevin Mohwald,Central Midfield,Midfielder,3.6
+Simon Straudi,Central Midfield,Midfielder,0.18
+Leonardo Bittencourt,Attacking Midfield,Midfielder,6.3
+David Philipp,Attacking Midfield,Midfielder,0.09
+Milot Rashica,Left Winger,Midfielder,18.0
+Johannes Eggestein,Right Winger,Midfielder,9.0
+Benjamin Goller,Right Winger,Midfielder,0.36
+Yuya Osako,Second Striker,Striker,4.5
+Fin Bartels,Second Striker,Striker,1.35
+Niclas Fullkrug,Centre Forward,Striker,7.2
+Josh Sargent,Centre Forward,Striker,5.4
+Claudio Pizarro,Centre Forward,Striker,0.45
+Luc Ihorst,Centre Forward,Striker,0.135
+Moussa Niakhate,Centre Back,Defender,12.6
+Jeremiah St. Juste,Centre Back,Defender,8.1
+Stefan Bell,Centre Back,Defender,3.15
+Alexander Hack,Centre Back,Defender,2.25
+Ahmet Gurleyen,Centre Back,Defender,0.36
+Aaron Martin,Left Back,Defender,18.0
+Jonathan Meier,Left Back,Defender,0.63
+Ronael Pierre Gabriel,Right Back,Defender,3.6
+Daniel Brosinski,Right Back,Defender,2.25
+Phillipp Mwene,Right Back,Defender,1.35
+Pierre Kunde Malong,Central Midfield,Midfielder,9.0
+Edimilson Fernandes,Central Midfield,Midfielder,7.2
+Danny Latza,Central Midfield,Midfielder,3.6
+Ridle Baku,Central Midfield,Midfielder,3.15
+Leandro Barreiro Martins,Central Midfield,Midfielder,0.45
+Levin Oztunali,Right Midfield,Midfielder,3.15
+Jean Paul Boetius,Attacking Midfield,Midfielder,5.4
+Alexandru Maxim,Attacking Midfield,Midfielder,1.8
+Robin Quaison,Second Striker,Striker,7.2
+Jean Philippe Mateta,Centre Forward,Striker,19.8
+Taiwo Awoniyi,Centre Forward,Striker,4.05
+Karim Onisiwo,Centre Forward,Striker,3.15
+Adam Szalai,Centre Forward,Striker,2.7
+Dong won Ji,Centre Forward,Striker,1.58
+Jonathan Burkardt,Centre Forward,Striker,1.58
+Cyrill Akono,Centre Forward,Striker,0.45
+Aaron Seydel,Centre Forward,Striker,0.36
+Kevin Vogt,Centre Back,Defender,10.8
+Stefan Posch,Centre Back,Defender,8.1
+Benjamin Hubner,Centre Back,Defender,6.3
+Ermin Bicakcic,Centre Back,Defender,3.6
+Kevin Akpoguma,Centre Back,Defender,3.6
+Lucas Ribeiro,Centre Back,Defender,2.7
+Konstantinos Stafylidis,Left Back,Defender,2.7
+Pavel Kaderabek,Right Back,Defender,18.0
+Joshua Brenet,Right Back,Defender,4.05
+Diadie Samassekou,Defensive Midfield,Midfielder,15.3
+Dennis Geiger,Defensive Midfield,Midfielder,7.65
+Sebastian Rudy,Defensive Midfield,Midfielder,5.85
+Havard Nordtveit,Defensive Midfield,Midfielder,2.25
+Florian Grillitsch,Central Midfield,Midfielder,19.8
+Lukas Rupp,Central Midfield,Midfielder,2.25
+Steven Zuber,Left Midfield,Midfielder,6.3
+Robert Zulj,Attacking Midfield,Midfielder,1.35
+Christoph Baumgartner,Attacking Midfield,Midfielder,0.72
+Sargis Adamyan,Left Winger,Midfielder,2.7
+Philipp Ochs,Left Winger,Midfielder,0.54
+Robert Skov,Right Winger,Midfielder,11.7
+Ihlas Bebou,Right Winger,Midfielder,10.8
+Andrej Kramaric,Centre Forward,Striker,34.2
+Ishak Belfodil,Centre Forward,Striker,13.5
+Jurgen Locadia,Centre Forward,Striker,9.0
+Lucas Hernandez,Centre Back,Defender,63.0
+Niklas Sule,Centre Back,Defender,54.0
+Benjamin Pavard,Centre Back,Defender,31.5
+Jerome Boateng,Centre Back,Defender,13.5
+Lars Lukas Mai,Centre Back,Defender,2.25
+David Alaba,Left Back,Defender,49.5
+Joshua Kimmich,Right Back,Defender,63.0
+Javi Martinez,Defensive Midfield,Midfielder,24.3
+Thiago,Central Midfield,Midfielder,63.0
+Leon Goretzka,Central Midfield,Midfielder,45.0
+Corentin Tolisso,Central Midfield,Midfielder,36.0
+Michael Cuisance,Central Midfield,Midfielder,10.8
+Philippe Coutinho,Attacking Midfield,Midfielder,81.0
+Kingsley Coman,Left Winger,Midfielder,54.0
+Ivan Perisic,Left Winger,Midfielder,21.6
+Alphonso Davies,Left Winger,Midfielder,13.5
+Serge Gnabry,Right Winger,Midfielder,54.0
+Thomas Muller,Second Striker,Striker,31.5
+Robert Lewandowski,Centre Forward,Striker,58.5
+Fiete Arp,Centre Forward,Striker,3.6
+Clement Lenglet,Centre Back,Defender,54.0
+Samuel Umtiti,Centre Back,Defender,40.5
+Gerard Pique,Centre Back,Defender,31.5
+Jean Clair Todibo,Centre Back,Defender,7.2
+Jordi Alba,Left Back,Defender,45.0
+Junior Firpo,Left Back,Defender,22.5
+Nelson Semedo,Right Back,Defender,36.0
+Moussa Wague,Right Back,Defender,4.5
+Sergio Busquets,Defensive Midfield,Midfielder,45.0
+Frenkie de Jong,Central Midfield,Midfielder,76.5
+Arthur,Central Midfield,Midfielder,63.0
+Sergi Roberto,Central Midfield,Midfielder,45.0
+Ivan Rakitic,Central Midfield,Midfielder,31.5
+Carles Alena,Central Midfield,Midfielder,27.0
+Arturo Vidal,Central Midfield,Midfielder,13.5
+Ousmane Dembele,Left Winger,Midfielder,90.0
+Ansu Fati,Left Winger,Midfielder,22.5
+Lionel Messi,Right Winger,Midfielder,135.0
+Carles Perez,Right Winger,Midfielder,9.0
+Antoine Griezmann,Centre Forward,Striker,117.0
+Luis Suarez,Centre Forward,Striker,45.0
+Ruben Vezo,Centre Back,Defender,5.4
+Erick Cabaco,Centre Back,Defender,3.6
+Rober Pier,Centre Back,Defender,2.25
+Sergio Postigo,Centre Back,Defender,2.25
+Oscar Duarte,Centre Back,Defender,0.9
+Carlos Clerc,Left Back,Defender,1.8
+Tono,Left Back,Defender,0.9
+Jorge Miramon,Right Back,Defender,2.7
+Coke,Right Back,Defender,1.8
+Ivan Lopez,Right Back,Defender,0.36
+Nemanja Radoja,Defensive Midfield,Midfielder,2.7
+Nikola Vukcevic,Defensive Midfield,Midfielder,2.25
+Enis Bardhi,Central Midfield,Midfielder,13.5
+Jose Campana,Central Midfield,Midfielder,13.5
+Gonzalo Melero,Central Midfield,Midfielder,3.6
+Ruben Rochina,Attacking Midfield,Midfielder,3.6
+Hernani,Right Winger,Midfielder,2.25
+Roger Marti,Centre Forward,Striker,9.0
+Jose Luis Morales,Centre Forward,Striker,9.0
+Borja Mayoral,Centre Forward,Striker,3.6
+Sergio Leon,Centre Forward,Striker,2.7
+Nestor Araujo,Centre Back,Defender,7.2
+Joseph Aidoo,Centre Back,Defender,7.2
+David Costas,Centre Back,Defender,2.7
+Jorge Saenz,Centre Back,Defender,2.7
+Lucas Olaza,Left Back,Defender,3.15
+David Junca,Left Back,Defender,1.35
+Hugo Mallo,Right Back,Defender,13.5
+Kevin Vazquez,Right Back,Defender,0.45
+Stanislav Lobotka,Defensive Midfield,Midfielder,22.5
+Okay Yokuslu,Defensive Midfield,Midfielder,10.8
+Fran Beltran,Central Midfield,Midfielder,16.2
+Pape Cheikh,Central Midfield,Midfielder,6.3
+Rafinha,Attacking Midfield,Midfielder,13.5
+Denis Suarez,Left Winger,Midfielder,10.8
+Pione Sisto,Left Winger,Midfielder,7.2
+Brais Mendez,Right Winger,Midfielder,18.0
+Juan Hernandez,Right Winger,Midfielder,0.9
+Santi Mina,Centre Forward,Striker,27.0
+Iago Aspas,Centre Forward,Striker,22.5
+Gabriel Fernandez,Centre Forward,Striker,2.7
+Claudio Beauvue,Centre Forward,Striker,2.25
+Marc Bartra,Centre Back,Defender,19.8
+Aissa Mandi,Centre Back,Defender,14.4
+Sidnei,Centre Back,Defender,9.0
+Zouhair Feddal,Centre Back,Defender,4.5
+Alfonso Pedraza,Left Back,Defender,15.75
+Alex Moreno,Left Back,Defender,6.3
+Emerson,Right Back,Defender,5.4
+Francis Guerrero,Right Back,Defender,3.6
+Antonio Barragan,Right Back,Defender,1.8
+William Carvalho,Defensive Midfield,Midfielder,22.5
+Javi Garcia,Defensive Midfield,Midfielder,1.8
+Andres Guardado,Central Midfield,Midfielder,4.5
+Wilfrid Kaptoum,Central Midfield,Midfielder,3.6
+Nabil Fekir,Attacking Midfield,Midfielder,54.0
+Sergio Canales,Attacking Midfield,Midfielder,22.5
+Diego Lainez,Left Winger,Midfielder,12.6
+Cristian Tello,Left Winger,Midfielder,9.0
+Juanmi,Right Winger,Midfielder,7.2
+Joaquin,Right Winger,Midfielder,1.8
+Borja Iglesias,Centre Forward,Striker,25.2
+Loren Moron,Centre Forward,Striker,9.0
+Joaquin Fernandez,Centre Back,Defender,2.7
+Mohammed Salisu,Centre Back,Defender,2.25
+Federico Barba,Centre Back,Defender,1.8
+Kiko Olivas,Centre Back,Defender,1.8
+Javi Sanchez,Centre Back,Defender,1.8
+Nacho Martinez,Left Back,Defender,4.5
+Pedro Porro,Right Back,Defender,9.0
+Antonito,Right Back,Defender,1.8
+Javi Moyano,Right Back,Defender,0.72
+Luismi,Defensive Midfield,Midfielder,0.63
+Ruben Alcaraz,Central Midfield,Midfielder,9.0
+Fede San Emeterio,Central Midfield,Midfielder,4.5
+Michel,Central Midfield,Midfielder,1.8
+Anuar,Central Midfield,Midfielder,1.35
+Alvaro Aguado,Attacking Midfield,Midfielder,0.54
+Toni Villa,Left Winger,Midfielder,3.6
+Waldo Rubio,Left Winger,Midfielder,0.9
+Jorge de Frutos,Right Winger,Midfielder,4.5
+Pablo Hervias,Right Winger,Midfielder,0.63
+Sergi Guardiola,Centre Forward,Striker,4.5
+Enes Unal,Centre Forward,Striker,4.5
+Oscar Plano,Centre Forward,Striker,3.6
+Sandro Ramirez,Centre Forward,Striker,3.6
+Jules Kounde,Centre Back,Defender,22.5
+Diego Carlos,Centre Back,Defender,13.5
+Sergi Gomez,Centre Back,Defender,7.2
+Daniel Carrico,Centre Back,Defender,2.7
+Sergio Reguilon,Left Back,Defender,19.8
+Sergio Escudero,Left Back,Defender,6.75
+Jesus Navas,Right Back,Defender,3.6
+Nemanja Gudelj,Defensive Midfield,Midfielder,5.85
+Fernando,Defensive Midfield,Midfielder,4.05
+Oliver Torres,Central Midfield,Midfielder,15.3
+Ever Banega,Central Midfield,Midfielder,13.5
+Joan Jordan,Central Midfield,Midfielder,12.6
+Franco Vazquez,Attacking Midfield,Midfielder,13.5
+Alejandro Pozo,Attacking Midfield,Midfielder,2.25
+Lucas Ocampos,Left Winger,Midfielder,13.5
+Bryan Gil,Left Winger,Midfielder,9.0
+Nolito,Left Winger,Midfielder,1.8
+Rony Lopes,Right Winger,Midfielder,22.5
+Munas Dabbur,Centre Forward,Striker,13.5
+Chicharito,Centre Forward,Striker,10.8
+Luuk de Jong,Centre Forward,Striker,10.8
+Munir El Haddadi,Centre Forward,Striker,9.0
+Paulo Oliveira,Centre Back,Defender,5.4
+Pedro Bigas,Centre Back,Defender,2.7
+Anaitz Arbilla,Centre Back,Defender,1.8
+Esteban Burgos,Centre Back,Defender,0.9
+Ivan Ramis,Centre Back,Defender,0.9
+Jose Angel,Left Back,Defender,4.5
+Alvaro Tejero,Right Back,Defender,2.7
+Roberto Correa,Right Back,Defender,0.72
+Pape Diop,Defensive Midfield,Midfielder,1.35
+Gonzalo Escalante,Central Midfield,Midfielder,3.6
+Edu Exposito,Central Midfield,Midfielder,3.6
+Sergio Alvarez,Central Midfield,Midfielder,2.25
+Takashi Inui,Left Winger,Midfielder,3.6
+Pablo de Blasis,Left Winger,Midfielder,1.8
+Fabian Orellana,Right Winger,Midfielder,2.25
+Pedro Leon,Right Winger,Midfielder,1.62
+Sergi Enrich,Centre Forward,Striker,6.75
+Kike,Centre Forward,Striker,2.7
+Charles,Centre Forward,Striker,1.8
+Quique,Centre Forward,Striker,1.35
+Jose Gimenez,Centre Back,Defender,63.0
+Stefan Savic,Centre Back,Defender,31.5
+Mario Hermoso,Centre Back,Defender,22.5
+Felipe,Centre Back,Defender,18.0
+Renan Lodi,Left Back,Defender,13.5
+Kieran Trippier,Right Back,Defender,31.5
+Sime Vrsaljko,Right Back,Defender,18.0
+Santiago Arias,Right Back,Defender,16.2
+Thomas,Defensive Midfield,Midfielder,45.0
+Marcos Llorente,Defensive Midfield,Midfielder,27.0
+Saul Niguez,Central Midfield,Midfielder,81.0
+Hector Herrera,Central Midfield,Midfielder,19.8
+Koke,Right Midfield,Midfielder,63.0
+Thomas Lemar,Left Winger,Midfielder,36.0
+Vitolo,Left Winger,Midfielder,16.2
+Angel Correa,Right Winger,Midfielder,31.5
+Joao Felix,Second Striker,Striker,90.0
+Alvaro Morata,Centre Forward,Striker,45.0
+Diego Costa,Centre Forward,Striker,22.5
+Ivan Saponjic,Centre Forward,Striker,2.7
+Domingos Duarte,Centre Back,Defender,2.7
+Jose Antonio Martinez,Centre Back,Defender,1.08
+Neyder Lozano,Centre Back,Defender,0.54
+German Sanchez,Centre Back,Defender,0.45
+Alex Martinez,Left Back,Defender,0.9
+Ismail Koybasi,Left Back,Defender,0.45
+Carlos Neva,Left Back,Defender,0.18
+Victor Diaz,Right Back,Defender,1.08
+Quini,Right Back,Defender,0.63
+Maxime Gonalons,Defensive Midfield,Midfielder,3.6
+Yangel Herrera,Defensive Midfield,Midfielder,1.8
+Angel Montoro,Central Midfield,Midfielder,1.35
+Yan Brice,Central Midfield,Midfielder,0.9
+Ramon Azeez,Central Midfield,Midfielder,0.72
+Fede Vico,Attacking Midfield,Midfielder,1.35
+Darwin Machis,Left Winger,Midfielder,2.7
+Alvaro Vadillo,Right Winger,Midfielder,1.8
+Antonio Puertas,Right Winger,Midfielder,1.8
+Carlos Fernandez,Centre Forward,Striker,1.8
+Roberto Soldado,Centre Forward,Striker,0.9
+Adrian Ramos,Centre Forward,Striker,0.9
+Ramiro Funes Mori,Centre Back,Defender,7.2
+Pau Torres,Centre Back,Defender,5.4
+Raul Albiol,Centre Back,Defender,4.5
+Alberto Moreno,Left Back,Defender,8.1
+Xavi Quintilla,Left Back,Defender,1.8
+Mario Gaspar,Right Back,Defender,9.0
+Ruben Pena,Right Back,Defender,7.2
+Andre Zambo Anguissa,Defensive Midfield,Midfielder,22.5
+Santiago Caseres,Defensive Midfield,Midfielder,9.0
+Bruno Soriano,Defensive Midfield,Midfielder,0.72
+Manu Trigueros,Central Midfield,Midfielder,13.5
+Vicente Iborra,Central Midfield,Midfielder,8.1
+Santi Cazorla,Central Midfield,Midfielder,3.6
+Manu Morlanes,Central Midfield,Midfielder,2.25
+Javi Ontiveros,Left Winger,Midfielder,6.75
+Moi Gomez,Left Winger,Midfielder,4.5
+Samu Chukwueze,Right Winger,Midfielder,27.0
+Leo Suarez,Right Winger,Midfielder,0.9
+Gerard Moreno,Centre Forward,Striker,15.75
+Karl Toko Ekambi,Centre Forward,Striker,15.75
+Carlos Bacca,Centre Forward,Striker,4.5
+Diego Llorente,Centre Back,Defender,22.5
+Aritz Elustondo,Centre Back,Defender,9.0
+Modibo Sagnan,Centre Back,Defender,4.05
+Robin Le Normand,Centre Back,Defender,3.6
+Nacho Monreal,Left Back,Defender,7.2
+Aihen Munoz,Left Back,Defender,6.75
+Joseba Zaldua,Right Back,Defender,9.0
+Andoni Gorosabel,Right Back,Defender,1.35
+Igor Zubeldia,Defensive Midfield,Midfielder,27.0
+Asier Illarramendi,Defensive Midfield,Midfielder,22.5
+Mikel Merino,Central Midfield,Midfielder,13.5
+Ruben Pardo,Central Midfield,Midfielder,3.6
+Ander Guevara,Central Midfield,Midfielder,2.25
+David Zurutuza,Central Midfield,Midfielder,2.25
+Martin Odegaard,Attacking Midfield,Midfielder,18.0
+Portu,Attacking Midfield,Midfielder,9.0
+Luca Sangalli,Attacking Midfield,Midfielder,3.6
+Mikel Oyarzabal,Left Winger,Midfielder,54.0
+Ander Barrenetxea,Left Winger,Midfielder,9.0
+Adnan Januzaj,Right Winger,Midfielder,13.5
+Willian Jose,Centre Forward,Striker,27.0
+Alexander Isak,Centre Forward,Striker,7.2
+Inigo Martinez,Centre Back,Defender,28.8
+Yeray Alvarez,Centre Back,Defender,22.5
+Unai Nunez,Centre Back,Defender,13.5
+Yuri Berchiche,Left Back,Defender,18.0
+Mikel Balenziaga,Left Back,Defender,1.8
+Cristian Ganea,Left Back,Defender,0.9
+Oscar de Marcos,Right Back,Defender,5.4
+Ander Capa,Right Back,Defender,2.7
+Inigo Lekue,Right Back,Defender,1.8
+Mikel San Jose,Defensive Midfield,Midfielder,6.75
+Mikel Vesga,Defensive Midfield,Midfielder,3.6
+Benat Etxebarria,Central Midfield,Midfielder,3.6
+Dani Garcia,Central Midfield,Midfielder,3.6
+Oihan Sancet,Central Midfield,Midfielder,0.9
+Raul Garcia,Attacking Midfield,Midfielder,6.75
+Unai Lopez,Attacking Midfield,Midfielder,1.35
+Iker Muniain,Left Winger,Midfielder,13.5
+Inigo Cordoba,Left Winger,Midfielder,3.6
+Ibai Gomez,Right Winger,Midfielder,3.6
+Gaizka Larrazabal,Right Winger,Midfielder,2.25
+Inaki Williams,Centre Forward,Striker,45.0
+Asier Villalibre,Centre Forward,Striker,1.8
+Aritz Aduriz,Centre Forward,Striker,0.9
+Kenan Kodro,Centre Forward,Striker,0.9
+Djene,Centre Back,Defender,22.5
+Leandro Cabrera,Centre Back,Defender,4.5
+Bruno Gonzalez,Centre Back,Defender,1.8
+Xabi Etxeita,Centre Back,Defender,1.8
+Marc Cucurella,Left Back,Defender,9.0
+Mathias Olivera,Left Back,Defender,2.7
+Vitorino Antunes,Left Back,Defender,2.25
+Raul Garcia,Left Back,Defender,0.9
+Damian Suarez,Right Back,Defender,3.15
+Allan Nyom,Right Back,Defender,2.7
+David Timor,Defensive Midfield,Midfielder,1.35
+Markel Bergara,Defensive Midfield,Midfielder,0.72
+Mauro Arambarri,Central Midfield,Midfielder,13.5
+Nemanja Maksimovic,Central Midfield,Midfielder,13.5
+Kenedy,Left Midfield,Midfielder,9.0
+Faycal Fajr,Attacking Midfield,Midfielder,4.05
+Francisco Portillo,Attacking Midfield,Midfielder,3.6
+Amath Ndiaye,Left Winger,Midfielder,3.6
+Jason,Right Winger,Midfielder,4.5
+Jaime Mata,Centre Forward,Striker,9.0
+Angel Rodriguez,Centre Forward,Striker,2.7
+Enric Gallego,Centre Forward,Striker,2.7
+Jorge Molina,Centre Forward,Striker,1.8
+Dimitrios Siovas,Centre Back,Defender,5.4
+Kenneth Omeruo,Centre Back,Defender,4.5
+Unai Bustinza,Centre Back,Defender,3.6
+Chidozie Awaziem,Centre Back,Defender,3.15
+Rodrigo Tarin,Centre Back,Defender,1.8
+Jonathan Silva,Left Back,Defender,2.7
+Vasyl Kravets,Left Back,Defender,2.7
+Kevin Rodrigues,Left Back,Defender,2.7
+Roberto Rosales,Right Back,Defender,2.25
+Marc Navarro,Right Back,Defender,1.8
+Ruben Perez,Defensive Midfield,Midfielder,6.75
+Roque Mesa,Central Midfield,Midfielder,6.3
+Recio,Central Midfield,Midfielder,2.7
+Christian Rivera,Central Midfield,Midfielder,2.25
+Oscar Rodriguez,Attacking Midfield,Midfielder,9.0
+Fede Varela,Attacking Midfield,Midfielder,1.8
+Javi Eraso,Attacking Midfield,Midfielder,1.35
+Jose Manuel Arnaiz,Left Winger,Midfielder,2.25
+Alexander Szymanowski,Left Winger,Midfielder,1.35
+Sabin Merino,Left Winger,Midfielder,0.9
+Aitor Ruibal,Right Winger,Midfielder,1.35
+Youssef En Nesyri,Centre Forward,Striker,10.8
+Martin Braithwaite,Centre Forward,Striker,9.0
+Guido Carrillo,Centre Forward,Striker,6.75
+Victor Laguardia,Centre Back,Defender,9.0
+Lisandro Magallan,Centre Back,Defender,5.4
+Ximo Navarro,Centre Back,Defender,2.7
+Rodrigo Ely,Centre Back,Defender,1.8
+Tachi,Centre Back,Defender,0.9
+Ruben Duarte,Left Back,Defender,4.5
+Adrian Marin,Left Back,Defender,0.72
+Martin Aguirregabiria,Right Back,Defender,6.75
+Rafa Navarro,Right Back,Defender,0.45
+Pere Pons,Defensive Midfield,Midfielder,3.6
+Manu Garcia,Defensive Midfield,Midfielder,1.8
+Daniel Torres,Defensive Midfield,Midfielder,0.81
+Tomas Pina,Central Midfield,Midfielder,2.25
+Mubarak Wakaso,Central Midfield,Midfielder,2.25
+Javi Munoz,Central Midfield,Midfielder,0.45
+Luis Rioja,Left Winger,Midfielder,1.35
+Burgui,Left Winger,Midfielder,1.35
+Oliver Burke,Right Winger,Midfielder,6.75
+Aleix Vidal,Right Winger,Midfielder,3.6
+Lucas Perez,Centre Forward,Striker,3.6
+Joselu,Centre Forward,Striker,3.6
+John Guidetti,Centre Forward,Striker,2.7
+Raul Navas,Centre Back,Defender,2.7
+Facundo Roncaglia,Centre Back,Defender,2.25
+Unai Garcia,Centre Back,Defender,1.8
+David Garcia,Centre Back,Defender,1.8
+Aridane Hernandez,Centre Back,Defender,0.63
+Pervis Estupinan,Left Back,Defender,1.8
+Nacho Vidal,Right Back,Defender,1.8
+Lillo Castellano,Right Back,Defender,0.63
+Oier,Defensive Midfield,Midfielder,1.08
+Luis Perea,Defensive Midfield,Midfielder,0.45
+Darko Brasanac,Central Midfield,Midfielder,1.8
+Fran Merida,Central Midfield,Midfielder,1.35
+Jon Moncayola,Central Midfield,Midfielder,1.35
+Inigo Perez,Central Midfield,Midfielder,0.72
+Ruben Garcia,Attacking Midfield,Midfielder,3.15
+Roberto Torres,Attacking Midfield,Midfielder,1.8
+Chimy Avila,Left Winger,Midfielder,4.5
+Kike Barja,Right Winger,Midfielder,1.35
+Robert Ibanez,Right Winger,Midfielder,0.9
+Juan Villar,Right Winger,Midfielder,0.81
+Adrian Lopez,Centre Forward,Striker,2.25
+Brandon,Centre Forward,Striker,1.8
+Marc Cardona,Centre Forward,Striker,1.35
+Mouctar Diakhaby,Centre Back,Defender,27.0
+Gabriel Paulista,Centre Back,Defender,18.0
+Eliaquim Mangala,Centre Back,Defender,9.0
+Ezequiel Garay,Centre Back,Defender,7.2
+Jose Gaya,Left Back,Defender,45.0
+Jaume Costa,Left Back,Defender,3.6
+Daniel Wass,Right Back,Defender,12.6
+Cristiano Piccini,Right Back,Defender,9.0
+Thierry Correia,Right Back,Defender,5.4
+Francis Coquelin,Defensive Midfield,Midfielder,18.0
+Geoffrey Kondogbia,Central Midfield,Midfielder,27.0
+Dani Parejo,Central Midfield,Midfielder,27.0
+Kang in Lee,Attacking Midfield,Midfielder,18.0
+Goncalo Guedes,Left Winger,Midfielder,36.0
+Denis Cheryshev,Left Winger,Midfielder,5.4
+Manu Vallejo,Left Winger,Midfielder,4.5
+Carlos Soler,Right Winger,Midfielder,45.0
+Ferran Torres,Right Winger,Midfielder,18.0
+Rodrigo,Centre Forward,Striker,45.0
+Maxi Gomez,Centre Forward,Striker,36.0
+Kevin Gameiro,Centre Forward,Striker,8.1
+Ruben Sobrino,Centre Forward,Striker,2.7
+Raphael Varane,Centre Back,Defender,63.0
+Eder Militao,Centre Back,Defender,45.0
+Sergio Ramos,Centre Back,Defender,22.5
+Nacho,Centre Back,Defender,18.0
+Ferland Mendy,Left Back,Defender,36.0
+Marcelo,Left Back,Defender,22.5
+Daniel Carvajal,Right Back,Defender,45.0
+Alvaro Odriozola,Right Back,Defender,22.5
+Casemiro,Defensive Midfield,Midfielder,54.0
+Toni Kroos,Central Midfield,Midfielder,54.0
+Luka Modric,Central Midfield,Midfielder,18.0
+Federico Valverde,Central Midfield,Midfielder,18.0
+Isco,Attacking Midfield,Midfielder,54.0
+James Rodriguez,Attacking Midfield,Midfielder,45.0
+Brahim Diaz,Attacking Midfield,Midfielder,15.3
+Eden Hazard,Left Winger,Midfielder,135.0
+Vinicius Junior,Left Winger,Midfielder,63.0
+Marco Asensio,Left Winger,Midfielder,54.0
+Rodrygo,Left Winger,Midfielder,36.0
+Gareth Bale,Right Winger,Midfielder,54.0
+Lucas Vazquez,Right Winger,Midfielder,22.5
+Luka Jovic,Centre Forward,Striker,54.0
+Karim Benzema,Centre Forward,Striker,36.0
+Mariano Diaz,Centre Forward,Striker,18.0
+Fernando Calero,Centre Back,Defender,9.0
+David Lopez,Centre Back,Defender,8.1
+Bernardo Espinosa,Centre Back,Defender,5.4
+Naldo,Centre Back,Defender,1.8
+Lluis Lopez,Centre Back,Defender,1.35
+Adria Pedrosa,Left Back,Defender,9.0
+Didac Vila,Left Back,Defender,3.6
+Sebastien Corchia,Right Back,Defender,1.8
+Javi Lopez,Right Back,Defender,0.9
+Pipa,Right Back,Defender,0.27
+Marc Roca,Defensive Midfield,Midfielder,27.0
+Ander Iturraspe,Defensive Midfield,Midfielder,2.25
+Sergi Darder,Central Midfield,Midfielder,12.6
+Victor Sanchez,Central Midfield,Midfielder,2.7
+Esteban Granero,Central Midfield,Midfielder,2.7
+Pol Lozano,Central Midfield,Midfielder,1.35
+Matias Vargas,Left Winger,Midfielder,9.9
+Lei Wu,Left Winger,Midfielder,9.0
+Pablo Piatti,Left Winger,Midfielder,3.6
+Oscar Melendo,Right Winger,Midfielder,9.0
+Javi Puado,Right Winger,Midfielder,0.9
+Jonathan Calleri,Centre Forward,Striker,8.1
+Facundo Ferreyra,Centre Forward,Striker,3.6
+Victor Campuzano,Centre Forward,Striker,0.27
+Antonio Raillo,Centre Back,Defender,2.25
+Martin Valjent,Centre Back,Defender,2.25
+Aleksandar Sedlar,Centre Back,Defender,0.81
+Xisco Campos,Centre Back,Defender,0.09
+Abdul Rahman Baba,Left Back,Defender,4.5
+Lumor,Left Back,Defender,1.26
+Joan Sastre,Right Back,Defender,1.8
+Fran Gamez,Right Back,Defender,0.45
+Aleix Febas,Central Midfield,Midfielder,3.6
+Iddrisu Baba,Central Midfield,Midfielder,0.9
+Dani Rodriguez,Central Midfield,Midfielder,0.63
+Marc Pedraza,Central Midfield,Midfielder,0.36
+Salva Sevilla,Central Midfield,Midfielder,0.18
+Takefusa Kubo,Attacking Midfield,Midfielder,9.0
+Josep Sene,Attacking Midfield,Midfielder,0.225
+Lago Junior,Left Winger,Midfielder,1.8
+Aleksandar Trajkovski,Left Winger,Midfielder,1.8
+Yannis Salibur,Right Winger,Midfielder,1.8
+Ariday Cabrera,Right Winger,Midfielder,0.36
+Cucho Hernandez,Centre Forward,Striker,9.0
+Pablo Chavarria,Centre Forward,Striker,2.25
+Ante Budimir,Centre Forward,Striker,1.8
+Abdon Prats,Centre Forward,Striker,0.72
+Alex Alegria,Centre Forward,Striker,0.72
+Nikola Milenkovic,Centre Back,Defender,27.0
+German Pezzella,Centre Back,Defender,16.2
+Jacob Rasmussen,Centre Back,Defender,3.6
+Federico Ceccherini,Centre Back,Defender,3.15
+Martin Caceres,Centre Back,Defender,1.35
+Dalbert,Left Back,Defender,9.0
+Luca Ranieri,Left Back,Defender,1.8
+Aleksa Terzic,Left Back,Defender,1.35
+Pol Lirola,Right Back,Defender,11.7
+Lorenzo Venuti,Right Back,Defender,1.8
+Erick Pulgar,Defensive Midfield,Midfielder,12.6
+Milan Badelj,Defensive Midfield,Midfielder,4.5
+Bryan Dabo,Defensive Midfield,Midfielder,3.15
+Marco Benassi,Central Midfield,Midfielder,16.2
+Gaetano Castrovilli,Central Midfield,Midfielder,7.2
+Szymon Zurkowski,Central Midfield,Midfielder,3.6
+Sebastian Cristoforo,Central Midfield,Midfielder,1.62
+Valentin Eysseric,Attacking Midfield,Midfielder,2.7
+Tofol Montiel,Attacking Midfield,Midfielder,0.9
+Franck Ribery,Left Winger,Midfielder,3.6
+Riccardo Sottil,Left Winger,Midfielder,2.25
+Federico Chiesa,Right Winger,Midfielder,54.0
+Rachid Ghezzal,Right Winger,Midfielder,7.2
+Cyril Thereau,Second Striker,Striker,0.45
+Pedro,Centre Forward,Striker,16.2
+Kevin Prince Boateng,Centre Forward,Striker,6.3
+Dusan Vlahovic,Centre Forward,Striker,2.7
+Bobby Duncan,Centre Forward,Striker,1.35
+Stefano Denswil,Centre Back,Defender,5.4
+Mattia Bani,Centre Back,Defender,2.25
+Danilo,Centre Back,Defender,0.72
+Gabriele Corbo,Centre Back,Defender,0.72
+Nehuen Paz,Centre Back,Defender,0.36
+Mitchell Dijks,Left Back,Defender,4.5
+Takehiro Tomiyasu,Right Back,Defender,8.1
+Ibrahima Mbaye,Right Back,Defender,2.7
+Gary Medel,Defensive Midfield,Midfielder,3.38
+Roberto Soriano,Central Midfield,Midfielder,6.3
+Mattias Svanberg,Central Midfield,Midfielder,3.6
+Andrea Poli,Central Midfield,Midfielder,2.7
+Jerdy Schouten,Central Midfield,Midfielder,1.8
+Blerim Dzemaili,Central Midfield,Midfielder,0.9
+Nicola Sansone,Left Winger,Midfielder,6.75
+Ladislav Krejci,Left Winger,Midfielder,2.48
+Riccardo Orsolini,Right Winger,Midfielder,18.0
+Andreas Skov Olsen,Right Winger,Midfielder,7.2
+Federico Santander,Centre Forward,Striker,5.4
+Mattia Destro,Centre Forward,Striker,3.15
+Rodrigo Palacio,Centre Forward,Striker,0.45
+Jeison Murillo,Centre Back,Defender,9.0
+Omar Colley,Centre Back,Defender,7.2
+Julian Chabot,Centre Back,Defender,3.15
+Alex Ferrari,Centre Back,Defender,1.35
+Vasco Regini,Centre Back,Defender,1.26
+Nicola Murru,Left Back,Defender,6.3
+Tommaso Augello,Left Back,Defender,0.9
+Bartosz Bereszynski,Right Back,Defender,7.2
+Fabio Depaoli,Right Back,Defender,4.5
+Albin Ekdal,Defensive Midfield,Midfielder,4.5
+Karol Linetty,Central Midfield,Midfielder,13.5
+Jakub Jankto,Central Midfield,Midfielder,10.8
+Ronaldo Vieira,Central Midfield,Midfielder,4.5
+Andrea Bertolacci,Central Midfield,Midfielder,2.7
+Morten Thorsby,Central Midfield,Midfielder,2.25
+Mehdi Leris,Central Midfield,Midfielder,2.25
+Edgar Barreto,Central Midfield,Midfielder,0.9
+Gaston Ramirez,Attacking Midfield,Midfielder,7.2
+Gonzalo Maroni,Attacking Midfield,Midfielder,4.5
+Emiliano Rigoni,Right Winger,Midfielder,7.2
+Gianluca Caprari,Second Striker,Striker,9.0
+Manolo Gabbiadini,Centre Forward,Striker,10.8
+Fabio Quagliarella,Centre Forward,Striker,2.25
+Federico Bonazzoli,Centre Forward,Striker,1.35
+Gian Marco Ferrari,Centre Back,Defender,12.6
+Marlon,Centre Back,Defender,9.0
+Filippo Romagna,Centre Back,Defender,5.4
+Vlad Chiriches,Centre Back,Defender,5.4
+Leonardo Fontanesi,Centre Back,Defender,0.135
+Rogerio,Left Back,Defender,9.0
+Georgios Kyriakopoulos,Left Back,Defender,0.54
+Federico Peluso,Left Back,Defender,0.45
+Alessandro Tripaldelli,Left Back,Defender,0.45
+Mert Muldur,Right Back,Defender,4.5
+Jeremy Toljan,Right Back,Defender,3.6
+Francesco Magnanelli,Defensive Midfield,Midfielder,0.72
+Alfred Duncan,Central Midfield,Midfielder,15.3
+Manuel Locatelli,Central Midfield,Midfielder,10.8
+Pedro Obiang,Central Midfield,Midfielder,6.3
+Mehdi Bourabia,Central Midfield,Midfielder,3.6
+Luca Mazzitelli,Central Midfield,Midfielder,3.15
+Hamed Junior Traore,Attacking Midfield,Midfielder,12.6
+Filip Djuricic,Attacking Midfield,Midfielder,1.35
+Jeremie Boga,Left Winger,Midfielder,5.4
+Domenico Berardi,Right Winger,Midfielder,21.6
+Gregoire Defrel,Centre Forward,Striker,10.8
+Francesco Caputo,Centre Forward,Striker,4.5
+Giacomo Raspadori,Centre Forward,Striker,0.45
+Andrea Cistana,Centre Back,Defender,4.5
+Giangiacomo Magnani,Centre Back,Defender,4.5
+Jhon Chancellor,Centre Back,Defender,1.35
+Daniele Gastaldello,Centre Back,Defender,0.27
+Massimiliano Mangraviti,Centre Back,Defender,0.113
+Bruno Martella,Left Back,Defender,1.62
+Felipe Curcio,Left Back,Defender,0.36
+Stefano Sabelli,Right Back,Defender,1.53
+Ales Mateju,Right Back,Defender,1.53
+Alessandro Semprini,Right Back,Defender,0.18
+Sandro Tonali,Defensive Midfield,Midfielder,27.0
+Mattia Viviani,Defensive Midfield,Midfielder,0.36
+Dimitri Bisoli,Central Midfield,Midfielder,3.15
+Emanuele Ndoj,Central Midfield,Midfielder,2.7
+Romulo,Central Midfield,Midfielder,2.25
+Daniele Dessena,Central Midfield,Midfielder,0.45
+Jaromir Zmrhal,Left Midfield,Midfielder,2.93
+Nikolas Spalek,Attacking Midfield,Midfielder,2.25
+Leonardo Morosini,Attacking Midfield,Midfielder,1.35
+Luca Tremolada,Attacking Midfield,Midfielder,0.81
+Mario Balotelli,Centre Forward,Striker,18.0
+Alfredo Donnarumma,Centre Forward,Striker,5.4
+Florian Aye,Centre Forward,Striker,2.88
+Ernesto Torregrossa,Centre Forward,Striker,2.7
+Alessandro Matri,Centre Forward,Striker,0.27
+Riccardo Gagliolo,Centre Back,Defender,2.7
+Bruno Alves,Centre Back,Defender,0.9
+Kastriot Dermaku,Centre Back,Defender,0.54
+Giuseppe Pezzella,Left Back,Defender,2.7
+Matteo Darmian,Right Back,Defender,9.0
+Vincent Laurini,Right Back,Defender,1.35
+Simone Iacoponi,Right Back,Defender,0.9
+Hernani,Defensive Midfield,Midfielder,3.15
+Gaston Brugman,Defensive Midfield,Midfielder,2.25
+Matteo Scozzarella,Defensive Midfield,Midfielder,0.72
+Emerson Espinoza,Defensive Midfield,Midfielder,0.27
+Alberto Grassi,Central Midfield,Midfielder,6.3
+Juraj Kucka,Central Midfield,Midfielder,4.5
+Antonino Barilla,Central Midfield,Midfielder,0.9
+Gianni Munari,Central Midfield,Midfielder,0.09
+Gervinho,Left Winger,Midfielder,8.1
+Yann Karamoh,Right Winger,Midfielder,9.0
+Dejan Kulusevski,Right Winger,Midfielder,5.4
+Mattia Sprocati,Right Winger,Midfielder,1.35
+Luca Siligardi,Right Winger,Midfielder,0.72
+Roberto Inglese,Centre Forward,Striker,13.5
+Andreas Cornelius,Centre Forward,Striker,2.7
+Andrea Adorante,Centre Forward,Striker,0.45
+Matthijs de Ligt,Centre Back,Defender,67.5
+Leonardo Bonucci,Centre Back,Defender,25.2
+Daniele Rugani,Centre Back,Defender,19.8
+Merih Demiral,Centre Back,Defender,13.5
+Giorgio Chiellini,Centre Back,Defender,6.75
+Alex Sandro,Left Back,Defender,40.5
+Danilo,Right Back,Defender,18.0
+Mattia De Sciglio,Right Back,Defender,12.6
+Emre Can,Defensive Midfield,Midfielder,29.7
+Miralem Pjanic,Central Midfield,Midfielder,63.0
+Aaron Ramsey,Central Midfield,Midfielder,36.0
+Adrien Rabiot,Central Midfield,Midfielder,31.5
+Rodrigo Bentancur,Central Midfield,Midfielder,31.5
+Blaise Matuidi,Central Midfield,Midfielder,19.8
+Sami Khedira,Central Midfield,Midfielder,7.65
+Cristiano Ronaldo,Left Winger,Midfielder,81.0
+Marko Pjaca,Left Winger,Midfielder,9.0
+Federico Bernardeschi,Right Winger,Midfielder,40.5
+Douglas Costa,Right Winger,Midfielder,34.2
+Juan Cuadrado,Right Winger,Midfielder,16.2
+Paulo Dybala,Second Striker,Striker,67.5
+Gonzalo Higuain,Centre Forward,Striker,31.5
+Mario Mandzukic,Centre Forward,Striker,9.0
+Sebastian Walukiewicz,Centre Back,Defender,3.6
+Luca Ceppitelli,Centre Back,Defender,2.25
+Ragnar Klavan,Centre Back,Defender,1.35
+Fabio Pisacane,Centre Back,Defender,0.63
+Luca Pellegrini,Left Back,Defender,9.0
+Charalampos Lykogiannis,Left Back,Defender,1.35
+Paolo Farago,Right Back,Defender,4.5
+Federico Mattiello,Right Back,Defender,2.25
+Fabrizio Cacciatore,Right Back,Defender,0.72
+Simone Pinna,Right Back,Defender,0.158
+Christian Oliva,Defensive Midfield,Midfielder,4.5
+Luca Cigarini,Defensive Midfield,Midfielder,0.72
+Nahitan Nandez,Central Midfield,Midfielder,19.8
+Radja Nainggolan,Central Midfield,Midfielder,18.0
+Marko Rog,Central Midfield,Midfielder,9.9
+Lucas Castro,Central Midfield,Midfielder,5.4
+Artur Ionita,Central Midfield,Midfielder,4.05
+Alessandro Deiola,Central Midfield,Midfielder,1.08
+Valter Birsa,Attacking Midfield,Midfielder,1.8
+Joao Pedro,Second Striker,Striker,7.2
+Daniele Ragatzu,Second Striker,Striker,0.36
+Giovanni Simeone,Centre Forward,Striker,15.3
+Leonardo Pavoletti,Centre Forward,Striker,10.8
+Alberto Cerri,Centre Forward,Striker,5.4
+Milan Skriniar,Centre Back,Defender,54.0
+Stefan de Vrij,Centre Back,Defender,45.0
+Diego Godin,Centre Back,Defender,18.0
+Alessandro Bastoni,Centre Back,Defender,13.5
+Andrea Ranocchia,Centre Back,Defender,2.7
+Lorenzo Pirola,Centre Back,Defender,0.36
+Federico Dimarco,Left Back,Defender,4.5
+Danilo DAmbrosio,Right Back,Defender,11.7
+Marcelo Brozovic,Defensive Midfield,Midfielder,45.0
+Nicolo Barella,Central Midfield,Midfielder,32.4
+Stefano Sensi,Central Midfield,Midfielder,27.0
+Matias Vecino,Central Midfield,Midfielder,20.7
+Roberto Gagliardini,Central Midfield,Midfielder,13.5
+Lucien Agoume,Central Midfield,Midfielder,3.15
+Borja Valero,Central Midfield,Midfielder,2.25
+Valentino Lazaro,Right Midfield,Midfielder,17.1
+Antonio Candreva,Right Midfield,Midfielder,6.3
+Kwadwo Asamoah,Left Midfield,Midfielder,11.7
+Cristiano Biraghi,Left Midfield,Midfielder,9.0
+Alexis Sanchez,Left Winger,Midfielder,31.5
+Matteo Politano,Right Winger,Midfielder,27.0
+Romelu Lukaku,Centre Forward,Striker,67.5
+Lautaro Martinez,Centre Forward,Striker,36.0
+Sebastiano Esposito,Centre Forward,Striker,4.5
+Gianluca Mancini,Centre Back,Defender,19.8
+Chris Smalling,Centre Back,Defender,18.0
+Juan Jesus,Centre Back,Defender,8.1
+Federico Fazio,Centre Back,Defender,5.4
+Mert Cetin,Centre Back,Defender,1.8
+Leonardo Spinazzola,Left Back,Defender,13.5
+Aleksandar Kolarov,Left Back,Defender,7.2
+Davide Santon,Left Back,Defender,4.5
+Alessandro Florenzi,Right Back,Defender,22.5
+Davide Zappacosta,Right Back,Defender,13.5
+Amadou Diawara,Defensive Midfield,Midfielder,13.5
+Lorenzo Pellegrini,Central Midfield,Midfielder,36.0
+Bryan Cristante,Central Midfield,Midfielder,22.5
+Jordan Veretout,Central Midfield,Midfielder,18.0
+Nicolo Zaniolo,Attacking Midfield,Midfielder,36.0
+Henrikh Mkhitaryan,Attacking Midfield,Midfielder,22.5
+Javier Pastore,Attacking Midfield,Midfielder,13.5
+Justin Kluivert,Left Winger,Midfielder,20.7
+Diego Perotti,Left Winger,Midfielder,10.8
+Cengiz Under,Right Winger,Midfielder,31.5
+Mirko Antonucci,Right Winger,Midfielder,0.45
+Edin Dzeko,Centre Forward,Striker,12.6
+Nikola Kalinic,Centre Forward,Striker,9.0
+Kalidou Koulibaly,Centre Back,Defender,67.5
+Konstantinos Manolas,Centre Back,Defender,40.5
+Nikola Maksimovic,Centre Back,Defender,15.3
+Lorenzo Tonelli,Centre Back,Defender,6.3
+Sebastiano Luperto,Centre Back,Defender,3.6
+Faouzi Ghoulam,Left Back,Defender,20.7
+Mario Rui,Left Back,Defender,13.5
+Elseid Hysaj,Right Back,Defender,16.2
+Kevin Malcuit,Right Back,Defender,14.4
+Giovanni Di Lorenzo,Right Back,Defender,13.5
+Allan,Central Midfield,Midfielder,54.0
+Fabian Ruiz,Central Midfield,Midfielder,54.0
+Piotr Zielinski,Central Midfield,Midfielder,36.0
+Eljif Elmas,Central Midfield,Midfielder,15.3
+Gianluca Gaetano,Attacking Midfield,Midfielder,0.72
+Lorenzo Insigne,Left Winger,Midfielder,58.5
+Hirving Lozano,Left Winger,Midfielder,36.0
+Amin Younes,Left Winger,Midfielder,7.2
+Leandrinho,Left Winger,Midfielder,0.45
+Jose Callejon,Right Winger,Midfielder,18.0
+Amato Ciciretti,Right Winger,Midfielder,1.35
+Arkadiusz Milik,Centre Forward,Striker,36.0
+Dries Mertens,Centre Forward,Striker,22.5
+Fernando Llorente,Centre Forward,Striker,4.5
+Rodrigo Becao,Centre Back,Defender,6.3
+Samir,Centre Back,Defender,5.4
+William Troost Ekong,Centre Back,Defender,3.6
+Bram Nuytinck,Centre Back,Defender,3.15
+Nicholas Opoku,Centre Back,Defender,0.9
+Sebastien De Maio,Centre Back,Defender,0.9
+Francisco Sierralta,Centre Back,Defender,0.36
+Jens Stryger Larsen,Right Back,Defender,3.6
+Hidde ter Avest,Right Back,Defender,1.8
+Rolando Mandragora,Defensive Midfield,Midfielder,13.5
+Walace,Defensive Midfield,Midfielder,7.65
+Mato Jajalo,Defensive Midfield,Midfielder,0.9
+Rodrigo de Paul,Central Midfield,Midfielder,22.5
+Seko Fofana,Central Midfield,Midfielder,11.7
+Antonin Barak,Central Midfield,Midfielder,10.8
+Ken Sema,Left Midfield,Midfielder,3.15
+Ignacio Pussetto,Right Winger,Midfielder,9.0
+Kevin Lasagna,Centre Forward,Striker,6.75
+Stefano Okaka,Centre Forward,Striker,4.5
+Ilija Nestorovski,Centre Forward,Striker,3.6
+Lukasz Teodorczyk,Centre Forward,Striker,2.7
+Emanuele Rovini,Centre Forward,Striker,0.225
+Amir Rrahmani,Centre Back,Defender,2.7
+Marash Kumbulla,Centre Back,Defender,2.7
+Pawel Dawidowicz,Centre Back,Defender,1.8
+Salvatore Bocchetti,Centre Back,Defender,1.35
+Koray Gunter,Centre Back,Defender,0.9
+Alan Empereur,Centre Back,Defender,0.45
+Alessandro Crescenzi,Left Back,Defender,0.63
+Luigi Vitale,Left Back,Defender,0.54
+Claud Adjapong,Right Back,Defender,3.15
+Davide Faraoni,Right Back,Defender,0.81
+Wesley,Right Back,Defender,0.18
+Miguel Veloso,Defensive Midfield,Midfielder,0.9
+Andrea Danzi,Defensive Midfield,Midfielder,0.45
+Daniel Bessa,Central Midfield,Midfielder,3.6
+Valerio Verre,Central Midfield,Midfielder,3.15
+Sofyan Amrabat,Central Midfield,Midfielder,2.7
+Mattia Zaccagni,Central Midfield,Midfielder,2.25
+Emmanuel Badu,Central Midfield,Midfielder,1.35
+Matteo Pessina,Central Midfield,Midfielder,1.35
+Liam Henderson,Central Midfield,Midfielder,1.26
+Lucas Felippe,Central Midfield,Midfielder,0.068
+Darko Lazovic,Right Midfield,Midfielder,2.7
+Gennaro Tutino,Left Winger,Midfielder,2.25
+Antonio Di Gaudio,Left Winger,Midfielder,1.26
+Mariusz Stepinski,Centre Forward,Striker,3.6
+Eddie Salcedo,Centre Forward,Striker,1.8
+Samuel Di Carmine,Centre Forward,Striker,1.53
+Giampaolo Pazzini,Centre Forward,Striker,0.45
+Lubomir Tupta,Centre Forward,Striker,0.36
+Francesco Vicari,Centre Back,Defender,4.5
+Igor,Centre Back,Defender,2.7
+Thiago Cionek,Centre Back,Defender,0.72
+Bartosz Salamon,Centre Back,Defender,0.72
+Nenad Tomovi?,Centre Back,Defender,0.54
+Felipe,Centre Back,Defender,0.45
+Paolo Cannistra,Centre Back,Defender,0.023
+Arkadiusz Reca,Left Back,Defender,3.15
+Riccardo Mastrilli,Left Back,Defender,0.09
+Jacopo Sala,Right Back,Defender,1.44
+Simone Missiroli,Defensive Midfield,Midfielder,1.8
+Mirko Valdifiori,Defensive Midfield,Midfielder,0.45
+Jasmin Kurtic,Central Midfield,Midfielder,5.4
+Alessandro Murgia,Central Midfield,Midfielder,4.5
+Mattia Valoti,Central Midfield,Midfielder,0.9
+Marco DAlessandro,Right Midfield,Midfielder,1.8
+Gabriel Strefezza,Right Midfield,Midfielder,0.63
+Mohamed Fares,Left Midfield,Midfielder,5.4
+Federico Di Francesco,Left Winger,Midfielder,4.05
+Marko Jankovic,Right Winger,Midfielder,1.62
+Andrea Petagna,Centre Forward,Striker,18.0
+Gabriele Moncini,Centre Forward,Striker,1.8
+Alberto Paloschi,Centre Forward,Striker,1.8
+Sergio Floccari,Centre Forward,Striker,0.27
+Fabio Lucioni,Centre Back,Defender,0.81
+Biagio Meccariello,Centre Back,Defender,0.54
+Luca Rossettini,Centre Back,Defender,0.45
+Davide Riccardi,Centre Back,Defender,0.135
+Luka Dumancic,Centre Back,Defender,0.068
+Cristian DellOrco,Left Back,Defender,0.9
+Marco Calderoni,Left Back,Defender,0.63
+Brayan Vera,Left Back,Defender,0.45
+Antonino Gallo,Left Back,Defender,0.18
+Romario Benzar,Right Back,Defender,2.25
+Andrea Rispoli,Right Back,Defender,0.9
+Riccardo Fiamozzi,Right Back,Defender,0.63
+Roberto Pierno,Right Back,Defender,0.09
+Giannelli Imbula,Defensive Midfield,Midfielder,4.5
+Panagiotis Tachtsidis,Defensive Midfield,Midfielder,1.08
+Jacopo Petriccione,Central Midfield,Midfielder,1.8
+Yevhen Shakhov,Central Midfield,Midfielder,1.8
+Zan Majer,Central Midfield,Midfielder,1.35
+Andrea Tabanelli,Central Midfield,Midfielder,0.54
+Radoslav Tsonev,Central Midfield,Midfielder,0.225
+Marco Mancosu,Attacking Midfield,Midfielder,2.25
+Diego Farias,Second Striker,Striker,4.05
+Filippo Falco,Second Striker,Striker,3.6
+Simone Lo Faso,Second Striker,Striker,0.45
+Edgaras Dubickas,Second Striker,Striker,0.09
+Khouma Babacar,Centre Forward,Striker,7.2
+Gianluca Lapadula,Centre Forward,Striker,4.5
+Andrea La Mantia,Centre Forward,Striker,2.25
+Armando Izzo,Centre Back,Defender,18.0
+Nicolas NKoulou,Centre Back,Defender,18.0
+Lyanco,Centre Back,Defender,7.2
+Kevin Bonifazi,Centre Back,Defender,4.95
+Koffi Djidji,Centre Back,Defender,4.5
+Bremer,Centre Back,Defender,3.15
+Wilfried Stephane Singo,Centre Back,Defender,0.113
+Cristian Ansaldi,Left Back,Defender,4.5
+Ola Aina,Right Back,Defender,9.0
+Lorenzo De Silvestri,Right Back,Defender,3.6
+Tomas Rincon,Defensive Midfield,Midfielder,7.2
+Soualiho Meite,Central Midfield,Midfielder,11.7
+Daniele Baselli,Central Midfield,Midfielder,9.0
+Sasa Lukic,Central Midfield,Midfielder,3.6
+Diego Laxalt,Left Midfield,Midfielder,10.8
+Alex Berenguer,Left Winger,Midfielder,5.4
+Simone Verdi,Right Winger,Midfielder,20.7
+Iago Falque,Right Winger,Midfielder,15.75
+Vittorio Parigini,Right Winger,Midfielder,1.8
+Simone Edera,Right Winger,Midfielder,0.9
+Vincenzo Millico,Second Striker,Striker,0.9
+Andrea Belotti,Centre Forward,Striker,31.5
+Simone Zaza,Centre Forward,Striker,9.0
+Nicola Rauti,Centre Forward,Striker,0.36
+Francesco Acerbi,Centre Back,Defender,10.8
+Luiz Felipe,Centre Back,Defender,9.0
+Denis Vavro,Centre Back,Defender,7.2
+Stefan Radu,Centre Back,Defender,4.5
+Bastos,Centre Back,Defender,3.6
+Nicolo Armini,Centre Back,Defender,0.18
+Jorge Silva,Centre Back,Defender,0.045
+Jordan Lukaku,Left Back,Defender,5.4
+Riza Durmisi,Left Back,Defender,3.6
+Patric,Right Back,Defender,1.62
+Tiago Casasola,Right Back,Defender,0.45
+Lucas Leiva,Defensive Midfield,Midfielder,8.1
+Sergej Milinkovic Savic,Central Midfield,Midfielder,58.5
+Valon Berisha,Central Midfield,Midfielder,6.3
+Danilo Cataldi,Central Midfield,Midfielder,3.6
+Marco Parolo,Central Midfield,Midfielder,2.7
+Manuel Lazzari,Right Midfield,Midfielder,16.2
+Adam Marusic,Right Midfield,Midfielder,6.3
+Djavan Anderson,Right Midfield,Midfielder,0.27
+Senad Lulic,Left Midfield,Midfielder,3.6
+Luis Alberto,Attacking Midfield,Midfielder,25.2
+Andre Anderson,Attacking Midfield,Midfielder,0.81
+Jony,Left Winger,Midfielder,9.0
+Ricardo Kishna,Left Winger,Midfielder,0.9
+Bobby Adekanye,Right Winger,Midfielder,0.54
+Joaquin Correa,Second Striker,Striker,25.2
+Ciro Immobile,Centre Forward,Striker,36.0
+Felipe Caicedo,Centre Forward,Striker,2.7
+Cristian Romero,Centre Back,Defender,13.5
+Davide Biraschi,Centre Back,Defender,4.05
+Cristian Zapata,Centre Back,Defender,1.8
+Edoardo Goldaniga,Centre Back,Defender,1.8
+Jawad El Yamiq,Centre Back,Defender,0.72
+Antonio Barreca,Left Back,Defender,6.3
+Domenico Criscito,Left Back,Defender,3.6
+Marko Pajac,Left Back,Defender,1.35
+Peter Ankersen,Right Back,Defender,2.7
+Paolo Ghiglione,Right Back,Defender,2.25
+Lasse Schone,Defensive Midfield,Midfielder,2.7
+Ivan Radovanovic,Defensive Midfield,Midfielder,2.7
+Sandro,Defensive Midfield,Midfielder,1.8
+Stefano Sturaro,Central Midfield,Midfielder,9.0
+Lukas Lerager,Central Midfield,Midfielder,5.4
+Francesco Cassata,Central Midfield,Midfielder,3.15
+Filip Jagiello,Central Midfield,Midfielder,1.35
+Kevin Agudelo,Central Midfield,Midfielder,1.17
+Riccardo Saponara,Attacking Midfield,Midfielder,3.6
+Sinan Gumus,Right Winger,Midfielder,1.17
+Goran Pandev,Second Striker,Striker,0.36
+Christian Kouame,Centre Forward,Striker,19.8
+Andrea Pinamonti,Centre Forward,Striker,13.5
+Antonio Sanabria,Centre Forward,Striker,8.1
+Andrea Favilli,Centre Forward,Striker,5.4
+Rafael Toloi,Centre Back,Defender,9.9
+Jose Luis Palomino,Centre Back,Defender,9.0
+Simon Kjaer,Centre Back,Defender,7.2
+Berat Djimsiti,Centre Back,Defender,6.75
+Roger Ibanez,Centre Back,Defender,2.7
+Andrea Masiello,Centre Back,Defender,0.9
+Robin Gosens,Left Back,Defender,10.8
+Guilherme Arana,Left Back,Defender,2.7
+Timothy Castagne,Right Back,Defender,16.2
+Hans Hateboer,Right Back,Defender,13.5
+Marten de Roon,Central Midfield,Midfielder,21.6
+Remo Freuler,Central Midfield,Midfielder,18.0
+Ruslan Malinovskyi,Central Midfield,Midfielder,11.25
+Mario Pasalic,Central Midfield,Midfielder,9.0
+Josip Ilicic,Second Striker,Striker,15.3
+Papu Gomez,Second Striker,Striker,14.4
+Duvan Zapata,Centre Forward,Striker,40.5
+Luis Muriel,Centre Forward,Striker,13.5
+Musa Barrow,Centre Forward,Striker,4.5
+Alessio Romagnoli,Centre Back,Defender,45.0
+Mattia Caldara,Centre Back,Defender,18.0
+Mateo Musacchio,Centre Back,Defender,13.5
+Leo Duarte,Centre Back,Defender,7.2
+Matteo Gabbia,Centre Back,Defender,0.45
+Theo Hernandez,Left Back,Defender,16.2
+Ricardo Rodriguez,Left Back,Defender,11.7
+Davide Calabria,Right Back,Defender,16.2
+Andrea Conti,Right Back,Defender,13.5
+Ismael Bennacer,Defensive Midfield,Midfielder,15.3
+Lucas Biglia,Defensive Midfield,Midfielder,5.4
+Franck Kessie,Central Midfield,Midfielder,27.0
+Giacomo Bonaventura,Central Midfield,Midfielder,18.0
+Rade Krunic,Central Midfield,Midfielder,7.2
+Lucas Paqueta,Attacking Midfield,Midfielder,31.5
+Hakan Calhanoglu,Left Winger,Midfielder,16.2
+Fabio Borini,Left Winger,Midfielder,6.3
+Suso,Right Winger,Midfielder,29.7
+Samu Castillejo,Right Winger,Midfielder,13.5
+Ante Rebic,Second Striker,Striker,36.0
+Krzysztof Piatek,Centre Forward,Striker,36.0
+Rafael Leao,Centre Forward,Striker,19.8
+Pedro Mendes,Centre Back,Defender,5.4
+Nicolas Cozza,Centre Back,Defender,3.6
+Daniel Congre,Centre Back,Defender,0.675
+Clement Vidal,Centre Back,Defender,0.135
+Vitorino Hilton,Centre Back,Defender,0.09
+Ambroise Oyongo,Left Back,Defender,3.6
+Mihailo Ristic,Left Back,Defender,0.72
+Arnaud Souquet,Right Back,Defender,3.15
+Mathias Suarez,Right Back,Defender,1.35
+Junior Sambia,Defensive Midfield,Midfielder,3.6
+Damien Le Tallec,Defensive Midfield,Midfielder,3.6
+Joris Chotard,Defensive Midfield,Midfielder,0.45
+Kylian Kaiboue,Defensive Midfield,Midfielder,0.135
+Teji Savanier,Central Midfield,Midfielder,10.8
+Jordan Ferri,Central Midfield,Midfielder,3.6
+Florent Mollet,Attacking Midfield,Midfielder,8.1
+Amir Adouyev,Attacking Midfield,Midfielder,0.135
+Keagan Dolly,Left Winger,Midfielder,1.17
+Bilal Boutobba,Right Winger,Midfielder,0.45
+Souleymane Camara,Right Winger,Midfielder,0.225
+Andy Delort,Centre Forward,Striker,11.25
+Gaetan Laborde,Centre Forward,Striker,9.0
+Petar Skuletic,Centre Forward,Striker,0.9
+Christophe Herelle,Centre Back,Defender,8.1
+Stanley Nsoki,Centre Back,Defender,7.65
+Dante,Centre Back,Defender,1.35
+Andy Pelmard,Centre Back,Defender,1.35
+Ibrahim Cisse,Centre Back,Defender,0.45
+Gautier Lloris,Centre Back,Defender,0.135
+Malang Sarr,Left Back,Defender,16.2
+Racine Coly,Left Back,Defender,2.25
+Youcef Atal,Right Back,Defender,22.5
+Patrick Burner,Right Back,Defender,3.15
+Adrien Tameze,Defensive Midfield,Midfielder,7.2
+Danilo,Defensive Midfield,Midfielder,7.2
+Khephren Thuram,Defensive Midfield,Midfielder,1.35
+Wylan Cyprien,Central Midfield,Midfielder,16.2
+Pierre Lees Melou,Central Midfield,Midfielder,7.2
+Remi Walter,Central Midfield,Midfielder,3.15
+Arnaud Lusamba,Central Midfield,Midfielder,1.8
+Hichem Boudaoui,Central Midfield,Midfielder,1.26
+Alexis Claude Maurice,Left Winger,Midfielder,6.75
+Adam Ounas,Right Winger,Midfielder,9.0
+Bassem Srarfi,Right Winger,Midfielder,2.7
+Kasper Dolberg,Centre Forward,Striker,16.2
+Myziane Maolida,Centre Forward,Striker,7.2
+Ignatius Ganago,Centre Forward,Striker,2.7
+Alexander Djiku,Centre Back,Defender,7.2
+Stefan Mitrovic,Centre Back,Defender,3.15
+Lamine Kone,Centre Back,Defender,2.7
+Anthony Caci,Centre Back,Defender,2.7
+Lionel Carole,Left Back,Defender,2.7
+Abdallah Ndour,Left Back,Defender,0.54
+Kenny Lala,Right Back,Defender,12.6
+Mohamed Simakan,Right Back,Defender,2.25
+Ismael Aaneba,Right Back,Defender,0.9
+Ibrahima Sissoko,Defensive Midfield,Midfielder,5.85
+Jeremy Grimm,Defensive Midfield,Midfielder,0.45
+Youssouf Fofana,Central Midfield,Midfielder,4.5
+Sanjin Prcic,Central Midfield,Midfielder,3.6
+Jean Ricner Bellegarde,Central Midfield,Midfielder,2.25
+Dimitri Lienard,Central Midfield,Midfielder,1.8
+Moataz Zemzemi,Left Midfield,Midfielder,0.225
+Adrien Thomasson,Attacking Midfield,Midfielder,7.2
+Benjamin Corgnet,Attacking Midfield,Midfielder,0.72
+Lebo Mothiba,Centre Forward,Striker,6.3
+Nuno Da Costa,Centre Forward,Striker,4.5
+Ludovic Ajorque,Centre Forward,Striker,3.6
+Kevin Zohi,Centre Forward,Striker,1.8
+Marquinhos,Centre Back,Defender,58.5
+Thilo Kehrer,Centre Back,Defender,31.5
+Abdou Diallo,Centre Back,Defender,31.5
+Presnel Kimpembe,Centre Back,Defender,27.0
+Thiago Silva,Centre Back,Defender,5.4
+Loic Mbe Soh,Centre Back,Defender,2.7
+Layvin Kurzawa,Left Back,Defender,15.75
+Juan Bernat,Left Back,Defender,13.5
+Mitchel Bakker,Left Back,Defender,0.45
+Thomas Meunier,Right Back,Defender,27.0
+Colin Dagba,Right Back,Defender,16.2
+Idrissa Gueye,Defensive Midfield,Midfielder,27.0
+Leandro Paredes,Defensive Midfield,Midfielder,22.5
+Marco Verratti,Central Midfield,Midfielder,67.5
+Julian Draxler,Central Midfield,Midfielder,31.5
+Ander Herrera,Central Midfield,Midfielder,22.5
+Adil Aouchiche,Attacking Midfield,Midfielder,2.7
+Neymar,Left Winger,Midfielder,162.0
+Angel Di Maria,Right Winger,Midfielder,36.0
+Pablo Sarabia,Right Winger,Midfielder,36.0
+Kylian Mbappe,Centre Forward,Striker,180.0
+Mauro Icardi,Centre Forward,Striker,67.5
+Edinson Cavani,Centre Forward,Striker,36.0
+Eric Maxim Choupo Moting,Centre Forward,Striker,4.5
+Joachim Andersen,Centre Back,Defender,22.5
+Jason Denayer,Centre Back,Defender,13.5
+Marcelo,Centre Back,Defender,6.3
+Mapou Yanga Mbiwa,Centre Back,Defender,1.8
+Oumar Solet,Centre Back,Defender,0.9
+Youssouf Kone,Left Back,Defender,8.1
+Marcal,Left Back,Defender,4.5
+Leo Dubois,Right Back,Defender,12.15
+Rafael,Right Back,Defender,8.1
+Kenny Tete,Right Back,Defender,7.2
+Thiago Mendes,Defensive Midfield,Midfielder,22.5
+Lucas Tousart,Defensive Midfield,Midfielder,18.0
+Houssem Aouar,Central Midfield,Midfielder,40.5
+Jeff Reine Adelaide,Central Midfield,Midfielder,22.5
+Jean Lucas,Central Midfield,Midfielder,4.5
+Maxence Caqueret,Central Midfield,Midfielder,0.45
+Memphis Depay,Left Winger,Midfielder,40.5
+Martin Terrier,Left Winger,Midfielder,13.5
+Boubacar Fofana,Left Winger,Midfielder,0.18
+Bertrand Traore,Right Winger,Midfielder,13.5
+Maxwel Cornet,Right Winger,Midfielder,13.5
+Moussa Dembele,Centre Forward,Striker,27.0
+Amine Gouiri,Centre Forward,Striker,4.05
+Boubacar Kamara,Centre Back,Defender,16.2
+Duje Caleta Car,Centre Back,Defender,13.5
+Alvaro Gonzalez,Centre Back,Defender,7.2
+Lucas Perrin,Centre Back,Defender,0.27
+Jordan Amavi,Left Back,Defender,7.2
+Hiroki Sakai,Right Back,Defender,7.2
+Bouna Sarr,Right Back,Defender,5.4
+Abdallah Ali Mohamed,Right Back,Defender,0.135
+Kevin Strootman,Defensive Midfield,Midfielder,10.8
+Gregory Sertic,Defensive Midfield,Midfielder,0.9
+Alexandre Phliponeau,Defensive Midfield,Midfielder,0.225
+Morgan Sanson,Central Midfield,Midfielder,25.2
+Valentin Rongier,Central Midfield,Midfielder,13.5
+Maxime Lopez,Central Midfield,Midfielder,13.5
+Saif Eddine Khaoui,Attacking Midfield,Midfielder,3.15
+Florian Chabrolle,Attacking Midfield,Midfielder,0.135
+Dimitri Payet,Left Winger,Midfielder,11.25
+Nemanja Radonjic,Left Winger,Midfielder,4.5
+Marley Ake,Left Winger,Midfielder,0.135
+Florian Thauvin,Right Winger,Midfielder,40.5
+Isaac Lihadji,Right Winger,Midfielder,0.45
+Dario Benedetto,Centre Forward,Striker,13.5
+Valere Germain,Centre Forward,Striker,6.3
+Pablo,Centre Back,Defender,9.0
+Laurent Koscielny,Centre Back,Defender,4.5
+Mexer,Centre Back,Defender,3.6
+Vukasin Jovanovic,Centre Back,Defender,2.7
+Paul Baysse,Centre Back,Defender,1.8
+Maxime Poundje,Left Back,Defender,4.5
+Loris Benito,Left Back,Defender,3.6
+Youssouf Sabaly,Right Back,Defender,9.0
+Enock Kwateng,Right Back,Defender,3.6
+Raoul Bellanova,Right Back,Defender,0.9
+Otavio,Defensive Midfield,Midfielder,6.3
+Albert Lottin,Defensive Midfield,Midfielder,0.45
+Aurelien Tchouameni,Central Midfield,Midfielder,6.3
+Youssef Ait Bennasser,Central Midfield,Midfielder,6.3
+Younousse Sankhare,Central Midfield,Midfielder,4.5
+Toma Basic,Central Midfield,Midfielder,4.5
+Yacine Adli,Attacking Midfield,Midfielder,4.95
+Yassine Benrahou,Attacking Midfield,Midfielder,0.9
+Francois Kamano,Left Winger,Midfielder,13.5
+Samuel Kalu,Right Winger,Midfielder,9.0
+Jonathan Cafu,Right Winger,Midfielder,1.8
+Nicolas de Preville,Centre Forward,Striker,3.6
+Jimmy Briand,Centre Forward,Striker,2.25
+Ui jo Hwang,Centre Forward,Striker,1.8
+Josh Maja,Centre Forward,Striker,1.53
+Axel Disasi,Centre Back,Defender,3.15
+Dario Maresic,Centre Back,Defender,2.7
+Yunis Abdelhamid,Centre Back,Defender,2.25
+Marshall Munetsi,Centre Back,Defender,0.495
+Ghislain Konan,Left Back,Defender,3.6
+Hassane Kamara,Left Back,Defender,2.25
+Lenny Vallier,Left Back,Defender,0.27
+Thomas Foket,Right Back,Defender,5.4
+Xavier Chavalerin,Defensive Midfield,Midfielder,3.6
+Nolan Mbemba,Defensive Midfield,Midfielder,0.675
+Alaixys Romao,Defensive Midfield,Midfielder,0.45
+Sambou Sissoko,Defensive Midfield,Midfielder,0.45
+Tristan Dingome,Central Midfield,Midfielder,2.25
+Gregory Berthier,Right Midfield,Midfielder,0.54
+Dereck Kutesa,Left Midfield,Midfielder,1.58
+Mathieu Cafaro,Attacking Midfield,Midfielder,6.75
+Moreto Cassama,Attacking Midfield,Midfielder,0.315
+Arber Zeneli,Left Winger,Midfielder,5.4
+Moussa Doumbia,Left Winger,Midfielder,1.8
+Nathanael Mbuku,Left Winger,Midfielder,0.9
+Remi Oudin,Right Winger,Midfielder,9.9
+Anastasios Donis,Centre Forward,Striker,3.6
+Hyun jun Suk,Centre Forward,Striker,3.15
+Boulaye Dia,Centre Forward,Striker,3.15
+Timothe Nkada,Centre Forward,Striker,0.135
+Virgile Pinson,Centre Forward,Striker,0.135
+Mamadou Fofana,Centre Back,Defender,1.8
+Stoppila Sunzu,Centre Back,Defender,1.8
+John Boye,Centre Back,Defender,0.9
+Thomas Delaine,Left Back,Defender,1.35
+Manuel Cabit,Left Back,Defender,0.72
+Matthieu Udol,Left Back,Defender,0.36
+Fabien Centonze,Right Back,Defender,2.25
+Kevin NDoram,Defensive Midfield,Midfielder,3.6
+Habib Maiga,Defensive Midfield,Midfielder,0.9
+Victorien Angban,Central Midfield,Midfielder,3.15
+Adama Traore,Central Midfield,Midfielder,1.98
+Marvin Gakpa,Central Midfield,Midfielder,0.9
+Renaud Cohade,Central Midfield,Midfielder,0.9
+Sami Lahssaini,Central Midfield,Midfielder,0.135
+Boubacar Traore,Central Midfield,Midfielder,0.09
+Opa Nguette,Left Winger,Midfielder,1.8
+Adama Traore,Left Winger,Midfielder,0.27
+Farid Boulaya,Right Winger,Midfielder,1.8
+Papa Ndiaga Yade,Second Striker,Striker,0.135
+Habib Diallo,Centre Forward,Striker,5.4
+Ibrahima Niane,Centre Forward,Striker,3.15
+Thierry Ambrose,Centre Forward,Striker,1.8
+Amadou Ndiaye,Centre Forward,Striker,0.135
+Nicolas Pallois,Centre Back,Defender,2.25
+Molla Wague,Centre Back,Defender,0.9
+Thomas Basila,Centre Back,Defender,0.45
+Josue Homawoo,Centre Back,Defender,0.135
+Charles Traore,Left Back,Defender,2.7
+Wesley Moustache,Left Back,Defender,0.135
+Fabio,Right Back,Defender,2.25
+Dennis Appiah,Right Back,Defender,1.35
+Abdoulaye Toure,Defensive Midfield,Midfielder,9.0
+Andrei Girotto,Defensive Midfield,Midfielder,2.7
+Batista Mendy,Defensive Midfield,Midfielder,0.135
+Ludovic Blas,Central Midfield,Midfielder,6.3
+Samuel Moutoussamy,Central Midfield,Midfielder,4.5
+Rene Krhin,Central Midfield,Midfielder,1.8
+Mehdi Abeid,Central Midfield,Midfielder,1.58
+Kayembe,Left Midfield,Midfielder,0.45
+Cristian Benavente,Attacking Midfield,Midfielder,4.95
+Imran Louza,Attacking Midfield,Midfielder,2.7
+Moses Simon,Left Winger,Midfielder,2.7
+Abdoulaye Dabo,Left Winger,Midfielder,0.9
+Marcus Coco,Right Winger,Midfielder,2.7
+Abdoul Kader Bamba,Right Winger,Midfielder,0.72
+Kalifa Coulibaly,Centre Forward,Striker,4.5
+Bridge Ndilu,Centre Forward,Striker,0.36
+Thody Elie Youan,Centre Forward,Striker,0.225
+Romain Thomas,Centre Back,Defender,2.7
+Mateo Pavlovic,Centre Back,Defender,1.58
+Ismael Traore,Centre Back,Defender,1.35
+Ibrahim Cisse,Centre Back,Defender,0.54
+Rayan Ait Nouri,Left Back,Defender,5.4
+Theo Pellenard,Left Back,Defender,1.8
+Abdoulaye Bamba,Right Back,Defender,2.7
+Vincent Manceau,Right Back,Defender,2.25
+Haithem Loucif,Right Back,Defender,0.585
+Baptiste Santamaria,Defensive Midfield,Midfielder,7.2
+Vincent Pajot,Defensive Midfield,Midfielder,2.25
+Antonin Bobichon,Central Midfield,Midfielder,4.5
+Thomas Mangani,Central Midfield,Midfielder,1.8
+Angelo Fulgini,Right Midfield,Midfielder,4.5
+Sada Thioub,Right Midfield,Midfielder,3.6
+Mathias Pereira Lage,Left Midfield,Midfielder,3.15
+Pierrick Capelle,Left Midfield,Midfielder,1.8
+Anthony Gomez Mancini,Attacking Midfield,Midfielder,0.135
+Casimir Ninga,Left Winger,Midfielder,2.7
+Farid El Melali,Right Winger,Midfielder,1.8
+Stephane Bahoken,Centre Forward,Striker,7.2
+Rachid Alioui,Centre Forward,Striker,3.6
+Wilfried Kanga,Centre Forward,Striker,1.35
+Anthony Briancon,Centre Back,Defender,4.5
+Pablo Martinez,Centre Back,Defender,3.15
+Loick Landre,Centre Back,Defender,3.15
+Kelyan Guessoum,Centre Back,Defender,0.135
+Florian Miguel,Left Back,Defender,1.8
+Theo Sainte Luce,Left Back,Defender,0.135
+Sofiane Alakouch,Right Back,Defender,4.5
+Gaetan Paquiez,Right Back,Defender,0.9
+Lucas Buades,Right Back,Defender,0.135
+Lamine Fomba,Defensive Midfield,Midfielder,3.6
+Sidy Sarr,Defensive Midfield,Midfielder,1.8
+Lucas Deaux,Defensive Midfield,Midfielder,1.8
+Theo Valls,Central Midfield,Midfielder,2.25
+Zinedine Ferhat,Right Midfield,Midfielder,3.15
+Romain Philippoteaux,Left Midfield,Midfielder,0.9
+Haris Duljevic,Left Midfield,Midfielder,0.9
+Renaud Ripart,Centre Forward,Striker,3.6
+Clement Depres,Centre Forward,Striker,1.35
+Kevin Denkey,Centre Forward,Striker,1.35
+Vlatko Stojanovski,Centre Forward,Striker,0.45
+Sami Ben Amar,Centre Forward,Striker,0.135
+Benoit Badiashile,Centre Back,Defender,16.2
+Guillermo Maripan,Centre Back,Defender,13.5
+Kamil Glik,Centre Back,Defender,7.2
+Jemerson,Centre Back,Defender,5.4
+Naldo,Centre Back,Defender,0.45
+Fode Ballo Toure,Left Back,Defender,9.0
+Arthur Zagre,Left Back,Defender,6.3
+Benjamin Henrichs,Right Back,Defender,13.5
+Ruben Aguilar,Right Back,Defender,7.2
+Tiemoue Bakayoko,Defensive Midfield,Midfielder,31.5
+Adrien Silva,Central Midfield,Midfielder,11.7
+Cesc Fabregas,Central Midfield,Midfielder,10.8
+Aleksandr Golovin,Attacking Midfield,Midfielder,22.5
+Gabriel Boschilia,Attacking Midfield,Midfielder,3.6
+Keita Balde,Left Winger,Midfielder,22.5
+Henry Onyekuru,Left Winger,Midfielder,11.7
+Willem Geubbels,Left Winger,Midfielder,9.0
+Gelson Martins,Right Winger,Midfielder,25.2
+Gil Dias,Right Winger,Midfielder,2.25
+Wissam Ben Yedder,Centre Forward,Striker,36.0
+Jean Kevin Augustin,Centre Forward,Striker,14.4
+Stevan Jovetic,Centre Forward,Striker,9.0
+Pietro Pellegri,Centre Forward,Striker,6.3
+Islam Slimani,Centre Forward,Striker,4.5
+Moussa Sylla,Centre Forward,Striker,3.6
+Denys Bain,Centre Back,Defender,2.25
+Jean Kevin Duverne,Centre Back,Defender,1.8
+Jean Charles Castelletto,Centre Back,Defender,1.35
+Brendan Chardonnet,Centre Back,Defender,0.72
+Romain Perraud,Left Back,Defender,2.25
+David Kiki,Left Back,Defender,0.54
+Ludovic Baal,Left Back,Defender,0.45
+Julien Faussurier,Right Back,Defender,0.9
+Gaetan Belaud,Right Back,Defender,0.81
+Paul Lasne,Defensive Midfield,Midfielder,2.25
+Ibrahima Diallo,Central Midfield,Midfielder,3.15
+Cristian Battocchio,Central Midfield,Midfielder,1.35
+Haris Belkebla,Central Midfield,Midfielder,0.9
+Ferris NGoma,Central Midfield,Midfielder,0.63
+Hugo Magnetti,Central Midfield,Midfielder,0.135
+Hianga Mbock,Central Midfield,Midfielder,0.135
+Samuel Grandsir,Right Midfield,Midfielder,2.7
+Yoann Court,Left Midfield,Midfielder,0.9
+Mathias Autret,Attacking Midfield,Midfielder,2.25
+Gaetan Charbonnier,Centre Forward,Striker,2.25
+Alexandre Mendy,Centre Forward,Striker,2.03
+Irvin Cardona,Centre Forward,Striker,1.35
+Kevin Mayi,Centre Forward,Striker,0.63
+Derick Osei Yaw,Centre Forward,Striker,0.135
+Gabriel Magalhaes,Centre Back,Defender,9.0
+Adama Soumaoro,Centre Back,Defender,9.0
+Tiago Djalo,Centre Back,Defender,2.7
+Jose Fonte,Centre Back,Defender,1.8
+Saad Agouzoul,Centre Back,Defender,0.54
+Domagoj Bradaric,Left Back,Defender,5.85
+Reinildo Mandava,Left Back,Defender,1.8
+Zeki Celik,Right Back,Defender,15.3
+Jeremy Pied,Right Back,Defender,2.25
+Boubakary Soumare,Defensive Midfield,Midfielder,16.2
+Thiago Maia,Defensive Midfield,Midfielder,3.6
+Renato Sanches,Central Midfield,Midfielder,16.2
+Xeka,Central Midfield,Midfielder,9.0
+Benjamin Andre,Central Midfield,Midfielder,9.0
+Jonathan Ikone,Attacking Midfield,Midfielder,24.3
+Yusuf Yazici,Attacking Midfield,Midfielder,14.4
+Jonathan Bamba,Left Winger,Midfielder,18.0
+Luiz Araujo,Left Winger,Midfielder,6.3
+Victor Osimhen,Centre Forward,Striker,11.7
+Timothy Weah,Centre Forward,Striker,7.2
+Loic Remy,Centre Forward,Striker,2.7
+William Saliba,Centre Back,Defender,22.5
+Timothee Kolodziejczak,Centre Back,Defender,5.4
+Harold Moukoudi,Centre Back,Defender,2.7
+Loic Perrin,Centre Back,Defender,1.8
+Leo Lacroix,Centre Back,Defender,1.13
+Gabriel Silva,Left Back,Defender,2.25
+Miguel Trauco,Left Back,Defender,1.58
+Sergi Palencia,Right Back,Defender,3.6
+Mathieu Debuchy,Right Back,Defender,2.7
+Alpha Sissoko,Right Back,Defender,0.45
+Yann MVila,Defensive Midfield,Midfielder,9.0
+Jean Eudes Aholou,Defensive Midfield,Midfielder,6.3
+Assane Diousse,Defensive Midfield,Midfielder,4.05
+Zaydou Youssouf,Central Midfield,Midfielder,3.6
+Yohan Cabaye,Central Midfield,Midfielder,1.8
+Mahdi Camara,Central Midfield,Midfielder,0.27
+Wahbi Khazri,Attacking Midfield,Midfielder,14.4
+Ryad Boudebouz,Attacking Midfield,Midfielder,5.4
+Denis Bouanga,Left Winger,Midfielder,5.4
+Arnaud Nordin,Left Winger,Midfielder,3.15
+Kevin Monnet Paquet,Left Winger,Midfielder,1.8
+Romain Hamouma,Right Winger,Midfielder,2.25
+Franck Honorat,Right Winger,Midfielder,1.8
+Lois Diony,Centre Forward,Striker,4.5
+Robert Beric,Centre Forward,Striker,4.5
+Charles Abi,Centre Forward,Striker,0.45
+Joris Gnagnon,Centre Back,Defender,5.4
+Jeremy Gelin,Centre Back,Defender,5.4
+Damien Da Silva,Centre Back,Defender,4.5
+Gerzino Nyamsi,Centre Back,Defender,1.8
+Jeremy Morel,Centre Back,Defender,0.225
+Faitout Maouassa,Left Back,Defender,7.2
+Souleyman Doumbia,Left Back,Defender,2.7
+Hamari Traore,Right Back,Defender,5.4
+Sacha Boey,Right Back,Defender,0.72
+Eduardo Camavinga,Defensive Midfield,Midfielder,18.0
+Benjamin Bourigeaud,Central Midfield,Midfielder,13.5
+Clement Grenier,Central Midfield,Midfielder,6.75
+Jonas Martin,Central Midfield,Midfielder,4.5
+James Lea Siliki,Central Midfield,Midfielder,3.6
+Jakob Johansson,Central Midfield,Midfielder,2.25
+Adrien Hunou,Attacking Midfield,Midfielder,5.4
+Rafik Guitane,Attacking Midfield,Midfielder,4.5
+Yann Gboho,Attacking Midfield,Midfielder,0.135
+Flavien Tait,Left Winger,Midfielder,7.2
+Raphinha,Right Winger,Midfielder,12.6
+Romain Del Castillo,Right Winger,Midfielder,3.15
+MBaye Niang,Centre Forward,Striker,10.8
+Jordan Siebatcheu,Centre Forward,Striker,5.4
+Diafra Sakho,Centre Forward,Striker,1.8
+Metehan Guclu,Centre Forward,Striker,0.45
+Nayef Aguerd,Centre Back,Defender,2.7
+Bruno Ecuele Manga,Centre Back,Defender,2.7
+Wesley Lautoa,Centre Back,Defender,1.8
+Senou Coulibaly,Centre Back,Defender,0.9
+Theo Barbet,Centre Back,Defender,0.135
+Hamza Mendyl,Left Back,Defender,3.6
+Ngonda Muzinga,Left Back,Defender,0.45
+Mickael Alphonse,Right Back,Defender,0.81
+Fouad Chafik,Right Back,Defender,0.72
+Enzo Loiodice,Central Midfield,Midfielder,4.95
+Didier Ndong,Central Midfield,Midfielder,3.6
+Romain Amalfitano,Central Midfield,Midfielder,1.8
+Jordan Marie,Central Midfield,Midfielder,1.35
+Florent Balmont,Central Midfield,Midfielder,0.225
+Matheus Pereira,Attacking Midfield,Midfielder,0.9
+Frederic Sammaritano,Attacking Midfield,Midfielder,0.45
+Bryan Soumare,Attacking Midfield,Midfielder,0.36
+Mounir Chouiar,Left Winger,Midfielder,3.6
+Mama Balde,Right Winger,Midfielder,2.25
+Julio Tavares,Centre Forward,Striker,2.7
+Jhonder Cadiz,Centre Forward,Striker,1.8
+Stephy Mavididi,Centre Forward,Striker,0.9
+Prince Gouano,Centre Back,Defender,6.3
+Bakaye Dibassy,Centre Back,Defender,2.7
+Jordan Lefort,Centre Back,Defender,2.7
+Arturo Calabresi,Centre Back,Defender,1.62
+Aurelien Chedjou,Centre Back,Defender,0.36
+Haitam Aleesami,Left Back,Defender,1.35
+Sanasi Sy,Left Back,Defender,0.135
+Christophe Jallet,Right Back,Defender,0.45
+Valentin Gendrey,Right Back,Defender,0.135
+Alexis Blin,Defensive Midfield,Midfielder,4.5
+Thomas Monconduit,Defensive Midfield,Midfielder,3.15
+Mathieu Bodmer,Defensive Midfield,Midfielder,0.225
+Eddy Gnahore,Central Midfield,Midfielder,3.6
+Bongani Zungu,Central Midfield,Midfielder,2.25
+Madih Talal,Central Midfield,Midfielder,0.27
+Jonathan Bumbu,Central Midfield,Midfielder,0.135
+Rafal Kurzawa,Left Midfield,Midfielder,1.35
+Gael Kakuta,Attacking Midfield,Midfielder,1.8
+Ulrick Eneme Ella,Attacking Midfield,Midfielder,0.27
+Jayson Papeau,Attacking Midfield,Midfielder,0.135
+Stiven Mendoza,Left Winger,Midfielder,2.7
+Chadrac Akolo,Left Winger,Midfielder,1.8
+Jack Lahne,Left Winger,Midfielder,0.9
+Juan Ferney Otero,Right Winger,Midfielder,3.6
+Fousseni Diabate,Right Winger,Midfielder,2.7
+Quentin Cornette,Right Winger,Midfielder,0.27
+Moussa Konate,Centre Forward,Striker,6.3
+Saman Ghoddos,Centre Forward,Striker,4.5
+Serhou Guirassy,Centre Forward,Striker,4.5
+Bafode Diakite,Centre Back,Defender,5.4
+Gen Shoji,Centre Back,Defender,3.15
+Agustin Rogel,Centre Back,Defender,2.25
+Nicolas Isimat Mirin,Centre Back,Defender,1.13
+Moussa Diarra,Centre Back,Defender,0.135
+Anthony Rouault,Centre Back,Defender,0.135
+Issiaga Sylla,Left Back,Defender,3.15
+Mathieu Goncalves,Left Back,Defender,0.45
+Kelvin Amian,Right Back,Defender,6.3
+Steven Moreira,Right Back,Defender,1.8
+Ibrahim Sangare,Defensive Midfield,Midfielder,13.5
+Kalidou Sidibe,Defensive Midfield,Midfielder,3.15
+William Vainqueur,Defensive Midfield,Midfielder,1.13
+Jean Victor Makengo,Central Midfield,Midfielder,5.4
+Quentin Boisgard,Attacking Midfield,Midfielder,1.35
+Amine Adli,Attacking Midfield,Midfielder,0.135
+Kouadio Kone,Attacking Midfield,Midfielder,0.135
+Max Gradel,Left Winger,Midfielder,7.2
+Adil Taoui,Left Winger,Midfielder,0.135
+Wesley Said,Right Winger,Midfielder,6.75
+Corentin Jean,Right Winger,Midfielder,2.25
+Mathieu Dossevi,Right Winger,Midfielder,2.25
+Nathan NGoumou,Right Winger,Midfielder,0.27
+Efthymios Koulouris,Centre Forward,Striker,4.5
+Aaron Leya Iseka,Centre Forward,Striker,2.7
+Yaya Sanogo,Centre Forward,Striker,2.25
+Stephane Zobo,Centre Forward,Striker,0.135
