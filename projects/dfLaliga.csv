@@ -1,0 +1,492 @@
+Player,DOB,Age,Height,Country,Foot,ContractExp
+cristian-ganea,"May 24, 1992",27,"1,76 m",Romania  Spain,left,30.06.2021
+andres-fernandez,"Dec 17, 1986",32,"1,85 m",Spain,right,30.06.2021
+oliver-torres,"Nov 10, 1994",25,"1,75 m",Spain,right,30.06.2024
+sergi-guardiola,"May 29, 1991",28,"1,85 m",Spain,right,30.06.2023
+amath-ndiaye,"Jul 16, 1996",23,"1,73 m",Senegal,right,30.06.2022
+sergio-postigo,"Nov 4, 1988",31,"1,85 m",Spain,right,30.06.2021
+jonathan-silva,"Jun 29, 1994",25,"1,81 m",Argentina  Italy,left,30.06.2023
+jose-angel,"Sep 5, 1989",30,"1,82 m",Spain,left,30.06.2020
+juan-villar,"May 19, 1988",31,"1,82 m",Spain,right,30.06.2021
+oihan-sancet,"Apr 25, 2000",19,"1,88 m",Spain,right,30.06.2022
+thomas-lemar,"Nov 12, 1995",24,"1,71 m",France  Guadeloupe,left,30.06.2023
+facundo-ferreyra,"Mar 14, 1991",28,"1,83 m",Argentina  Italy,right,30.06.2020
+jason,"Jul 6, 1994",25,"1,78 m",Spain,right,30.06.2020
+jan-oblak,"Jan 7, 1993",26,"1,88 m",Slovenia,right,30.06.2023
+oier-olazabal,"Sep 14, 1989",30,"1,89 m",Spain,left,30.06.2021
+anuar,"Jan 15, 1995",24,"1,73 m",Morocco  Spain,NaN,30.06.2021
+santi-mina,"Dec 7, 1995",23,"1,81 m",Spain,right,30.06.2024
+sergio-herrera,"Jun 5, 1993",26,"1,92 m",Spain,NaN,30.06.2021
+marco-asensio,"Jan 21, 1996",23,"1,82 m",Spain  Netherlands,left,30.06.2023
+jonathan-calleri,"Sep 23, 1993",26,"1,81 m",Argentina  Italy,right,30.06.2020
+ivan-rakitic,"Mar 10, 1988",31,"1,84 m",Croatia  Switzerland,right,30.06.2021
+jaume-costa,"Mar 18, 1988",31,"1,71 m",Spain,left,30.06.2020
+javi-moyano,"Feb 23, 1986",33,"1,80 m",Spain,right,30.06.2020
+rafa-navarro,"Feb 23, 1994",25,"1,73 m",Spain,right,30.06.2021
+jordi-masip,"Jan 3, 1989",30,"1,80 m",Spain,right,30.06.2022
+alex-martinez,"Aug 12, 1990",29,"1,76 m",Spain,left,30.06.2021
+lluis-lopez,"Mar 5, 1997",22,"1,82 m",Spain,right,30.06.2022
+adrian-lopez,"Jan 8, 1988",31,"1,83 m",Spain,right,30.06.2020
+pione-sisto,"Feb 4, 1995",24,"1,72 m",Denmark  Southern Sudan,right,30.06.2021
+santiago-caseres,"Feb 25, 1997",22,"1,77 m",Argentina,right,30.06.2023
+luismi,"May 5, 1992",27,"1,79 m",Spain,right,30.06.2021
+jon-moncayola,"May 13, 1998",21,NaN,Spain,NaN,30.06.2021
+diego-lainez,"Jun 9, 2000",19,"1,67 m",Mexico,left,30.06.2024
+hernani,"Aug 20, 1991",28,"1,80 m",Portugal  Cape Verde,left,30.06.2022
+ivan-villar,"Jul 9, 1997",22,"1,89 m",Spain,right,30.06.2023
+gerard-moreno,"Apr 7, 1992",27,"1,80 m",Spain,left,30.06.2023
+aleksandar-sedlar,"Dec 13, 1991",27,"1,80 m",Serbia,NaN,30.06.2023
+lionel-messi,"Jun 24, 1987",32,"1,70 m",Argentina  Spain,left,30.06.2021
+daniel-carrico,"Aug 4, 1988",31,"1,80 m",Portugal,right,30.06.2020
+luis-rioja,"Oct 16, 1993",26,"1,76 m",Spain,left,30.06.2023
+kike-barja,"Apr 4, 1997",22,"1,79 m",Spain,right,30.06.2021
+ismail-koybasi,"Jul 10, 1989",30,"1,79 m",Turkey,left,30.06.2020
+ivan-ramis,"Oct 25, 1984",35,"1,89 m",Spain,right,30.06.2020
+aissa-mandi,"Oct 22, 1991",28,"1,84 m",Algeria  France,right,30.06.2021
+borja-mayoral,"Apr 5, 1997",22,"1,82 m",Spain,right,30.06.2020
+yeray-alvarez,"Jan 24, 1995",24,"1,82 m",Spain,right,30.06.2026
+ander-barrenetxea,"Dec 27, 2001",17,NaN,Spain,NaN,30.06.2025
+denis-suarez,"Jan 6, 1994",25,"1,76 m",Spain,right,30.06.2023
+sergi-enrich,"Feb 26, 1990",29,"1,81 m",Spain,right,30.06.2022
+carlos-fernandez,"May 22, 1996",23,"1,85 m",Spain,left,30.06.2020
+zouhair-feddal,"Dec 23, 1989",29,"1,92 m",Morocco  Spain,left,30.06.2021
+renan-lodi,"Apr 8, 1998",21,"1,79 m",Brazil,left,30.06.2025
+karim-benzema,"Dec 19, 1987",31,"1,84 m",France  Algeria,both,30.06.2021
+jorge-saenz,"Nov 17, 1996",22,"1,90 m",Spain,right,30.06.2021
+jose-campana,"May 31, 1993",26,"1,79 m",Spain,right,30.06.2023
+joseph-aidoo,"Sep 29, 1995",24,"1,84 m",Ghana,right,30.06.2024
+samuel-umtiti,"Nov 14, 1993",26,"1,82 m",France  Cameroon,left,30.06.2023
+wilfrid-kaptoum,"Jul 7, 1996",23,"1,70 m",Cameroon,right,30.06.2020
+sergi-darder,"Dec 22, 1993",25,"1,80 m",Spain,right,30.06.2023
+ferran-torres,"Feb 29, 2000",19,"1,84 m",Spain,right,30.06.2021
+xavi-quintilla,"Aug 23, 1996",23,"1,79 m",Spain,left,30.06.2020
+nacho-vidal,"Jan 24, 1995",24,"1,80 m",Spain,right,30.06.2022
+david-lopez,"Oct 9, 1989",30,"1,85 m",Spain,right,30.06.2023
+ramiro-funes-mori,"Mar 5, 1991",28,"1,86 m",Argentina,left,30.06.2022
+benat-etxebarria,"Feb 19, 1987",32,"1,76 m",Spain,right,30.06.2020
+david-zurutuza,"Jul 19, 1986",33,"1,86 m",Spain  France,right,30.06.2020
+sergio-reguilon,"Dec 16, 1996",22,"1,78 m",Spain,left,30.06.2020
+diego-costa,"Oct 7, 1988",31,"1,86 m",Spain  Brazil,right,30.06.2021
+unai-lopez,"Oct 30, 1995",24,"1,70 m",Spain,right,30.06.2022
+tachi,"Sep 10, 1997",22,"1,84 m",Spain,right,30.06.2023
+fabian-orellana,"Jan 27, 1986",33,"1,71 m",Chile,right,30.06.2020
+marcelo,"May 12, 1988",31,"1,74 m",Brazil  Spain,left,30.06.2022
+tono,"Nov 7, 1989",30,"1,80 m",Spain,left,30.06.2023
+nemanja-maksimovic,"Jan 26, 1995",24,"1,84 m",Serbia,right,30.06.2024
+kenedy,"Feb 8, 1996",23,"1,80 m",Brazil,left,30.06.2020
+raphael-varane,"Apr 25, 1993",26,"1,91 m",France  Martinique,right,30.06.2022
+oscar-de-marcos,"Apr 14, 1989",30,"1,82 m",Spain,right,30.06.2021
+pervis-estupinan,"Jan 21, 1998",21,"1,75 m",Ecuador,left,30.06.2021
+sergi-gomez,"Mar 28, 1992",27,"1,85 m",Spain,right,30.06.2022
+unai-bustinza,"Feb 2, 1992",27,"1,75 m",Spain,right,30.06.2021
+rodrygo,"Jan 9, 2001",18,"1,74 m",Brazil,right,30.06.2025
+javi-lopez,"Jan 21, 1986",33,"1,80 m",Spain,right,30.06.2020
+xisco-campos,"Mar 10, 1982",37,"1,80 m",Spain,right,30.06.2020
+samu-chukwueze,"May 22, 1999",20,"1,72 m",Nigeria,left,30.06.2023
+arthur,"Aug 12, 1996",23,"1,72 m",Brazil,right,30.06.2024
+jorge-molina,"Apr 22, 1982",37,"1,88 m",Spain,right,30.06.2021
+esteban-granero,"Jul 2, 1987",32,"1,80 m",Spain,right,30.06.2020
+iago-aspas,"Aug 1, 1987",32,"1,76 m",Spain,left,30.06.2023
+enric-gallego,"Sep 12, 1986",33,"1,90 m",Spain,left,30.06.2022
+marc-andre-ter-stegen,"Apr 30, 1992",27,"1,87 m",Germany,right,30.06.2022
+markel-bergara,"May 5, 1986",33,"1,81 m",Spain,right,30.06.2020
+fede-san-emeterio,"Mar 16, 1997",22,"1,76 m",Spain,right,30.06.2021
+jordi-alba,"Mar 21, 1989",30,"1,70 m",Spain,left,30.06.2024
+alvaro-vadillo,"Sep 12, 1994",25,"1,80 m",Spain,right,30.06.2020
+rodrigo-tarin,"Jul 5, 1996",23,"1,83 m",Spain,right,30.06.2021
+marc-navarro,"Jul 2, 1995",24,"1,88 m",Spain,right,30.06.2020
+jose-antonio-martinez,"Feb 12, 1993",26,"1,91 m",Spain,left,30.06.2020
+kevin-gameiro,"May 9, 1987",32,"1,72 m",France,right,30.06.2021
+oier,"May 25, 1986",33,"1,78 m",Spain,right,30.06.2021
+leandro-cabrera,"Jun 17, 1991",28,"1,88 m",Uruguay  Spain,left,30.06.2021
+raul-navas,"May 11, 1988",31,"1,87 m",Spain,right,30.06.2020
+yan-brice,"Aug 26, 1997",22,"1,82 m",Cameroon  Spain,right,30.06.2022
+vitorino-antunes,"Apr 1, 1987",32,"1,75 m",Portugal,left,30.06.2020
+jaime-mata,"Oct 24, 1988",31,"1,86 m",Spain,right,30.06.2021
+recio,"Jan 11, 1991",28,"1,83 m",Spain,right,30.06.2022
+matias-vargas,"May 8, 1997",22,"1,68 m",Argentina,right,30.06.2024
+geoffrey-kondogbia,"Feb 15, 1993",26,"1,88 m",Central African Republic  France,left,30.06.2022
+federico-valverde,"Jul 22, 1998",21,"1,82 m",Uruguay  Spain,right,30.06.2021
+aitor-ruibal,"Mar 22, 1996",23,"1,76 m",Spain,right,30.06.2020
+enes-unal,"May 10, 1997",22,"1,87 m",Turkey,right,30.06.2020
+marko-dmitrovic,"Jan 24, 1992",27,"1,94 m",Serbia,left,30.06.2021
+oliver-burke,"Apr 7, 1997",22,"1,88 m",Scotland,right,30.06.2022
+pedro-porro,"Sep 13, 1999",20,"1,76 m",Spain,right,30.06.2020
+sebastien-corchia,"Nov 1, 1990",29,"1,75 m",France  Italy,right,30.06.2020
+munir-el-haddadi,"Sep 1, 1995",24,"1,75 m",Spain  Morocco,left,30.06.2023
+ruben-alcaraz,"May 1, 1991",28,"1,83 m",Spain,right,30.06.2022
+aleix-vidal,"Aug 21, 1989",30,"1,77 m",Spain,right,30.06.2020
+loren-moron,"Dec 30, 1993",25,"1,85 m",Spain,right,30.06.2022
+aitor-fernandez,"May 3, 1991",28,"1,82 m",Spain,right,30.06.2023
+yannis-salibur,"Jan 24, 1991",28,"1,77 m",France  DR Congo,left,30.06.2022
+fernando,"Jul 25, 1987",32,"1,83 m",Brazil  Portugal,right,30.06.2022
+vicente-iborra,"Jan 16, 1988",31,"1,90 m",Spain,right,30.06.2023
+burgui,"Oct 29, 1993",26,"1,84 m",Spain,right,30.06.2021
+oscar-plano,"Feb 11, 1991",28,"1,79 m",Spain,both,30.06.2021
+tomas-vaclik,"Mar 29, 1989",30,"1,88 m",Czech Republic,right,30.06.2021
+sergio-leon,"Jan 6, 1989",30,"1,76 m",Spain,right,30.06.2022
+domingos-duarte,"Mar 10, 1995",24,"1,92 m",Portugal,right,30.06.2023
+robin-le-normand,"Nov 11, 1996",23,"1,87 m",France,right,30.06.2022
+eden-hazard,"Jan 7, 1991",28,"1,75 m",Belgium,both,30.06.2024
+john-guidetti,"Apr 15, 1992",27,"1,85 m",Sweden,right,30.06.2022
+arturo-vidal,"May 22, 1987",32,"1,80 m",Chile,right,30.06.2021
+inigo-lekue,"May 4, 1993",26,"1,80 m",Spain,right,30.06.2023
+adnan-januzaj,"Feb 5, 1995",24,"1,86 m",Belgium  Kosovo,left,30.06.2022
+chicharito,"Jun 1, 1988",31,"1,75 m",Mexico,right,30.06.2022
+edu-exposito,"Aug 1, 1996",23,"1,78 m",Spain,right,30.06.2024
+sidnei,"Aug 23, 1989",30,"1,85 m",Brazil  Spain,right,30.06.2022
+andoni-zubiaurre,"Dec 4, 1996",22,"1,89 m",Spain,left,30.06.2022
+antoine-griezmann,"Mar 21, 1991",28,"1,76 m",France,left,30.06.2024
+victor-laguardia,"Nov 5, 1989",30,"1,85 m",Spain,right,30.06.2022
+ferland-mendy,"Jun 8, 1995",24,"1,80 m",France  Senegal,left,30.06.2025
+gonzalo-melero,"Jan 2, 1994",25,"1,83 m",Spain,right,30.06.2023
+fran-gamez,"Jul 27, 1991",28,"1,74 m",Spain,right,30.06.2022
+joaquin,"Jul 21, 1981",38,"1,81 m",Spain,right,30.06.2020
+christian-rivera,"Jul 9, 1997",22,"1,91 m",Spain,right,30.06.2020
+tomas-pina,"Oct 14, 1987",32,"1,85 m",Spain,right,30.06.2021
+moi-gomez,"Jun 23, 1994",25,"1,76 m",Spain,right,30.06.2023
+joel-robles,"Jun 17, 1990",29,"1,97 m",Spain,right,30.06.2022
+kiko-olivas,"Aug 21, 1988",31,"1,84 m",Spain,right,30.06.2022
+joseba-zaldua,"Jun 24, 1992",27,"1,76 m",Spain,right,30.06.2023
+ivan-saponjic,"Aug 2, 1997",22,"1,92 m",Serbia,right,30.06.2022
+alex-alegria,"Oct 14, 1992",27,"1,91 m",Spain,right,30.06.2024
+maxi-gomez,"Aug 14, 1996",23,"1,86 m",Uruguay,right,30.06.2024
+erick-cabaco,"Apr 19, 1995",24,"1,86 m",Uruguay  Italy,right,30.06.2022
+robert-ibanez,"Mar 22, 1993",26,"1,81 m",Spain,right,30.06.2023
+fran-beltran,"Feb 3, 1999",20,"1,72 m",Spain,right,30.06.2023
+andrii-lunin,"Feb 11, 1999",20,"1,91 m",Ukraine,right,30.06.2020
+antonio-puertas,"Feb 21, 1992",27,"1,83 m",Spain,right,30.06.2020
+lisandro-magallan,"Sep 27, 1993",26,"1,85 m",Argentina  Italy,right,30.06.2020
+kike,"Nov 25, 1989",29,"1,86 m",Spain,right,30.06.2021
+daniel-wass,"May 31, 1989",30,"1,78 m",Denmark,right,30.06.2022
+manolo-reina,"Apr 1, 1985",34,"1,86 m",Spain,right,30.06.2021
+ruben-garcia,"Jul 14, 1993",26,"1,71 m",Spain,left,30.06.2023
+angel-correa,"Mar 9, 1995",24,"1,71 m",Argentina  Spain,right,30.06.2024
+ruben-pardo,"Oct 22, 1992",27,"1,81 m",Spain,right,30.06.2020
+manu-trigueros,"Oct 17, 1991",28,"1,78 m",Spain,right,30.06.2022
+luis-perea,"Aug 25, 1997",22,"1,91 m",Spain,NaN,30.06.2021
+david-costas,"Mar 26, 1995",24,"1,84 m",Spain,right,30.06.2022
+ander-capa,"Feb 8, 1992",27,"1,75 m",Spain,right,30.06.2022
+ibai-gomez,"Nov 11, 1989",30,"1,78 m",Spain,right,30.06.2022
+nelson-semedo,"Nov 16, 1993",25,"1,77 m",Portugal,right,30.06.2022
+german-sanchez,"Oct 31, 1986",33,"1,87 m",Spain,right,30.06.2021
+marc-cucurella,"Jul 22, 1998",21,"1,75 m",Spain,left,30.06.2020
+angel-rodriguez,"Apr 26, 1987",32,"1,71 m",Spain,right,30.06.2021
+luca-sangalli,"Feb 10, 1995",24,"1,67 m",Spain,NaN,30.06.2022
+sabin-merino,"Jan 4, 1992",27,"1,87 m",Spain,right,30.06.2020
+gabriel-paulista,"Nov 26, 1990",28,"1,87 m",Brazil,right,30.06.2022
+ander-iturraspe,"Mar 8, 1989",30,"1,87 m",Spain,right,30.06.2020
+fernando-pacheco,"May 18, 1992",27,"1,86 m",Spain,left,30.06.2023
+abdon-prats,"Dec 7, 1992",26,"1,81 m",Spain,left,30.06.2021
+raul-albiol,"Sep 4, 1985",34,"1,90 m",Spain,right,30.06.2022
+pablo-chavarria,"Jan 2, 1988",31,"1,85 m",Argentina  Italy,right,30.06.2021
+dani-martin,"Jul 8, 1998",21,"1,87 m",Spain,right,30.06.2024
+filip-manojlovic,"Apr 25, 1996",23,"1,97 m",Serbia,right,30.06.2021
+gaizka-larrazabal,"Dec 17, 1997",21,"1,80 m",Spain,right,30.06.2021
+david-timor,"Oct 17, 1989",30,"1,85 m",Spain,left,30.06.2022
+antonio-sivera,"Aug 11, 1996",23,"1,84 m",Spain,right,30.06.2021
+aleksandar-trajkovski,"Sep 5, 1992",27,"1,79 m",North Macedonia,both,30.06.2023
+nacho,"Jan 18, 1990",29,"1,80 m",Spain,right,30.06.2020
+jose-manuel-arnaiz,"Apr 15, 1995",24,"1,75 m",Spain,right,30.06.2023
+alphonse-areola,"Feb 27, 1993",26,"1,95 m",France  Philippines,right,30.06.2020
+federico-barba,"Sep 1, 1993",26,"1,85 m",Italy,left,30.06.2020
+quique,"May 16, 1990",29,"1,77 m",Spain,left,30.06.2024
+roberto-correa,"Sep 20, 1992",27,"1,80 m",Spain,right,30.06.2022
+josep-sene,"Dec 10, 1991",27,"1,86 m",Spain,right,30.06.2022
+james-rodriguez,"Jul 12, 1991",28,"1,81 m",Colombia  Spain,left,30.06.2021
+jean-clair-todibo,"Dec 30, 1999",19,"1,89 m",France  French Guiana,right,30.06.2023
+ruben-perez,"Apr 26, 1989",30,"1,78 m",Spain,right,30.06.2022
+martin-braithwaite,"Jun 5, 1991",28,"1,77 m",Denmark  Guyana,NaN,30.06.2023
+mariano-barbosa,"Jul 27, 1984",35,"1,88 m",Argentina  Italy,right,30.06.2020
+francisco-portillo,"Jun 13, 1990",29,"1,69 m",Spain,right,30.06.2021
+pablo-hervias,"Mar 8, 1993",26,"1,74 m",Spain,right,30.06.2022
+xabi-etxeita,"Oct 31, 1987",32,"1,86 m",Spain,right,30.06.2021
+juanmi,"May 20, 1993",26,"1,72 m",Spain,right,30.06.2024
+lumor,"Aug 15, 1996",23,"1,75 m",Ghana,left,30.06.2020
+aaron-escandell,"Sep 27, 1995",24,"1,85 m",Spain,right,30.06.2020
+takefusa-kubo,"Jun 4, 2001",18,"1,73 m",Japan,left,30.06.2020
+joan-sastre,"Apr 30, 1997",22,"1,74 m",Spain,right,30.06.2023
+mikel-oyarzabal,"Apr 21, 1997",22,"1,81 m",Spain,left,30.06.2024
+miguel-angel-moya,"Apr 2, 1984",35,"1,89 m",Spain,right,30.06.2020
+aritz-elustondo,"Mar 28, 1994",25,"1,82 m",Spain,right,30.06.2022
+inaki-williams,"Jun 15, 1994",25,"1,86 m",Spain  Ghana,right,30.06.2028
+abdul-rahman-baba,"Jul 2, 1994",25,"1,79 m",Ghana,left,30.06.2020
+adrian-marin,"Jan 9, 1997",22,"1,81 m",Spain,left,30.06.2021
+iago-herrerin,"Jan 25, 1988",31,"1,87 m",Spain,right,30.06.2021
+nacho-monreal,"Feb 26, 1986",33,"1,80 m",Spain,left,30.06.2021
+pablo-piatti,"Mar 31, 1989",30,"1,63 m",Argentina  Italy,both,30.06.2020
+vinicius-junior,"Jul 12, 2000",19,"1,76 m",Brazil,right,30.06.2025
+manu-garcia,"Apr 26, 1986",33,"1,83 m",Spain,left,30.06.2020
+sergio-canales,"Feb 16, 1991",28,"1,80 m",Spain,left,30.06.2022
+kevin-vazquez,"Mar 23, 1993",26,"1,75 m",Spain,right,30.06.2023
+alvaro-tejero,"Jul 20, 1996",23,"1,74 m",Spain,both,30.06.2024
+roque-mesa,"Jun 7, 1989",30,"1,72 m",Spain,right,30.06.2020
+joan-jordan,"Jul 6, 1994",25,"1,85 m",Spain,right,30.06.2023
+santi-cazorla,"Dec 13, 1984",34,"1,68 m",Spain,both,30.06.2020
+sergio-busquets,"Jul 16, 1988",31,"1,89 m",Spain,right,30.06.2023
+mikel-vesga,"Apr 8, 1993",26,"1,91 m",Spain,left,30.06.2021
+mathi-shy-as-olivera,"Oct 31, 1997",22,"1,83 m",Uruguay  Spain,left,30.06.2023
+maxime-gonalons,"Mar 10, 1989",30,"1,87 m",France,right,30.06.2020
+fran-merida,"Mar 4, 1990",29,"1,74 m",Spain,left,30.06.2020
+alvaro-odriozola,"Dec 14, 1995",23,"1,76 m",Spain,right,30.06.2024
+andoni-gorosabel,"Aug 4, 1996",23,"1,74 m",Spain,right,30.06.2021
+luuk-de-jong,"Aug 27, 1990",29,"1,88 m",Netherlands,right,30.06.2023
+nolito,"Oct 15, 1986",33,"1,75 m",Spain,right,30.06.2020
+didac-vila,"Jun 9, 1989",30,"1,85 m",Spain,left,30.06.2020
+chidozie-awaziem,"Jan 1, 1997",22,"1,89 m",Nigeria,right,30.06.2020
+clement-lenglet,"Jun 17, 1995",24,"1,86 m",France,left,30.06.2023
+joao-felix,"Nov 10, 1999",20,"1,80 m",Portugal,both,30.06.2026
+gerard-pique,"Feb 2, 1987",32,"1,92 m",Spain,right,30.06.2022
+luka-jovic,"Dec 23, 1997",21,"1,82 m",Serbia,both,30.06.2025
+kieran-trippier,"Sep 19, 1990",29,"1,73 m",England,right,30.06.2022
+alvaro-morata,"Oct 23, 1992",27,"1,87 m",Spain,right,30.06.2020
+pau-torres,"Jan 16, 1997",22,"1,91 m",Spain,left,30.06.2024
+rober-pier,"Feb 16, 1995",24,"1,82 m",Spain,right,30.06.2023
+saul-niguez,"Nov 21, 1994",24,"1,84 m",Spain,left,30.06.2026
+inigo-martinez,"May 17, 1991",28,"1,82 m",Spain,left,30.06.2023
+salva-sevilla,"Mar 18, 1984",35,"1,78 m",Spain,right,30.06.2021
+esteban-burgos,"Jan 9, 1992",27,"1,91 m",Argentina,right,30.06.2022
+manu-morlanes,"Jan 12, 1999",20,"1,78 m",Spain,right,30.06.2023
+alejandro-pozo,"Feb 22, 1999",20,"1,74 m",Spain,right,30.06.2023
+alfonso-pedraza,"Apr 9, 1996",23,"1,84 m",Spain,left,30.06.2020
+toni-villa,"Jan 7, 1995",24,"1,72 m",Spain,right,30.06.2021
+ezequiel-garay,"Oct 10, 1986",33,"1,88 m",Argentina  Spain,right,30.06.2020
+isco,"Apr 21, 1992",27,"1,76 m",Spain,right,30.06.2022
+oscar-duarte,"Jun 3, 1989",30,"1,86 m",Costa Rica  Nicaragua,right,30.06.2021
+dani-rodriguez,"Jun 6, 1988",31,"1,78 m",Spain,right,30.06.2021
+william-carvalho,"Apr 7, 1992",27,"1,87 m",Portugal  Angola,right,30.06.2023
+kenneth-omeruo,"Oct 17, 1993",26,"1,85 m",Nigeria,right,30.06.2024
+diego-lopez,"Nov 3, 1981",38,"1,96 m",Spain,right,30.06.2020
+david-junca,"Nov 16, 1993",25,"1,78 m",Spain,left,30.06.2023
+ousmane-dembele,"May 15, 1997",22,"1,78 m",France,both,30.06.2022
+thibaut-courtois,"May 11, 1992",27,"1,99 m",Belgium,left,30.06.2024
+thomas,"Jun 13, 1993",26,"1,85 m",Ghana,right,30.06.2023
+lucas-perez,"Sep 10, 1988",31,"1,80 m",Spain,left,30.06.2022
+ruben-sobrino,"Jun 1, 1992",27,"1,85 m",Spain,right,30.06.2022
+sime-vrsaljko,"Jan 10, 1992",27,"1,81 m",Croatia,right,30.06.2022
+vitolo,"Nov 2, 1989",30,"1,85 m",Spain,right,30.06.2022
+coke,"Apr 26, 1987",32,"1,76 m",Spain,right,30.06.2022
+antonito,"Dec 24, 1987",31,"1,75 m",Spain,right,30.06.2021
+unai-simon,"Jun 11, 1997",22,"1,90 m",Spain,right,30.06.2023
+mariano-diaz,"Aug 1, 1993",26,"1,80 m",Dominican Republic  Spain,right,30.06.2023
+paulo-oliveira,"Jan 8, 1992",27,"1,87 m",Portugal,right,30.06.2021
+javi-ontiveros,"Sep 9, 1997",22,"1,75 m",Spain,right,30.06.2024
+modibo-sagnan,"Apr 14, 1999",20,"1,87 m",France  Mali,left,30.06.2024
+marc-roca,"Nov 26, 1996",22,"1,84 m",Spain,left,30.06.2022
+nikola-vukcevic,"Dec 13, 1991",27,"1,87 m",Montenegro,right,30.06.2022
+nestor-araujo,"Aug 29, 1991",28,"1,88 m",Mexico,right,30.06.2023
+david-soria,"Apr 4, 1993",26,"1,92 m",Spain,right,30.06.2022
+antonio-adan,"May 13, 1987",32,"1,90 m",Spain,left,30.06.2020
+adria-pedrosa,"May 13, 1998",21,"1,72 m",Spain,left,30.06.2023
+pedro-bigas,"May 15, 1990",29,"1,81 m",Spain,left,30.06.2022
+ruben-vezo,"Apr 25, 1994",25,"1,82 m",Portugal  Cape Verde,right,30.06.2024
+frenkie-de-jong,"May 12, 1997",22,"1,81 m",Netherlands,right,30.06.2024
+yangel-herrera,"Jan 7, 1998",21,"1,84 m",Venezuela,right,30.06.2020
+ruben-martinez,"Jun 22, 1984",35,"1,87 m",Spain,right,30.06.2020
+bono,"Apr 5, 1991",28,"1,92 m",Morocco  Canada,left,30.06.2020
+lago-junior,"Dec 31, 1990",28,"1,80 m",Cote d'Ivoire,right,30.06.2023
+goncalo-guedes,"Nov 29, 1996",22,"1,79 m",Portugal,right,30.06.2023
+martin-valjent,"Dec 11, 1995",23,"1,87 m",Slovakia,right,30.06.2022
+facundo-roncaglia,"Feb 10, 1987",32,"1,79 m",Argentina  Italy,right,30.06.2020
+ivan-cuellar,"May 25, 1984",35,"1,87 m",Spain,left,30.06.2021
+bernardo-espinosa,"Jul 11, 1989",30,"1,92 m",Colombia  Spain,right,30.06.2020
+jaume-domenech,"Nov 5, 1990",29,"1,85 m",Spain,right,30.06.2023
+ruben-rochina,"Mar 23, 1991",28,"1,82 m",Spain,left,30.06.2021
+joselu,"Mar 27, 1990",29,"1,92 m",Spain,right,30.06.2022
+jose-luis-morales,"Jul 23, 1987",32,"1,80 m",Spain,right,30.06.2021
+ander-guevara,"Jul 7, 1997",22,"1,80 m",Spain,right,30.06.2024
+portu,"May 21, 1992",27,"1,78 m",Spain,right,30.06.2024
+igor-zubeldia,"Mar 30, 1997",22,"1,80 m",Spain,right,30.06.2024
+denis-cheryshev,"Dec 26, 1990",28,"1,79 m",Russia  Spain,left,30.06.2022
+franco-vazquez,"Feb 22, 1989",30,"1,87 m",Argentina  Italy,left,30.06.2021
+ever-banega,"Jun 29, 1988",31,"1,74 m",Argentina  Spain,right,30.06.2020
+sandro-ramirez,"Jul 9, 1995",24,"1,75 m",Spain,right,30.06.2020
+inigo-perez,"Jan 18, 1988",31,"1,78 m",Spain,left,30.06.2022
+victor-sanchez,"Sep 8, 1987",32,"1,74 m",Spain,right,30.06.2021
+mikel-san-jose,"May 30, 1989",30,"1,87 m",Spain,right,30.06.2020
+cristian-tello,"Aug 11, 1991",28,"1,78 m",Spain,both,30.06.2022
+jose-gimenez,"Jan 20, 1995",24,"1,85 m",Uruguay  Spain,right,30.06.2023
+sergio-asenjo,"Jun 28, 1989",30,"1,89 m",Spain,right,30.06.2022
+roberto-torres,"Mar 7, 1989",30,"1,78 m",Spain,right,30.06.2021
+faycal-fajr,"Aug 1, 1988",31,"1,79 m",Morocco  France,right,30.06.2021
+angel-montoro,"Jun 25, 1988",31,"1,80 m",Spain,right,30.06.2020
+kenan-kodro,"Aug 19, 1993",26,"1,88 m",Bosnia-Herzegovina  Spain,right,30.06.2022
+borja-iglesias,"Jan 17, 1993",26,"1,87 m",Spain,right,30.06.2024
+djene,"Dec 31, 1991",27,"1,78 m",Togo,right,30.06.2023
+brais-mendez,"Jan 7, 1997",22,"1,84 m",Spain,left,30.06.2021
+mikel-balenziaga,"Feb 29, 1988",31,"1,77 m",Spain,left,30.06.2021
+felipe,"May 16, 1989",30,"1,91 m",Brazil,right,30.06.2022
+francis-guerrero,"Mar 11, 1996",23,"1,75 m",Spain,right,30.06.2023
+gareth-bale,"Jul 16, 1989",30,"1,85 m",Wales,left,30.06.2022
+yuri-berchiche,"Feb 10, 1990",29,"1,81 m",Spain,left,30.06.2022
+victor-campuzano,"May 31, 1997",22,"1,74 m",Spain,left,30.06.2020
+toni-kroos,"Jan 4, 1990",29,"1,83 m",Germany,right,30.06.2023
+jasper-cillessen,"Apr 22, 1989",30,"1,87 m",Netherlands,right,30.06.2023
+nacho-martinez,"Mar 7, 1989",30,"1,74 m",Spain,left,30.06.2022
+michel,"Jul 29, 1988",31,"1,82 m",Spain,right,30.06.2020
+brandon,"Feb 4, 1995",24,"1,73 m",Spain,right,30.06.2022
+ximo-navarro,"Jan 23, 1990",29,"1,76 m",Spain,right,30.06.2021
+fede-vico,"Jul 4, 1994",25,"1,77 m",Spain,left,30.06.2021
+casemiro,"Feb 23, 1992",27,"1,85 m",Brazil  Spain,right,30.06.2021
+rui-silva,"Feb 7, 1994",25,"1,91 m",Portugal,left,30.06.2021
+takashi-inui,"Jun 2, 1988",31,"1,69 m",Japan,right,30.06.2022
+javi-garcia,"Feb 8, 1987",32,"1,87 m",Spain,right,30.06.2021
+jorge-de-frutos,"Feb 20, 1997",22,"1,73 m",Spain,right,30.06.2020
+junior-firpo,"Aug 22, 1996",23,"1,84 m",Spain  Dominican Republic,left,30.06.2024
+stiven-plaza,"Mar 11, 1999",20,"1,88 m",Ecuador,right,30.06.2023
+rafinha,"Feb 12, 1993",26,"1,74 m",Brazil  Spain,left,30.06.2020
+javi-munoz,"Feb 28, 1995",24,"1,79 m",Spain,right,30.06.2021
+bryan-gil,"Feb 11, 2001",18,"1,75 m",Spain,left,30.06.2022
+koke,"Jan 8, 1992",27,"1,76 m",Spain,right,30.06.2024
+enis-bardhi,"Jul 2, 1995",24,"1,72 m",North Macedonia,right,30.06.2022
+sergio-escudero,"Sep 2, 1989",30,"1,76 m",Spain,left,30.06.2021
+martin-aguirregabiria,"May 10, 1996",23,"1,78 m",Spain,right,30.06.2022
+mohammed-salisu,"Apr 17, 1999",20,"1,91 m",Ghana,left,30.06.2022
+darwin-machis,"Feb 7, 1993",26,"1,71 m",Venezuela  Spain,right,30.06.2023
+pol-lozano,"Oct 6, 1999",20,"1,76 m",Spain,right,30.06.2023
+alex-remiro,"Mar 24, 1995",24,"1,91 m",Spain,right,30.06.2023
+oscar-rodriguez,"Jun 28, 1998",21,"1,74 m",Spain,NaN,30.06.2020
+victor-diaz,"Jun 12, 1988",31,"1,83 m",Spain,right,30.06.2022
+roberto-soldado,"May 27, 1985",34,"1,80 m",Spain,right,30.06.2020
+mouctar-diakhaby,"Dec 19, 1996",22,"1,92 m",France  Guinea,right,30.06.2023
+daniel-torres,"Nov 15, 1989 Happy Birthday",30,"1,83 m",Colombia,NaN,30.06.2020
+pape-cheikh,"Aug 8, 1997",22,"1,80 m",Spain  Senegal,right,30.06.2020
+jesus-navas,"Nov 21, 1985",33,"1,72 m",Spain,right,30.06.2021
+carles-perez,"Feb 16, 1998",21,"1,73 m",Spain,left,30.06.2022
+alex-moreno,"Jun 8, 1993",26,"1,79 m",Spain,left,30.06.2024
+pablo-de-blasis,"Feb 4, 1988",31,"1,65 m",Argentina,right,30.06.2020
+roger-marti,"Jan 3, 1991",28,"1,79 m",Spain,right,30.06.2023
+alexander-szymanowski,"Oct 13, 1988",31,"1,74 m",Argentina  Spain,left,30.06.2020
+pipa,"Jan 26, 1998",21,"1,75 m",Spain,right,30.06.2022
+sergio-alvarez,"Aug 3, 1986",33,"1,79 m",Spain,right,30.06.2020
+joaquin-fernandez,"May 31, 1996",23,"1,90 m",Spain,left,30.06.2023
+mario-gaspar,"Nov 24, 1990",28,"1,80 m",Spain,right,30.06.2023
+francis-coquelin,"May 13, 1991",28,"1,77 m",France,right,30.06.2022
+gonzalo-escalante,"Mar 27, 1993",26,"1,82 m",Argentina  Italy,right,30.06.2020
+martin-odegaard,"Dec 17, 1998",20,"1,78 m",Norway,left,30.06.2021
+emerson,"Jan 14, 1999",20,"1,83 m",Brazil,right,30.06.2021
+stefan-savic,"Jan 8, 1991",28,"1,87 m",Montenegro  Serbia,right,30.06.2022
+javi-eraso,"Mar 22, 1990",29,"1,82 m",Spain,right,30.06.2020
+jose-gaya,"May 25, 1995",24,"1,72 m",Spain,left,30.06.2023
+ante-budimir,"Jul 22, 1991",28,"1,90 m",Croatia,left,30.06.2023
+carlos-neva,"Jun 12, 1996",23,"1,74 m",Spain,left,30.06.2021
+andre-zambo-anguissa,"Nov 16, 1995",23,"1,84 m",Cameroon,right,30.06.2020
+lillo-castellano,"Mar 27, 1989",30,"1,76 m",Spain,right,30.06.2020
+mario-hermoso,"Jun 18, 1995",24,"1,84 m",Spain,left,30.06.2024
+alberto-moreno,"Jul 5, 1992",27,"1,71 m",Spain,left,30.06.2024
+aritz-aduriz,"Feb 11, 1981",38,"1,81 m",Spain,right,30.06.2020
+jules-kounde,"Nov 12, 1998",21,"1,84 m",France  Benin,right,30.06.2024
+hector-herrera,"Apr 19, 1990",29,"1,80 m",Mexico  Portugal,right,30.06.2022
+leandro-chichizola,"Mar 27, 1990",29,"1,82 m",Argentina  Italy,right,30.06.2021
+brahim-diaz,"Aug 3, 1999",20,"1,71 m",Spain  Morocco,both,30.06.2025
+adrian-ramos,"Jan 22, 1986",33,"1,85 m",Colombia,right,30.06.2020
+marc-pedraza,"Feb 6, 1987",32,"1,84 m",Spain,NaN,30.06.2020
+javi-diaz,"May 15, 1997",22,"1,82 m",Spain,right,30.06.2021
+charles,"Apr 4, 1984",35,"1,79 m",Brazil  Portugal,right,30.06.2020
+willian-jose,"Nov 23, 1991",27,"1,89 m",Brazil  Spain,right,30.06.2024
+marc-cardona,"Jul 8, 1995",24,"1,83 m",Spain,right,30.06.2023
+luis-suarez,"Jan 24, 1987",32,"1,82 m",Uruguay  Italy,right,30.06.2021
+vasyl-kravets,"Aug 20, 1997",22,"1,85 m",Ukraine,left,30.06.2023
+sergio-ramos,"Mar 30, 1986",33,"1,84 m",Spain,right,30.06.2021
+carlos-bacca,"Sep 8, 1986",33,"1,81 m",Colombia,right,30.06.2022
+thierry-correia,"Mar 9, 1999",20,"1,79 m",Portugal,right,30.06.2024
+naldo,"Aug 25, 1988",31,"1,88 m",Brazil  Italy,right,30.06.2020
+mikel-merino,"Jun 22, 1996",23,"1,86 m",Spain,left,30.06.2023
+eliaquim-mangala,"Feb 13, 1991",28,"1,87 m",France  Belgium,left,30.06.2021
+raul-garcia,"Jul 11, 1986",33,"1,84 m",Spain,right,30.06.2021
+dani-garcia,"May 24, 1990",29,"1,79 m",Spain,right,30.06.2022
+fabri,"Dec 31, 1987",31,"1,84 m",Spain  Uruguay,NaN,30.06.2020
+quini,"Sep 24, 1989",30,"1,78 m",Spain,right,30.06.2023
+ivan-lopez,"Aug 23, 1993",26,"1,75 m",Spain,right,30.06.2020
+antonio-raillo,"Oct 8, 1991",28,"1,87 m",Spain,NaN,30.06.2021
+marcos-llorente,"Jan 30, 1995",24,"1,84 m",Spain,right,30.06.2024
+antonio-barragan,"Jun 12, 1987",32,"1,86 m",Spain,right,30.06.2020
+daniel-carvajal,"Jan 11, 1992",27,"1,73 m",Spain,right,30.06.2022
+claudio-beauvue,"Apr 16, 1988",31,"1,74 m",Guadeloupe  France,right,30.06.2021
+cristiano-piccini,"Sep 26, 1992",27,"1,89 m",Italy,right,30.06.2022
+ruben-blanco,"Jul 25, 1995",24,"1,88 m",Spain,right,30.06.2023
+david-garcia,"Feb 14, 1994",25,"1,85 m",Spain,right,30.06.2021
+dimitrios-siovas,"Sep 16, 1988",31,"1,91 m",Greece,left,30.06.2021
+rony-lopes,"Dec 28, 1995",23,"1,74 m",Portugal  Brazil,left,30.06.2024
+marc-bartra,"Jan 15, 1991",28,"1,84 m",Spain,right,30.06.2023
+pape-diop,"Mar 19, 1986",33,"1,80 m",Senegal  France,right,30.06.2021
+bruno-gonzalez,"May 24, 1990",29,"1,84 m",Spain,right,30.06.2020
+borja-sainz,"Feb 1, 2001",18,NaN,Spain,NaN,30.06.2023
+oscar-melendo,"Aug 23, 1997",22,"1,67 m",Spain,left,30.06.2022
+diego-carlos,"Mar 15, 1993",26,"1,86 m",Brazil,right,30.06.2024
+allan-nyom,"May 10, 1988",31,"1,89 m",Cameroon  France,right,30.06.2021
+aihen-munoz,"Aug 16, 1997",22,"1,75 m",Spain,left,30.06.2022
+diego-llorente,"Aug 16, 1993",26,"1,86 m",Spain,right,30.06.2022
+pedro-leon,"Nov 24, 1986",32,"1,83 m",Spain,right,30.06.2020
+santiago-arias,"Jan 13, 1992",27,"1,77 m",Colombia,right,30.06.2023
+gabriel-fernandez,"May 13, 1994",25,"1,86 m",Uruguay,right,30.06.2023
+rodrigo,"Mar 6, 1991",28,"1,82 m",Spain  Brazil,left,30.06.2022
+carles-alena,"Jan 5, 1998",21,"1,80 m",Spain,left,30.06.2022
+damian-suarez,"Apr 27, 1988",31,"1,73 m",Uruguay  Spain,right,30.06.2022
+youssef-en-nesyri,"Jun 1, 1997",22,"1,89 m",Morocco,both,30.06.2023
+juan-soriano,"Aug 23, 1997",22,"1,85 m",Spain,NaN,30.06.2020
+iker-muniain,"Dec 19, 1992",26,"1,69 m",Spain,right,30.06.2024
+jorge-miramon,"Jun 2, 1989",30,"1,75 m",Spain,right,30.06.2021
+ramon-azeez,"Dec 12, 1992",26,"1,70 m",Nigeria,right,30.06.2022
+mubarak-wakaso,"Jul 25, 1990",29,"1,71 m",Ghana,left,30.06.2020
+dani-parejo,"Apr 16, 1989",30,"1,82 m",Spain,right,30.06.2022
+aridane-hernandez,"Mar 23, 1989",30,"1,88 m",Spain  Equatorial Guinea,right,30.06.2021
+chimy-avila,"Feb 6, 1994",25,"1,72 m",Argentina,left,30.06.2023
+juan-hernandez,"Dec 6, 1994",24,"1,77 m",Spain,left,30.06.2020
+ruben-duarte,"Oct 18, 1995",24,"1,80 m",Spain,left,30.06.2023
+alexander-isak,"Sep 21, 1999",20,"1,90 m",Sweden  Eritrea,right,30.06.2024
+bruno-soriano,"Jun 12, 1984",35,"1,84 m",Spain,left,30.06.2020
+manu-vallejo,"Feb 14, 1997",22,"1,67 m",Spain,right,30.06.2024
+fernando-calero,"Sep 14, 1995",24,"1,84 m",Spain,right,30.06.2024
+carlos-clerc,"Feb 21, 1992",27,"1,81 m",Spain,left,30.06.2022
+kang-in-lee,"Feb 19, 2001",18,"1,73 m","Korea, South",left,30.06.2022
+kevin-rodrigues,"Mar 5, 1994",25,"1,70 m",Portugal  France,left,30.06.2020
+roberto-rosales,"Nov 20, 1988",30,"1,74 m",Venezuela  Spain,right,30.06.2021
+guido-carrillo,"May 25, 1991",28,"1,91 m",Argentina  Italy,right,30.06.2020
+eder-militao,"Jan 18, 1998",21,"1,86 m",Brazil,right,30.06.2025
+alvaro-aguado,"May 1, 1996",23,"1,75 m",Spain,right,30.06.2023
+lucas-vazquez,"Jul 1, 1991",28,"1,73 m",Spain,right,30.06.2021
+sergi-roberto,"Feb 7, 1992",27,"1,78 m",Spain,right,30.06.2022
+unai-garcia,"Sep 3, 1992",27,"1,86 m",Spain,left,30.06.2021
+miquel-parera,"May 18, 1996",23,"1,82 m",Spain,right,30.06.2021
+javi-sanchez,"Mar 14, 1997",22,"1,89 m",Spain,NaN,30.06.2020
+moussa-wague,"Oct 4, 1998",21,"1,77 m",Senegal,right,30.06.2023
+okay-yokuslu,"Mar 9, 1994",25,"1,91 m",Turkey,right,30.06.2023
+javi-puado,"May 25, 1998",21,"1,77 m",Spain,right,30.06.2022
+fede-varela,"Apr 18, 1997",22,"1,74 m",Argentina  Spain,right,30.06.2021
+hugo-mallo,"Jun 22, 1991",28,"1,74 m",Spain,right,30.06.2023
+lucas-ocampos,"Jul 11, 1994",25,"1,87 m",Argentina,both,30.06.2024
+rodrigo-ely,"Nov 3, 1993",26,"1,88 m",Brazil  Italy,right,30.06.2021
+carlos-soler,"Jan 2, 1997",22,"1,80 m",Spain,right,30.06.2021
+ruben-pena,"Jul 18, 1991",28,"1,70 m",Spain,right,30.06.2024
+darko-brasanac,"Feb 12, 1992",27,"1,78 m",Serbia,right,30.06.2022
+ansu-fati,"Oct 31, 2002",17,"1,78 m",Spain,right,30.06.2022
+nabil-fekir,"Jul 18, 1993",26,"1,73 m",France  Algeria,left,30.06.2023
+karl-toko-ekambi,"Sep 14, 1992",27,"1,85 m",Cameroon  France,right,30.06.2023
+neto,"Jul 19, 1989",30,"1,90 m",Brazil  Italy,right,30.06.2023
+yoel-rodriguez,"Aug 28, 1988",31,"1,84 m",Spain,right,30.06.2021
+mauro-arambarri,"Sep 30, 1995",24,"1,75 m",Uruguay,right,30.06.2023
+andres-guardado,"Sep 28, 1986",33,"1,69 m",Mexico  Spain,left,30.06.2020
+ariday-cabrera,"Sep 26, 1988",31,"1,72 m",Spain,right,30.06.2020
+nemanja-radoja,"Feb 6, 1993",26,"1,86 m",Serbia,right,30.06.2022
+andres-prieto,"Oct 17, 1993",26,"1,94 m",Spain,right,30.06.2021
+munas-dabbur,"May 14, 1992",27,"1,82 m",Israel,right,30.06.2023
+anaitz-arbilla,"May 15, 1987",32,"1,78 m",Spain,right,30.06.2021
+sergio-alvarez,"Jan 23, 1992",27,"1,83 m",Spain,right,30.06.2022
+inigo-cordoba,"Mar 13, 1997",22,"1,80 m",Spain,left,30.06.2022
+pere-pons,"Feb 20, 1993",26,"1,77 m",Spain,right,30.06.2022
+stanislav-lobotka,"Nov 25, 1994",24,"1,72 m",Slovakia,both,30.06.2023
+lucas-olaza,"Jul 21, 1994",25,"1,76 m",Uruguay,left,30.06.2020
+iddrisu-baba,"Jan 22, 1996",23,"1,82 m",Ghana,NaN,30.06.2024
+neyder-lozano,"Mar 4, 1994",25,"1,85 m",Colombia,left,30.06.2022
+aleix-febas,"Feb 22, 1996",23,"1,72 m",Spain,right,30.06.2023
+luka-modric,"Sep 9, 1985",34,"1,72 m",Croatia,both,30.06.2020
+cucho-hernandez,"Apr 22, 1999",20,"1,76 m",Colombia,right,30.06.2020
+raul-garcia,"Apr 30, 1989",30,"1,79 m",Spain,left,30.06.2022
+leo-suarez,"Mar 30, 1996",23,"1,67 m",Argentina  Spain,left,30.06.2020
+asier-villalibre,"Sep 30, 1997",22,"1,84 m",Spain,left,30.06.2023
+unai-nunez,"Jan 30, 1997",22,"1,86 m",Spain,right,30.06.2023
+waldo-rubio,"Aug 17, 1995",24,"1,81 m",Spain,right,30.06.2022
+asier-illarramendi,"Mar 8, 1990",29,"1,79 m",Spain,right,30.06.2023
+nemanja-gudelj,"Nov 16, 1991",27,"1,87 m",Serbia  Netherlands,right,30.06.2023
+lei-wu,"Nov 19, 1991",27,"1,74 m",China,right,31.12.2020

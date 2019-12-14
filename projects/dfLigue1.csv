@@ -1,0 +1,547 @@
+Player,DOB,Age,Height,Country,Foot,ContractExp
+matz-sels,"Feb 26, 1992",27,"1,88 m",Belgium,right,30.06.2024
+irvin-cardona,"Aug 8, 1997",22,"1,85 m",France,right,30.06.2023
+miguel-trauco,"Aug 25, 1992",27,"1,75 m",Peru,left,30.06.2022
+robert-beric,"Jun 17, 1991",28,"1,88 m",Slovenia,right,30.06.2022
+mathias-suarez,"Jun 24, 1996",23,"1,82 m",Uruguay,right,30.06.2023
+ryad-boudebouz,"Feb 19, 1990",29,"1,77 m",Algeria  France,left,30.06.2022
+moussa-diarra,"Nov 10, 2000",19,"1,83 m",France  Mali,left,30.06.2022
+mama-balde,"Nov 6, 1995",24,"1,81 m",Guinea-Bissau  Portugal,right,30.06.2022
+thiago-silva,"Sep 22, 1984",35,"1,83 m",Brazil  France,right,30.06.2020
+lucas-buades,"Dec 28, 1997",21,"1,81 m",France,right,-
+cristian-benavente,"May 19, 1994",25,"1,72 m",Peru  Spain,left,30.06.2020
+gaetan-poussin,"Jan 13, 1999",20,"1,86 m",France,right,30.06.2023
+thody-elie-youan,"Apr 7, 1999",20,"1,81 m",France  Cote d'Ivoire,right,30.06.2022
+mamadou-fofana,"Jan 21, 1998",21,"1,86 m",Mali,right,30.06.2022
+hichem-boudaoui,"Sep 23, 1999",20,"1,73 m",Algeria,right,30.06.2023
+damien-da-silva,"May 17, 1988",31,"1,84 m",France  Portugal,right,30.06.2021
+vlatko-stojanovski,"Apr 23, 1997",22,"1,86 m",North Macedonia,right,30.06.2022
+sami-lahssaini,"Sep 18, 1998",21,"1,77 m",Belgium  Morocco,right,30.06.2022
+raoul-bellanova,"May 17, 2000",19,"1,85 m",Italy,right,30.06.2022
+jakob-johansson,"Jun 21, 1990",29,"1,87 m",Sweden,right,30.06.2020
+steve-mandanda,"Mar 28, 1985",34,"1,85 m",France  DR Congo,right,30.06.2021
+faitout-maouassa,"Jul 6, 1998",21,"1,70 m",Congo  France,left,30.06.2021
+gerzino-nyamsi,"Jan 22, 1997",22,"1,94 m",France  Cameroon,right,30.06.2024
+souleyman-doumbia,"Sep 24, 1996",23,"1,83 m",Cote d'Ivoire  France,left,30.06.2022
+didier-ndong,"Jun 17, 1994",25,"1,79 m",Gabon,right,30.06.2023
+yann-gboho,"Jan 14, 2001",18,"1,78 m",France  Cote d'Ivoire,right,30.06.2021
+adrien-tameze,"Feb 4, 1994",25,"1,80 m",France  Cameroon,right,30.06.2021
+adil-taoui,"Aug 10, 2001",18,"1,79 m",France  Algeria,right,30.06.2021
+loick-landre,"May 5, 1992",27,"1,82 m",France  Guadeloupe,right,30.06.2021
+sofiane-alakouch,"Jul 29, 1998",21,"1,75 m",France  Morocco,right,30.06.2021
+arber-zeneli,"Feb 25, 1995",24,"1,76 m",Kosovo  Sweden,right,30.06.2023
+anastasios-donis,"Aug 29, 1996",23,"1,78 m",Greece  England,right,30.06.2020
+jeremy-gelin,"Apr 24, 1997",22,"1,83 m",France,right,30.06.2022
+boubacar-fofana,"Sep 7, 1998",21,NaN,France,both,30.06.2023
+bruno-ecuele-manga,"Jul 16, 1988",31,"1,86 m",Gabon  France,right,30.06.2022
+yohan-cabaye,"Jan 14, 1986",33,"1,73 m",France,right,30.06.2020
+stiven-mendoza,"Jun 27, 1992",27,"1,72 m",Colombia,left,31.12.2021
+kayembe,"Aug 8, 1994",25,"1,82 m",Belgium  DR Congo,left,30.06.2021
+matheus-pereira,"Feb 25, 1998",21,"1,81 m",Brazil,left,30.06.2020
+josh-maja,"Dec 27, 1998",20,"1,80 m",Nigeria  England,right,30.06.2023
+vitorino-hilton,"Sep 13, 1977",42,"1,80 m",Brazil,right,30.06.2020
+serhou-guirassy,"Mar 12, 1996",23,"1,87 m",France  Guinea,right,30.06.2022
+wylan-cyprien,"Jan 28, 1995",24,"1,80 m",France  Guadeloupe,right,30.06.2021
+danijel-petkovic,"May 25, 1993",26,"1,96 m",Montenegro,right,30.06.2022
+idrissa-gueye,"Sep 26, 1989",30,"1,74 m",Senegal,right,30.06.2023
+walter-benitez,"Jan 19, 1993",26,"1,93 m",Argentina,right,30.06.2020
+lucas-tousart,"Apr 29, 1997",22,"1,85 m",France,right,30.06.2023
+ludovic-butelle,"Apr 3, 1983",36,"1,88 m",France,left,30.06.2021
+cesc-fabregas,"May 4, 1987",32,"1,79 m",Spain,right,30.06.2022
+ui-jo-hwang,"Aug 28, 1992",27,"1,85 m","Korea, South",both,30.06.2023
+quentin-boisgard,"Mar 17, 1997",22,"1,74 m",France,right,30.06.2020
+farid-el-melali,"May 5, 1997",22,"1,68 m",Algeria,both,30.06.2023
+edouard-mendy,"Mar 1, 1992",27,"1,97 m",Senegal  Guinea-Bissau,right,30.06.2023
+boubakary-soumare,"Feb 27, 1999",20,"1,88 m",France  Senegal,right,30.06.2020
+boubacar-traore,"Aug 20, 2001",18,"1,83 m",Mali,NaN,30.06.2024
+ludovic-ajorque,"Feb 25, 1994",25,"1,97 m",France  Madagascar,right,30.06.2022
+jordan-lefort,"Aug 9, 1993",26,"1,84 m",France,left,30.06.2021
+imran-louza,"May 1, 1999",20,"1,78 m",France  Morocco,left,30.06.2024
+theo-pellenard,"Mar 4, 1994",25,"1,82 m",France,left,30.06.2020
+ismael-aaneba,"May 29, 1999",20,"1,82 m",France  Morocco,right,30.06.2020
+kevin-monnet-paquet,"Aug 19, 1988",31,"1,84 m",France  Rwanda,right,30.06.2021
+enzo-loiodice,"Nov 27, 2000",18,"1,76 m",France,right,30.06.2021
+angelo-fulgini,"Aug 20, 1996",23,"1,83 m",France,right,30.06.2021
+adil-aouchiche,"Jul 15, 2002",17,"1,81 m",France  Algeria,right,30.06.2020
+mathieu-goncalves,"Jun 8, 2001",18,"1,78 m",France  Brazil,left,30.06.2021
+bridge-ndilu,"Jul 21, 2000",19,"1,86 m",France,right,30.06.2024
+benjamin-lecomte,"Apr 26, 1991",28,"1,86 m",France,left,30.06.2024
+florian-thauvin,"Jan 26, 1993",26,"1,79 m",France,left,30.06.2021
+seydou-sy,"Dec 12, 1995",23,"1,92 m",Senegal,right,30.06.2020
+batista-mendy,"Jan 12, 2000",19,"1,91 m",France,right,30.06.2021
+jonas-martin,"Apr 9, 1990",29,"1,84 m",France,right,30.06.2022
+marvin-gakpa,"Nov 1, 1993",26,"1,82 m",France  Algeria,right,30.06.2021
+loic-remy,"Jan 2, 1987",32,"1,85 m",France,right,30.06.2020
+mauro-goicoechea,"Mar 27, 1988",31,"1,86 m",Uruguay  Italy,right,30.06.2021
+jack-lahne,"Oct 24, 2001",18,"1,74 m",Sweden  Zambia,right,-
+younousse-sankhare,"Sep 10, 1989",30,"1,84 m",Senegal  France,left,30.06.2021
+fabio,"Jul 9, 1990",29,"1,72 m",Brazil  Portugal,both,30.06.2021
+marcin-bulka,"Oct 4, 1999",20,"1,99 m",Poland,right,30.06.2021
+racine-coly,"Dec 8, 1995",23,"1,85 m",Senegal,left,30.06.2022
+yannis-clementia,"Jul 5, 1997",22,"1,88 m",France  Martinique,right,-
+otavio,"May 4, 1994",25,"1,76 m",Brazil,right,30.06.2021
+mbaye-niang,"Dec 19, 1994",24,"1,88 m",Senegal  France,right,30.06.2023
+jemerson,"Aug 24, 1992",27,"1,84 m",Brazil,right,30.06.2020
+vukasin-jovanovic,"May 17, 1996",23,"1,88 m",Serbia,right,30.06.2021
+pablo,"Jun 21, 1991",28,"1,88 m",Brazil,right,30.06.2021
+abdallah-ndour,"Dec 20, 1993",25,"1,86 m",Senegal,left,30.06.2020
+senou-coulibaly,"Sep 4, 1994",25,"1,93 m",France  Mali,right,30.06.2020
+mapou-yanga-mbiwa,"May 15, 1989",30,"1,84 m",France  Central African Republic,right,30.06.2020
+hiroki-sakai,"Apr 12, 1990",29,"1,83 m",Japan,right,30.06.2022
+ibrahima-niane,"Mar 11, 1999",20,"1,87 m",Senegal,right,30.06.2022
+ibrahima-diallo,"Mar 8, 1999",20,"1,80 m",France  Senegal,left,30.06.2023
+nolan-mbemba,"Feb 19, 1995",24,"1,81 m",France  DR Congo,right,30.06.2021
+junior-sambia,"Sep 7, 1996",23,"1,85 m",France  Central African Republic,right,30.06.2022
+kevin-ndoram,"Jan 22, 1996",23,"1,85 m",France  Chad,right,30.06.2020
+wesley-fofana,"Dec 17, 2000",18,"1,90 m",France,right,30.06.2021
+mateo-pavlovic,"Jun 9, 1990",29,"1,94 m",Croatia,right,30.06.2020
+layvin-kurzawa,"Sep 4, 1992",27,"1,82 m",France  Poland,left,30.06.2020
+jeff-reine-adelaide,"Jan 17, 1998",21,"1,84 m",France  Martinique,right,30.06.2024
+hassane-kamara,"Mar 5, 1994",25,"1,68 m",France  The Gambia,left,30.06.2021
+runar-alex-runarsson,"Feb 18, 1995",24,"1,86 m",Iceland,right,30.06.2022
+jeremy-pied,"Feb 23, 1989",30,"1,73 m",France,right,30.06.2020
+julien-faussurier,"Jan 14, 1987",32,"1,73 m",France,right,30.06.2021
+francois-kamano,"May 1, 1996",23,"1,82 m",Guinea,right,30.06.2021
+aaron-leya-iseka,"Nov 15, 1997",22,"1,82 m",Belgium  DR Congo,right,30.06.2022
+saif-eddine-khaoui,"Apr 27, 1995",24,"1,80 m",Tunisia  France,left,30.06.2021
+ibrahim-cisse,"May 2, 1996",23,"1,85 m",France  Senegal,right,30.06.2021
+marquinhos,"May 14, 1994",25,"1,83 m",Brazil  Portugal,right,30.06.2022
+frederic-sammaritano,"Mar 23, 1986",33,"1,62 m",France,right,30.06.2020
+andrei-girotto,"Feb 17, 1992",27,"1,86 m",Brazil,right,30.06.2021
+abdou-diallo,"May 4, 1996",23,"1,87 m",France  Senegal,left,30.06.2024
+stefan-mitrovic,"May 22, 1990",29,"1,89 m",Serbia,both,30.06.2022
+garissone-innocent,"Apr 16, 2000",19,"1,92 m",France,right,30.06.2023
+eiji-kawashima,"Mar 20, 1983",36,"1,85 m",Japan,right,30.06.2021
+adrien-hunou,"Jan 19, 1994",25,"1,79 m",France,right,30.06.2020
+sada-thioub,"Jun 1, 1995",24,"1,79 m",Senegal  France,right,30.06.2023
+ghislain-konan,"Dec 27, 1995",23,"1,76 m",Cote d'Ivoire,left,30.06.2022
+sanjin-prcic,"Nov 20, 1993",25,"1,82 m",Bosnia-Herzegovina  France,right,30.06.2022
+ibrahim-cisse,"Jan 11, 1999",20,"1,91 m",Cote d'Ivoire,right,-
+kalidou-sidibe,"Jan 28, 1999",20,"2,00 m",France  Mali,right,30.06.2023
+houssem-aouar,"Jun 30, 1998",21,"1,75 m",France  Algeria,right,30.06.2023
+bilal-boutobba,"Aug 29, 1998",21,"1,72 m",France  Algeria,left,30.06.2020
+ngonda-muzinga,"Dec 31, 1994",24,"1,82 m",DR Congo,left,30.06.2021
+kenny-tete,"Oct 9, 1995",24,"1,80 m",Netherlands  Mozambique,right,30.06.2021
+bertrand-traore,"Sep 6, 1995",24,"1,81 m",Burkina Faso,left,30.06.2022
+amir-adouyev,"May 11, 1999",20,"1,81 m",Russia  France,right,30.06.2021
+molla-wague,"Feb 21, 1991",28,"1,91 m",Mali  France,right,30.06.2022
+jimmy-briand,"Aug 2, 1985",34,"1,83 m",France  Martinique,right,30.06.2020
+max-gradel,"Nov 30, 1987",31,"1,75 m",Cote d'Ivoire  France,right,30.06.2021
+youssouf-kone,"Jul 5, 1995",24,"1,74 m",Mali,left,30.06.2024
+vincent-manceau,"Jul 24, 1989",30,"1,76 m",France,right,30.06.2022
+valentin-rongier,"Dec 7, 1994",24,"1,72 m",France,right,30.06.2024
+florian-miguel,"Sep 1, 1996",23,"1,79 m",France  Portugal,left,30.06.2021
+ruben-aguilar,"Apr 26, 1993",26,"1,72 m",France  Spain,right,30.06.2024
+ignatius-ganago,"Feb 16, 1999",20,"1,76 m",Cameroon,right,30.06.2022
+moussa-konate,"Apr 3, 1993",26,"1,83 m",Senegal,right,30.06.2021
+donovan-leon,"Nov 3, 1992",27,"1,87 m",French Guiana  France,right,30.06.2020
+abdoul-kader-bamba,"May 25, 1994",25,"1,76 m",France,right,30.06.2022
+keylor-navas,"Dec 15, 1986",32,"1,85 m",Costa Rica  Spain,right,30.06.2023
+cristian-battocchio,"Feb 10, 1992",27,"1,77 m",Italy  Argentina,right,30.06.2021
+boubacar-kamara,"Nov 23, 1999",19,"1,84 m",France  Senegal,right,30.06.2022
+arturo-calabresi,"Mar 17, 1996",23,"1,86 m",Italy,right,30.06.2020
+angel-di-maria,"Feb 14, 1988",31,"1,80 m",Argentina  Italy,left,30.06.2021
+kevin-zohi,"Dec 19, 1996",22,"1,77 m",Mali  Cote d'Ivoire,right,30.06.2021
+alexis-claude-maurice,"Jun 6, 1998",21,"1,74 m",France,right,30.06.2024
+mauro-icardi,"Feb 19, 1993",26,"1,81 m",Argentina  Italy,right,30.06.2020
+predrag-rajkovic,"Oct 31, 1995",24,"1,92 m",Serbia,right,30.06.2023
+pedro-mendes,"Oct 1, 1990",29,"1,86 m",Portugal,right,30.06.2021
+valere-germain,"Apr 17, 1990",29,"1,80 m",France,right,30.06.2021
+yoan-cardinale,"Mar 27, 1994",25,"1,81 m",France,right,30.06.2020
+rafik-guitane,"May 26, 1999",20,"1,64 m",France  Algeria,right,30.06.2022
+wesley-said,"Apr 19, 1995",24,"1,71 m",France,right,30.06.2023
+benoit-badiashile,"Mar 26, 2001",18,"1,94 m",France  DR Congo,left,30.06.2021
+sacha-boey,"Sep 13, 2000",19,"1,78 m",France  Cameroon,right,30.06.2022
+romain-salin,"Jul 29, 1984",35,"1,89 m",France,left,30.06.2021
+remi-oudin,"Nov 18, 1996",22,"1,85 m",France,left,30.06.2021
+benjamin-corgnet,"Apr 6, 1987",32,"1,79 m",France,right,30.06.2020
+haris-duljevic,"Nov 16, 1993",26,"1,85 m",Bosnia-Herzegovina,right,30.06.2022
+ulrick-eneme-ella,"May 22, 2001",18,"1,84 m",France  Gabon,right,30.06.2023
+jhonder-cadiz,"Jul 29, 1995",24,"1,90 m",Venezuela,right,30.06.2020
+ambroise-oyongo,"Jun 22, 1991",28,"1,76 m",Cameroon,left,30.06.2022
+issiaga-sylla,"Jan 1, 1994",25,"1,80 m",Guinea,left,30.06.2023
+gen-shoji,"Dec 11, 1992",26,"1,82 m",Japan,right,30.06.2022
+jonathan-cafu,"Jul 10, 1991",28,"1,75 m",Brazil  Bulgaria,right,30.06.2021
+kevin-denkey,"Nov 30, 2000",18,"1,81 m",Togo,right,30.06.2021
+gabriel-boschilia,"Mar 5, 1996",23,"1,72 m",Brazil  Italy,left,30.06.2021
+renaud-cohade,"Sep 29, 1984",35,"1,81 m",France,right,30.06.2020
+amine-adli,"May 10, 2000",19,"1,74 m",France,NaN,30.06.2021
+mohamed-simakan,"May 3, 2000",19,"1,87 m",France  Guinea,right,30.06.2021
+alexandre-mendy,"Mar 20, 1994",25,"1,84 m",France  Senegal,right,30.06.2020
+alvaro-gonzalez,"Jan 8, 1990",29,"1,82 m",Spain,right,30.06.2020
+timothy-weah,"Feb 22, 2000",19,"1,85 m",United States  France,right,30.06.2024
+kasper-dolberg,"Oct 6, 1997",22,"1,87 m",Denmark,right,30.06.2024
+charles-traore,"Jan 1, 1992",27,"1,80 m",Mali  France,left,30.06.2021
+dereck-kutesa,"Dec 6, 1997",21,"1,78 m",Switzerland  Angola,right,30.06.2023
+leo-dubois,"Sep 14, 1994",25,"1,78 m",France,right,30.06.2024
+farid-boulaya,"Feb 25, 1993",26,"1,80 m",Algeria  France,right,30.06.2022
+zinedine-ferhat,"Mar 1, 1993",26,"1,80 m",Algeria,right,30.06.2022
+gautier-larsonneur,"Feb 23, 1997",22,"1,81 m",France,right,30.06.2021
+fode-ballo-toure,"Jan 3, 1997",22,"1,82 m",France  Mali,left,30.06.2023
+manuel-cabit,"Jun 3, 1993",26,"1,80 m",Martinique  France,left,30.06.2022
+virgile-pinson,"Feb 22, 1996",23,"1,77 m",France  Cameroon,right,30.06.2021
+diego-benaglio,"Sep 8, 1983",36,"1,94 m",Switzerland  Italy,right,30.06.2020
+leandro-paredes,"Jun 29, 1994",25,"1,80 m",Argentina,right,30.06.2023
+theo-barbet,"Mar 6, 2001",18,"1,84 m",France,left,30.06.2022
+harold-moukoudi,"Nov 27, 1997",21,"1,91 m",France  Cameroon,right,30.06.2023
+nathanael-mbuku,"Mar 16, 2002",17,"1,70 m",France,left,30.06.2021
+mathieu-bodmer,"Nov 22, 1982",36,"1,90 m",France,right,30.06.2020
+moses-simon,"Jul 12, 1995",24,"1,68 m",Nigeria,both,30.06.2020
+fouad-chafik,"Oct 16, 1986",33,"1,83 m",Morocco  France,right,30.06.2020
+ludovic-baal,"May 24, 1986",33,"1,76 m",French Guiana  France,left,30.06.2020
+lucas-dias,"May 22, 1999",20,"1,85 m",France,right,30.06.2022
+stefan-bajic,"Dec 23, 2001",17,"1,87 m",France,right,30.06.2022
+jose-fonte,"Dec 22, 1983",35,"1,91 m",Portugal,right,30.06.2021
+christophe-jallet,"Oct 31, 1983",36,"1,78 m",France,right,30.06.2020
+assane-diousse,"Sep 20, 1997",22,"1,75 m",Senegal,left,30.06.2022
+bassem-srarfi,"Jun 25, 1997",22,"1,76 m",Tunisia,left,30.06.2021
+habib-diallo,"Jun 15, 1995",24,"1,86 m",Senegal,right,30.06.2022
+albert-lottin,"Aug 29, 2001",18,"1,81 m",France,right,30.06.2021
+jean-kevin-augustin,"Jun 16, 1997",22,"1,77 m",France  Haiti,right,30.06.2020
+adama-traore,"Jun 5, 1995",24,"1,77 m",Mali,left,30.06.2022
+bryan-soumare,"Feb 11, 1999",20,"1,80 m",France,left,30.06.2022
+william-saliba,"Mar 24, 2001",18,"1,93 m",France  Cameroon,right,30.06.2020
+jonathan-ikone,"May 2, 1998",21,"1,75 m",France  DR Congo,left,30.06.2023
+gaetan-belaud,"Sep 16, 1986",33,"1,77 m",France,right,30.06.2020
+mickael-alphonse,"Jul 12, 1989",30,"1,82 m",Guadeloupe  France,right,30.06.2021
+hianga-mbock,"Dec 28, 1999",19,"1,86 m",France  Cameroon,right,30.06.2022
+stephy-mavididi,"May 31, 1998",21,"1,83 m",England  DR Congo,right,30.06.2020
+theo-vermot,"Jan 27, 1997",22,"1,90 m",France,right,-
+alexander-djiku,"Aug 9, 1994",25,"1,82 m",France  Ghana,right,30.06.2023
+papa-ndiaga-yade,"Jan 5, 2000",19,"1,86 m",Senegal,left,30.06.2024
+stanley-nsoki,"Apr 9, 1999",20,"1,78 m",France  Congo,left,30.06.2023
+luiz-araujo,"Jun 2, 1996",23,"1,75 m",Brazil,left,30.06.2022
+mathias-autret,"Mar 1, 1991",28,"1,75 m",France,right,30.06.2020
+marshall-munetsi,"Jun 22, 1996",23,"1,87 m",Zimbabwe,right,30.06.2023
+rafael,"Jul 9, 1990",29,"1,72 m",Brazil  Portugal,right,30.06.2021
+loic-mbe-soh,"Jun 13, 2001",18,"1,86 m",France  Cameroon,right,30.06.2021
+pierre-lees-melou,"May 25, 1993",26,"1,85 m",France,right,30.06.2021
+zinedine-ould-khaled,"Jan 14, 2000",19,NaN,France,NaN,-
+david-kiki,"Nov 25, 1993",25,"1,80 m",Benin,left,30.06.2021
+matthieu-udol,"Mar 20, 1996",23,"1,78 m",France,left,30.06.2020
+paul-bernardoni,"Apr 18, 1997",22,"1,90 m",France,right,30.06.2020
+aleksandr-golovin,"May 30, 1996",23,"1,80 m",Russia,right,30.06.2023
+aurelien-chedjou,"Jun 20, 1985",34,"1,84 m",Cameroon  France,right,30.06.2021
+sambou-sissoko,"Apr 27, 1999",20,"1,79 m",France  Mali,both,30.06.2023
+darell-tokpa,"Jun 2, 2001",18,NaN,France,NaN,30.06.2022
+brendan-chardonnet,"Dec 22, 1994",24,"1,81 m",France,right,30.06.2021
+haitam-aleesami,"Jul 31, 1991",28,"1,83 m",Norway,left,30.06.2022
+malang-sarr,"Jan 23, 1999",20,"1,82 m",France  Senegal,left,30.06.2021
+julio-tavares,"Nov 19, 1988",30,"1,87 m",Cape Verde  France,right,30.06.2021
+amine-gouiri,"Feb 16, 2000",19,"1,80 m",France  Algeria,right,30.06.2022
+alban-lafont,"Jan 23, 1999",20,"1,93 m",France  Burkina Faso,right,30.06.2021
+teji-savanier,"Dec 22, 1991",27,"1,71 m",France,right,30.06.2023
+youssouf-sabaly,"Mar 5, 1993",26,"1,74 m",Senegal  France,right,30.06.2021
+lamine-kone,"Feb 1, 1989",30,"1,89 m",Cote d'Ivoire  France,right,30.06.2021
+tiago-djalo,"Apr 9, 2000",19,"1,90 m",Portugal,right,30.06.2024
+kevin-mayi,"Jan 14, 1993",26,"1,82 m",France  Gabon,right,30.06.2020
+abdoulaye-bamba,"Apr 25, 1990",29,"1,82 m",Cote d'Ivoire  Italy,right,30.06.2021
+abdoulaye-dabo,"Mar 4, 2001",18,"1,81 m",France  Guinea,left,30.06.2022
+charles-abi,"Apr 12, 2000",19,"1,87 m",France,left,30.06.2022
+danijel-subasic,"Oct 27, 1984",35,"1,91 m",Croatia,right,30.06.2020
+ahmadou-dia,"Oct 13, 1999",20,"1,82 m",France,left,30.06.2022
+pablo-sarabia,"May 11, 1992",27,"1,78 m",Spain,left,30.06.2024
+lenny-vallier,"Apr 24, 1999",20,"1,78 m",France,left,-
+regis-gurtner,"Dec 8, 1986",32,"1,82 m",France,right,30.06.2022
+saman-ghoddos,"Sep 6, 1993",26,"1,77 m",Iran  Sweden,right,30.06.2023
+guillermo-maripan,"May 6, 1994",25,"1,93 m",Chile,right,30.06.2024
+antonin-bobichon,"Sep 14, 1995",24,"1,70 m",France,right,30.06.2023
+dario-benedetto,"May 17, 1990",29,"1,77 m",Argentina  Mexico,right,30.06.2023
+khephren-thuram,"Mar 26, 2001",18,"1,91 m",France  Guadeloupe,right,30.06.2022
+willem-geubbels,"Aug 16, 2001",18,"1,85 m",France  Netherlands,right,30.06.2023
+efthymios-koulouris,"Mar 6, 1996",23,"1,86 m",Greece,right,30.06.2023
+florentin-bloch,"Feb 2, 2000",19,"1,90 m",France,left,30.06.2022
+kelyan-guessoum,"Feb 5, 1999",20,"1,75 m",France,right,30.06.2022
+rafal-kurzawa,"Jan 29, 1993",26,"1,82 m",Poland,left,30.06.2021
+sergio-rico,"Sep 1, 1993",26,"1,94 m",Spain,right,30.06.2020
+stevan-jovetic,"Nov 2, 1989",30,"1,83 m",Montenegro  Serbia,right,30.06.2021
+ibrahima-sissoko,"Oct 27, 1997",22,"1,93 m",France  Mali,right,30.06.2022
+anthony-rouault,"May 29, 2001",18,"1,86 m",France,right,-
+dario-maresic,"Sep 29, 1999",20,"1,83 m",Austria  Croatia,both,30.06.2024
+paul-baysse,"May 18, 1988",31,"1,85 m",France,right,30.06.2021
+kenny-lala,"Oct 3, 1991",28,"1,78 m",France  Martinique,right,30.06.2021
+bongani-zungu,"Oct 9, 1992",27,"1,84 m",South Africa,right,30.06.2021
+dante,"Oct 18, 1983",36,"1,88 m",Brazil,left,30.06.2021
+moataz-zemzemi,"Aug 7, 1999",20,"1,83 m",Tunisia,left,30.06.2021
+gil-dias,"Sep 28, 1996",23,"1,86 m",Portugal,left,30.06.2022
+amadou-ndiaye,"Jan 2, 2000",19,"1,86 m",Senegal,right,30.06.2022
+benjamin-bourigeaud,"Jan 14, 1994",25,"1,77 m",France,right,30.06.2021
+colin-dagba,"Sep 6, 1998",21,"1,70 m",France  Benin,right,30.06.2024
+mexer,"Sep 8, 1988",31,"1,88 m",Mozambique,right,30.06.2023
+mounir-chouiar,"Jan 23, 1999",20,"1,80 m",France  Morocco,right,30.06.2022
+alexis-blin,"Sep 16, 1996",23,"1,84 m",France,right,30.06.2022
+alfred-gomis,"Sep 5, 1993",26,"1,96 m",Senegal  Italy,right,30.06.2023
+ciprian-tatarusanu,"Feb 9, 1986",33,"1,98 m",Romania,right,30.06.2022
+lois-diony,"Dec 20, 1992",26,"1,83 m",France  Martinique,right,30.06.2021
+jeremy-morel,"Apr 2, 1984",35,"1,72 m",Madagascar  France,left,30.06.2020
+yusuf-yazici,"Jan 29, 1997",22,"1,83 m",Turkey,left,30.06.2024
+clement-grenier,"Jan 7, 1991",28,"1,86 m",France,right,30.06.2021
+julian-draxler,"Sep 20, 1993",26,"1,87 m",Germany,right,30.06.2021
+nicolas-pallois,"Sep 19, 1987",32,"1,89 m",France,left,30.06.2022
+rachid-alioui,"Jun 18, 1992",27,"1,86 m",Morocco  France,right,30.06.2022
+sidy-sarr,"Jun 5, 1996",23,"1,96 m",Senegal,left,30.06.2023
+pablo-martinez,"Feb 21, 1989",30,"1,82 m",France  Spain,left,30.06.2022
+gabriel-magalhaes,"Dec 19, 1997",21,"1,90 m",Brazil,left,30.06.2021
+lucas-perrin,"Nov 19, 1998",20,"1,87 m",France,right,30.06.2021
+islam-slimani,"Jun 18, 1988",31,"1,88 m",Algeria,right,30.06.2020
+youssouf-fofana,"Jan 10, 1999",20,"1,76 m",France  Mali,right,30.06.2023
+wesley-lautoa,"Aug 25, 1987",32,"1,84 m",France,left,30.06.2020
+petar-skuletic,"Jun 29, 1990",29,"1,93 m",Serbia  Montenegro,left,30.06.2020
+jean-victor-makengo,"Jun 12, 1998",21,"1,77 m",France  DR Congo,left,30.06.2020
+aurelien-tchouameni,"Jan 27, 2000",19,"1,85 m",France  Cameroon,right,30.06.2022
+duje-caleta-car,"Sep 17, 1996",23,"1,92 m",Croatia,right,30.06.2023
+joris-chotard,"Sep 24, 2001",18,"1,79 m",France,right,30.06.2022
+marcal,"Feb 19, 1989",30,"1,78 m",Brazil,left,30.06.2021
+xeka,"Nov 10, 1994",25,"1,86 m",Portugal,both,30.06.2022
+wahbi-khazri,"Feb 8, 1991",28,"1,82 m",Tunisia  France,right,30.06.2022
+souleymane-camara,"Dec 22, 1982",36,"1,74 m",Senegal,right,30.06.2020
+mathieu-cafaro,"Mar 25, 1997",22,"1,75 m",France,right,30.06.2022
+gabriel-silva,"May 13, 1991",28,"1,79 m",Brazil,left,30.06.2023
+agustin-rogel,"Oct 17, 1997",22,"1,90 m",Uruguay  Italy,right,30.06.2022
+adama-soumaoro,"Jun 18, 1992",27,"1,86 m",France  Mali,right,30.06.2021
+anthony-racioppi,"Dec 31, 1998",20,"1,89 m",Switzerland,right,30.06.2021
+valentin-gendrey,"Jun 21, 2000",19,"1,79 m",France  Guadeloupe,right,30.06.2022
+baptiste-santamaria,"Mar 9, 1995",24,"1,83 m",France,right,30.06.2022
+remi-walter,"Apr 26, 1995",24,"1,74 m",France,left,30.06.2020
+thomas-delaine,"Mar 24, 1992",27,"1,80 m",France,left,30.06.2022
+rene-krhin,"May 21, 1990",29,"1,89 m",Slovenia,right,30.06.2020
+adrien-silva,"Mar 15, 1989",30,"1,75 m",Portugal  France,right,30.06.2020
+prince-gouano,"Dec 24, 1993",25,"1,86 m",France  Cote d'Ivoire,right,30.06.2021
+sanasi-sy,"Dec 4, 1999",19,"1,74 m",France  Senegal,left,-
+presnel-kimpembe,"Aug 13, 1995",24,"1,83 m",France  DR Congo,left,30.06.2023
+hamza-mendyl,"Oct 21, 1997",22,"1,79 m",Morocco  Cote d'Ivoire,left,30.06.2020
+denys-bain,"Jul 2, 1993",26,"1,81 m",France  Benin,both,30.06.2022
+dimitry-bertaud,"Jun 6, 1998",21,"1,80 m",France,right,30.06.2022
+paul-lasne,"Jan 16, 1989",30,"1,86 m",France,left,30.06.2020
+patrick-burner,"Apr 11, 1996",23,"1,70 m",France  Martinique,right,30.06.2020
+arnaud-souquet,"Feb 12, 1992",27,"1,79 m",France,right,30.06.2023
+moussa-doumbia,"Aug 15, 1994",25,"1,73 m",Mali,right,30.06.2022
+lionel-carole,"Apr 12, 1991",28,"1,82 m",France  Martinique,left,30.06.2021
+romain-hamouma,"Mar 29, 1987",32,"1,78 m",France,right,30.06.2021
+yoann-court,"Jan 14, 1990",29,"1,72 m",France,left,30.06.2020
+bouna-sarr,"Jan 31, 1992",27,"1,77 m",France  Guinea,right,30.06.2022
+lamine-fomba,"Jan 26, 1998",21,"1,87 m",France  Mali,right,30.06.2023
+arnaud-nordin,"Jun 17, 1998",21,"1,70 m",France  Martinique,left,30.06.2022
+jordan-ferri,"Mar 12, 1992",27,"1,72 m",France,right,30.06.2024
+myziane-maolida,"Feb 14, 1999",20,"1,82 m",France  Comoros,right,30.06.2023
+nayef-aguerd,"Mar 30, 1996",23,"1,88 m",Morocco,left,30.06.2021
+keita-balde,"Mar 8, 1995",24,"1,84 m",Senegal  Spain,both,30.06.2022
+youcef-atal,"May 17, 1996",23,"1,76 m",Algeria,both,30.06.2023
+mike-maignan,"Jul 3, 1995",24,"1,91 m",France  French Guiana,right,30.06.2022
+alexandre-olliero,"Feb 15, 1996",23,"1,93 m",France,right,30.06.2023
+saad-agouzoul,"Aug 10, 1997",22,"1,92 m",Morocco,left,30.06.2024
+denis-petric,"May 24, 1988",31,"1,86 m",Serbia  Slovenia,right,30.06.2021
+alexandre-phliponeau,"Jan 26, 2000",19,"1,80 m",France,right,30.06.2022
+abdoulaye-toure,"Oct 14, 2000",19,NaN,France  Mali,NaN,-
+jordan-marie,"Sep 29, 1991",28,"1,77 m",France,right,30.06.2020
+jean-charles-castelletto,"Jan 26, 1995",24,"1,85 m",Cameroon  France,both,30.06.2020
+anthony-lopes,"Oct 1, 1990",29,"1,84 m",Portugal  France,left,30.06.2022
+hyun-jun-suk,"Jun 29, 1991",28,"1,90 m","Korea, South",right,30.06.2022
+danilo,"Feb 28, 1996",23,"1,82 m",Brazil,left,30.06.2021
+morgan-sanson,"Aug 18, 1994",25,"1,80 m",France,right,30.06.2022
+benjamin-henrichs,"Feb 23, 1997",22,"1,83 m",Germany  Ghana,right,30.06.2023
+mathieu-dossevi,"Feb 12, 1988",31,"1,74 m",Togo  France,right,30.06.2020
+martin-terrier,"Mar 4, 1997",22,"1,84 m",France,right,30.06.2022
+florent-mollet,"Nov 19, 1991",27,"1,75 m",France,right,30.06.2022
+joachim-andersen,"May 31, 1996",23,"1,92 m",Denmark,right,30.06.2024
+gael-kakuta,"Jun 21, 1991",28,"1,73 m",DR Congo  France,left,30.06.2022
+axel-disasi,"Mar 11, 1998",21,"1,90 m",France  DR Congo,right,30.06.2021
+yassine-benrahou,"Jan 24, 1999",20,"1,70 m",Morocco  France,right,30.06.2022
+eric-maxim-choupo-moting,"Mar 23, 1989",30,"1,91 m",Cameroon  Germany,right,30.06.2020
+stoppila-sunzu,"Jun 22, 1989",30,"1,90 m",Zambia,right,30.06.2020
+enock-kwateng,"Apr 9, 1997",22,"1,81 m",France  Ghana,right,30.06.2023
+maxime-lopez,"Dec 4, 1997",21,"1,67 m",France  Algeria,right,30.06.2021
+stephane-bahoken,"May 28, 1992",27,"1,85 m",Cameroon  France,right,30.06.2022
+boulaye-dia,"Nov 16, 1996",23,"1,80 m",France,right,30.06.2022
+metehan-guclu,"Apr 2, 1999",20,"1,82 m",Turkey  France,left,30.06.2023
+romain-philippoteaux,"Mar 2, 1988",31,"1,70 m",France,both,30.06.2022
+hamari-traore,"Jan 27, 1992",27,"1,75 m",Mali,right,30.06.2021
+stephane-zobo,"Aug 2, 2000",19,"1,88 m",Cameroon,right,30.06.2021
+nemanja-radonjic,"Feb 15, 1996",23,"1,85 m",Serbia,both,30.06.2023
+gelson-martins,"May 11, 1995",24,"1,73 m",Portugal  Cape Verde,right,30.06.2024
+nuno-da-costa,"Feb 10, 1991",28,"1,82 m",Cape Verde  France,right,30.06.2021
+john-boye,"Apr 23, 1987",32,"1,84 m",Ghana,right,30.06.2020
+hugo-magnetti,"May 30, 1998",21,"1,72 m",France,left,30.06.2021
+christophe-herelle,"Aug 22, 1992",27,"1,88 m",France  Martinique,right,30.06.2023
+nathan-ngoumou,"Mar 14, 2000",19,"1,82 m",France  Cameroon,right,30.06.2022
+ismael-traore,"Aug 18, 1986",33,"1,84 m",Cote d'Ivoire  France,right,30.06.2020
+flavien-tait,"Feb 2, 1993",26,"1,75 m",France,right,30.06.2023
+nicolas-isimat-mirin,"Nov 15, 1991",28,"1,87 m",France  Guadeloupe,right,30.06.2020
+mathias-pereira-lage,"Nov 30, 1996",22,"1,80 m",Portugal  France,right,30.06.2022
+gregory-sertic,"Aug 5, 1989",30,"1,83 m",France  Croatia,right,30.06.2020
+kalifa-coulibaly,"Aug 21, 1991",28,"1,97 m",Mali,right,30.06.2022
+haris-belkebla,"Jan 28, 1994",25,"1,77 m",Algeria  France,right,30.06.2022
+juan-bernat,"Mar 1, 1993",26,"1,70 m",Spain,left,30.06.2021
+maxwel-cornet,"Sep 27, 1996",23,"1,79 m",Cote d'Ivoire  France,left,30.06.2023
+domagoj-bradaric,"Dec 10, 1999",19,"1,78 m",Croatia,left,30.06.2024
+kouadio-kone,"May 17, 2001",18,"1,80 m",France,NaN,30.06.2021
+marcelo,"May 20, 1987",32,"1,91 m",Brazil,right,30.06.2021
+edinson-cavani,"Feb 14, 1987",32,"1,84 m",Uruguay  Italy,right,30.06.2020
+mathieu-debuchy,"Jul 28, 1985",34,"1,77 m",France,right,30.06.2021
+jean-lucas,"Jun 22, 1998",21,"1,81 m",Brazil,right,30.06.2024
+steven-moreira,"Aug 13, 1994",25,"1,80 m",France  Cape Verde,right,30.06.2021
+abdoulaye-toure,"Mar 3, 1994",25,"1,88 m",France  Guinea,right,30.06.2022
+chadrac-akolo,"Apr 1, 1995",24,"1,72 m",DR Congo,right,30.06.2020
+juan-ferney-otero,"May 26, 1995",24,"1,82 m",Colombia,right,30.06.2021
+thomas-foket,"Sep 25, 1994",25,"1,77 m",Belgium,right,30.06.2023
+anthony-mandrea,"Dec 25, 1996",22,"1,86 m",France,right,30.06.2020
+isaac-lihadji,"Apr 10, 2002",17,"1,77 m",France  Comoros,left,30.06.2020
+pierrick-capelle,"Apr 15, 1987",32,"1,81 m",France,left,30.06.2021
+gaetan-laborde,"May 3, 1994",25,"1,81 m",France,left,30.06.2022
+quentin-cornette,"Jan 17, 1994",25,"1,72 m",France,right,30.06.2020
+samuel-moutoussamy,"Aug 12, 1996",23,"1,76 m",DR Congo  France,left,30.06.2024
+bingourou-kamara,"Oct 21, 1996",23,"1,96 m",France  Mauritania,right,30.06.2021
+florent-balmont,"Feb 2, 1980",39,"1,68 m",France,right,30.06.2020
+renato-sanches,"Aug 18, 1997",22,"1,76 m",Portugal  Sao Tome and Principe,right,30.06.2023
+simon-ngapandouetnbu,"Apr 12, 2003",16,NaN,Cameroon,NaN,30.06.2022
+loic-perrin,"Aug 7, 1985",34,"1,81 m",France,right,30.06.2020
+jean-eudes-aholou,"Mar 20, 1994",25,"1,87 m",Cote d'Ivoire,left,30.06.2020
+vincent-pajot,"Aug 19, 1990",29,"1,80 m",France,right,30.06.2021
+jonathan-bumbu,"Feb 11, 1999",20,"1,81 m",France,right,30.06.2022
+romain-amalfitano,"Aug 27, 1989",30,"1,75 m",France,right,30.06.2021
+maxime-poundje,"Aug 16, 1992",27,"1,79 m",France  Cameroon,left,30.06.2021
+dimitri-lienard,"Feb 13, 1988",31,"1,84 m",France,left,30.06.2021
+alaixys-romao,"Jan 18, 1984",35,"1,80 m",Togo  France,right,30.06.2021
+habib-maiga,"Jan 1, 1996",23,"1,81 m",Cote d'Ivoire,right,30.06.2023
+mihailo-ristic,"Oct 31, 1995",24,"1,80 m",Serbia  Bosnia-Herzegovina,left,30.06.2022
+thiago-mendes,"Mar 15, 1992",27,"1,77 m",Brazil,right,30.06.2023
+andy-pelmard,"Mar 12, 2000",19,"1,79 m",France,left,-
+adam-ounas,"Nov 11, 1996",23,"1,72 m",Algeria  France,left,30.06.2020
+lucas-deaux,"Dec 26, 1988",30,"1,88 m",France,right,30.06.2021
+yehvann-diouf,"Jun 11, 1999",20,"1,84 m",France  Senegal,right,30.06.2023
+maxence-caqueret,"Feb 15, 2000",19,"1,74 m",France,right,30.06.2023
+fabien-centonze,"Jan 16, 1996",23,"1,82 m",France,right,30.06.2024
+sami-ben-amar,"Mar 2, 1998",21,"1,85 m",Morocco  France,right,30.06.2021
+joris-gnagnon,"Jan 13, 1997",22,"1,82 m",France  Cote d'Ivoire,right,30.06.2020
+laurent-koscielny,"Sep 10, 1985",34,"1,85 m",France  Poland,right,-
+xavier-chavalerin,"Mar 7, 1991",28,"1,79 m",France,left,30.06.2022
+zeki-celik,"Feb 17, 1997",22,"1,80 m",Turkey,right,30.06.2023
+lebo-mothiba,"Jan 28, 1996",23,"1,82 m",South Africa,right,30.06.2023
+kamil-glik,"Feb 3, 1988",31,"1,90 m",Poland  Germany,right,30.06.2021
+james-lea-siliki,"Jun 12, 1996",23,"1,83 m",France  Cameroon,left,30.06.2023
+dennis-appiah,"Jun 9, 1992",27,"1,79 m",France  Ghana,right,30.06.2023
+renaud-ripart,"Mar 14, 1993",26,"1,81 m",France,right,30.06.2023
+jonathan-bamba,"Mar 26, 1996",23,"1,75 m",France  Cote d'Ivoire,right,30.06.2023
+gaetan-charbonnier,"Dec 27, 1988",30,"1,88 m",France,right,30.06.2021
+timothe-nkada,"Jul 20, 1999",20,"1,77 m",France,NaN,30.06.2023
+pepe-bonet,"Feb 13, 2003",16,"1,93 m",DR Congo  France,NaN,30.06.2022
+moreto-cassama,"Feb 16, 1998",21,"1,65 m",Guinea-Bissau  Portugal,right,30.06.2023
+leo-lacroix,"Feb 27, 1992",27,"1,97 m",Switzerland  Brazil,right,30.06.2020
+madih-talal,"Aug 17, 1997",22,NaN,France,NaN,-
+jordan-siebatcheu,"Apr 26, 1996",23,"1,90 m",France  United States,right,30.06.2023
+gautier-lloris,"Jul 18, 1995",24,"1,91 m",France,left,30.06.2020
+thomas-mangani,"Apr 29, 1987",32,"1,83 m",France  Italy,left,30.06.2020
+keagan-dolly,"Jan 22, 1993",26,"1,70 m",South Africa,left,30.06.2021
+nicolas-cozza,"Jan 8, 1999",20,"1,78 m",France,left,30.06.2020
+memphis-depay,"Feb 13, 1994",25,"1,76 m",Netherlands  Ghana,right,30.06.2021
+thilo-kehrer,"Sep 21, 1996",23,"1,86 m",Germany  Burundi,right,30.06.2023
+levi-ntumba,"Jan 12, 2001",18,"1,93 m",France,left,30.06.2021
+gregory-berthier,"Nov 11, 1995",24,"1,77 m",France,left,30.06.2020
+thomas-meunier,"Sep 12, 1991",28,"1,90 m",Belgium,right,30.06.2020
+stephane-ruffier,"Sep 27, 1986",33,"1,88 m",France,right,30.06.2021
+thomas-monconduit,"Feb 10, 1991",28,"1,84 m",France,right,30.06.2021
+benjamin-andre,"Aug 3, 1990",29,"1,80 m",France,right,30.06.2023
+adama-traore,"Jun 28, 1995",24,"1,78 m",Mali,left,30.06.2020
+marco-verratti,"Nov 5, 1992",27,"1,65 m",Italy,right,30.06.2024
+damien-le-tallec,"Apr 19, 1990",29,"1,87 m",France,right,30.06.2022
+alexandre-oukidja,"Jul 19, 1988",31,"1,84 m",Algeria  France,right,30.06.2020
+bakaye-dibassy,"Aug 11, 1989",30,"1,83 m",Mali  France,left,30.06.2021
+toma-basic,"Nov 25, 1996",22,"1,89 m",Croatia,right,30.06.2022
+geronimo-rulli,"May 20, 1992",27,"1,89 m",Argentina  Italy,right,30.06.2020
+wilfried-kanga,"Feb 21, 1998",21,"1,85 m",France  Cote d'Ivoire,right,30.06.2020
+jean-ricner-bellegarde,"Jun 27, 1998",21,"1,70 m",Haiti  France,right,30.06.2023
+leo-jardim,"Mar 20, 1995",24,"1,88 m",Brazil  Italy,right,30.06.2024
+rayan-ait-nouri,"Jun 6, 2001",18,"1,79 m",France  Algeria,left,30.06.2021
+samuel-grandsir,"Aug 14, 1996",23,"1,70 m",France  Senegal,right,30.06.2020
+josue-homawoo,"Nov 12, 1997",22,"1,91 m",Togo  France,left,30.06.2020
+paul-delecroix,"Oct 14, 1988",31,"1,85 m",France,right,30.06.2020
+mehdi-abeid,"Aug 6, 1992",27,"1,78 m",Algeria  France,right,30.06.2022
+yaya-sanogo,"Jan 27, 1993",26,"1,94 m",France  Cote d'Ivoire,right,30.06.2020
+neymar,"Feb 5, 1992",27,"1,75 m",Brazil,right,30.06.2022
+tristan-dingome,"Feb 17, 1991",28,"1,74 m",France  Cameroon,left,30.06.2021
+clement-vidal,"Jun 18, 2000",19,"1,81 m",France,right,30.06.2021
+nicolas-de-preville,"Jan 8, 1991",28,"1,82 m",France,right,30.06.2021
+pietro-pellegri,"Mar 17, 2001",18,"1,88 m",Italy,right,30.06.2022
+thierry-ambrose,"Mar 28, 1997",22,"1,78 m",France  Guadeloupe,right,30.06.2020
+ibrahim-sangare,"Dec 2, 1997",21,"1,91 m",Cote d'Ivoire,right,30.06.2021
+alpha-sissoko,"Mar 7, 1997",22,"1,78 m",France  Mali,right,30.06.2022
+jeremy-grimm,"Mar 27, 1987",32,"1,81 m",France,right,30.06.2020
+zaydou-youssouf,"Jul 11, 1999",20,"1,82 m",France  Comoros,left,30.06.2023
+anthony-gomez-mancini,"Apr 6, 2001",18,"1,80 m",France,left,-
+gaetan-paquiez,"Feb 15, 1994",25,"1,82 m",France,right,30.06.2022
+thomas-basila,"Apr 30, 1999",20,"1,87 m",France,right,30.06.2021
+diafra-sakho,"Dec 24, 1989",29,"1,84 m",Senegal,right,30.06.2020
+yann-mvila,"Jun 29, 1990",29,"1,82 m",France,right,30.06.2022
+jordan-amavi,"Mar 9, 1994",25,"1,76 m",France,left,30.06.2021
+wissam-ben-yedder,"Aug 12, 1990",29,"1,70 m",France  Tunisia,right,30.06.2024
+marley-ake,"Jan 5, 2001",18,"1,77 m",France  Cote d'Ivoire,right,30.06.2022
+moussa-sylla,"Nov 25, 1999",19,"1,81 m",France  Mali,right,30.06.2020
+anthony-caci,"Jul 1, 1997",22,"1,84 m",France,right,30.06.2022
+kylian-mbappe,"Dec 20, 1998",20,"1,78 m",France,right,30.06.2022
+marcus-coco,"Jun 24, 1996",23,"1,84 m",France  Guadeloupe,right,30.06.2023
+william-vainqueur,"Nov 19, 1988",30,"1,79 m",France  Haiti,right,30.06.2020
+clement-depres,"Nov 25, 1994",24,"1,88 m",France,right,30.06.2022
+wesley-moustache,"Feb 26, 1999",20,"1,77 m",France,left,30.06.2021
+opa-nguette,"Jul 8, 1994",25,"1,82 m",Senegal  France,right,30.06.2022
+arnaud-lusamba,"Jan 4, 1997",22,"1,79 m",France  DR Congo,right,30.06.2021
+yohann-pele,"Nov 4, 1982",37,"1,96 m",France,right,30.06.2020
+mitchel-bakker,"Jun 20, 2000",19,"1,85 m",Netherlands,left,30.06.2023
+ander-herrera,"Aug 14, 1989",30,"1,82 m",Spain,right,30.06.2024
+arthur-zagre,"Oct 4, 2001",18,"1,68 m",France  Burkina Faso,left,30.06.2022
+baptiste-reynet,"Oct 28, 1990",29,"1,85 m",France,right,30.06.2022
+florian-chabrolle,"Apr 7, 1998",21,"1,71 m",France,right,30.06.2021
+timothee-kolodziejczak,"Oct 1, 1991",28,"1,85 m",France  Poland,left,30.06.2020
+reinildo-mandava,"Jan 21, 1994",25,"1,80 m",Mozambique,left,30.06.2022
+jayson-papeau,"Jun 30, 1996",23,"1,79 m",France  Guadeloupe,NaN,30.06.2022
+tiemoue-bakayoko,"Aug 17, 1994",25,"1,89 m",France  Cote d'Ivoire,right,30.06.2020
+dimitri-payet,"Mar 29, 1987",32,"1,75 m",France,right,30.06.2021
+kevin-strootman,"Feb 13, 1990",29,"1,86 m",Netherlands,left,30.06.2023
+thiago-maia,"Mar 23, 1997",22,"1,79 m",Brazil,left,30.06.2022
+oumar-solet,"Feb 7, 2000",19,"1,92 m",France  Central African Republic,right,30.06.2022
+samuel-kalu,"Aug 26, 1997",22,"1,76 m",Nigeria,right,30.06.2023
+daniel-congre,"Apr 5, 1985",34,"1,85 m",France  Guadeloupe,right,30.06.2020
+victorien-angban,"Sep 29, 1996",23,"1,80 m",Cote d'Ivoire,right,-
+ludovic-blas,"Dec 31, 1997",21,"1,80 m",France  Martinique,left,30.06.2024
+louis-pelletier,"Feb 3, 2000",19,"1,86 m",France,right,30.06.2020
+matis-carvalho,"Apr 28, 1999",20,"1,87 m",Portugal  France,right,30.06.2020
+youssef-ait-bennasser,"Jul 7, 1996",23,"1,84 m",Morocco  France,right,30.06.2020
+andy-delort,"Oct 9, 1991",28,"1,82 m",Algeria  France,right,30.06.2023
+boris-essele,"Jan 25, 2000",19,"1,89 m",Cameroon,right,30.06.2023
+ferris-ngoma,"Jun 15, 1993",26,"1,75 m",France  DR Congo,both,30.06.2021
+sergi-palencia,"Mar 23, 1996",23,"1,72 m",Spain,right,30.06.2023
+corentin-jean,"Jul 15, 1995",24,"1,70 m",France,right,30.06.2021
+abdallah-ali-mohamed,"Apr 11, 1999",20,NaN,Comoros  France,right,30.06.2022
+jessy-moulin,"Jan 13, 1986",33,"1,85 m",France,right,30.06.2022
+kylian-kaiboue,"Aug 20, 1998",21,"1,82 m",France,left,30.06.2021
+henry-onyekuru,"Jun 5, 1997",22,"1,75 m",Nigeria,right,30.06.2024
+mahdi-camara,"Jun 30, 1998",21,"1,78 m",France  Mali,right,30.06.2022
+denis-bouanga,"Nov 11, 1994",25,"1,80 m",Gabon  France,right,30.06.2023
+eduardo-camavinga,"Nov 10, 2002",17,"1,82 m",France  Angola,left,30.06.2022
+franck-honorat,"Aug 11, 1996",23,"1,80 m",France,right,30.06.2023
+theo-sainte-luce,"Oct 20, 1998",21,"1,81 m",France,left,30.06.2022
+fousseni-diabate,"Oct 18, 1995",24,"1,75 m",Mali  France,left,30.06.2020
+eddy-gnahore,"Nov 14, 1993",26,"1,88 m",France  Cote d'Ivoire,right,30.06.2022
+raphinha,"Dec 14, 1996",22,"1,75 m",Brazil  Italy,left,30.06.2023
+romain-perraud,"Sep 22, 1997",22,"1,73 m",France,left,30.06.2023
+jean-kevin-duverne,"Jul 12, 1997",22,"1,84 m",France  Haiti,right,30.06.2023
+casimir-ninga,"May 17, 1993",26,"1,86 m",Chad,right,30.06.2023
+guillaume-dietsch,"Apr 17, 2001",18,"1,84 m",France,right,30.06.2021
+adrien-thomasson,"Dec 10, 1993",25,"1,77 m",France  Croatia,left,30.06.2021
+romain-thomas,"Jun 12, 1988",31,"1,93 m",France,right,30.06.2022
+haithem-loucif,"Jul 8, 1996",23,"1,65 m",Algeria,right,30.06.2023
+bafode-diakite,"Jan 6, 2001",18,"1,85 m",France  Guinea,right,30.06.2023
+anthony-briancon,"Nov 28, 1994",24,"1,85 m",France,right,30.06.2022
+benoit-costil,"Jul 3, 1987",32,"1,88 m",France,right,30.06.2022
+naldo,"Sep 10, 1982",37,"1,98 m",Brazil  Germany,right,30.06.2020
+nicolas-lemaitre,"Jan 12, 1997",22,"1,85 m",France,right,30.06.2022
+jason-denayer,"Jun 28, 1995",24,"1,84 m",Belgium  DR Congo,right,30.06.2022
+romain-del-castillo,"Mar 29, 1996",23,"1,72 m",France  Spain,left,30.06.2022
+victor-osimhen,"Dec 29, 1998",20,"1,85 m",Nigeria,right,30.06.2024
+derick-osei-yaw,"Sep 10, 1998",21,"1,87 m",France  Ghana,right,30.06.2021
+yunis-abdelhamid,"Sep 28, 1987",32,"1,90 m",Morocco  France,left,30.06.2020
+moussa-dembele,"Jul 12, 1996",23,"1,83 m",France  Mali,right,30.06.2023
+matthieu-dreyer,"Mar 20, 1989",30,"1,88 m",France,right,30.06.2020
+yacine-adli,"Jul 29, 2000",19,"1,86 m",France  Algeria,right,30.06.2023
+theo-valls,"Dec 18, 1995",23,"1,79 m",France,left,30.06.2020
+kelvin-amian,"Feb 8, 1998",21,"1,80 m",France  Cote d'Ivoire,right,30.06.2021
+loris-benito,"Jan 7, 1992",27,"1,84 m",Switzerland  Spain,left,30.06.2022

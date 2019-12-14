@@ -1,0 +1,534 @@
+Player,DOB,Age,Height,Country,Foot,ContractExp
+kingsley-coman,"Jun 13, 1996",23,"1,79 m",France  Guadeloupe,right,30.06.2023
+filip-kostic,"Nov 1, 1992",27,"1,84 m",Serbia,left,30.06.2023
+thomas-kessler,"Jan 20, 1986",33,"1,97 m",Germany,right,30.06.2020
+marvin-friedrich,"Dec 13, 1995",23,"1,92 m",Germany,right,30.06.2022
+niklas-stark,"Apr 14, 1995",24,"1,90 m",Germany,right,30.06.2022
+niclas-thiede,"Apr 14, 1999",20,"1,85 m",Germany,both,-
+torben-musel,"Jul 25, 1999",20,"1,85 m",Germany,right,30.06.2020
+dedryck-boyata,"Nov 28, 1990",28,"1,88 m",Belgium  DR Congo,right,30.06.2022
+evan-ndicka,"Aug 20, 1999",20,"1,92 m",France  Cameroon,left,30.06.2023
+salif-sane,"Aug 25, 1990",29,"1,96 m",Senegal  France,right,30.06.2022
+cyrill-akono,"Feb 29, 2000",19,"1,90 m",Germany  Cameroon,left,30.06.2023
+daichi-kamada,"Aug 5, 1996",23,"1,80 m",Japan,right,30.06.2021
+andre-silva,"Nov 6, 1995",24,"1,88 m",Portugal,right,30.06.2021
+stefanos-kapino,"Mar 18, 1994",25,"1,96 m",Greece,right,-
+leonardo-bittencourt,"Dec 19, 1993",25,"1,70 m",Germany  Brazil,right,30.06.2020
+jiri-pavlenka,"Apr 14, 1992",27,"1,96 m",Czech Republic,right,30.06.2021
+anthony-modeste,"Apr 14, 1988",31,"1,87 m",France  Martinique,right,30.06.2023
+ken-reichel,"Dec 19, 1986",32,"1,85 m",Germany,left,30.06.2020
+ahmed-kutucu,"Mar 1, 2000",19,"1,81 m",Turkey  Germany,right,30.06.2022
+axel-witsel,"Jan 12, 1989",30,"1,88 m",Belgium  Martinique,right,30.06.2022
+christoph-baumgartner,"Aug 1, 1999",20,"1,78 m",Austria,right,30.06.2023
+mike-frantz,"Oct 14, 1986",33,"1,82 m",Germany,left,-
+marlon-ritter,"Oct 15, 1994",25,"1,74 m",Germany,both,30.06.2021
+christian-gross,"Feb 8, 1989",30,"1,82 m",Germany,both,30.06.2021
+michael-gregoritsch,"Apr 18, 1994",25,"1,93 m",Austria,left,30.06.2022
+brandon-borrello,"Jul 25, 1995",24,"1,77 m",Australia  Italy,right,30.06.2022
+rouwen-hennings,"Aug 28, 1987",32,"1,80 m",Germany,left,-
+janik-haberer,"Apr 2, 1994",25,"1,86 m",Germany,right,30.06.2020
+philipp-ochs,"Apr 17, 1997",22,"1,75 m",Germany  Kazakhstan,left,30.06.2020
+alessandro-schopf,"Feb 7, 1994",25,"1,78 m",Austria,right,30.06.2021
+dong-won-ji,"May 28, 1991",28,"1,87 m","Korea, South",right,30.06.2022
+ron-thorben-hoffmann,"Apr 4, 1999",20,"1,92 m",Germany,right,30.06.2021
+benjamin-leneis,"Mar 8, 1999",20,"1,95 m",Germany,both,30.06.2023
+ilia-gruev,"May 6, 2000",19,"1,85 m",Bulgaria  Germany,right,30.06.2020
+marcelo-saracchi,"Apr 23, 1998",21,"1,72 m",Uruguay,left,30.06.2023
+karim-bellarabi,"Apr 8, 1990",29,"1,84 m",Germany  Morocco,right,30.06.2021
+levin-oztunali,"Mar 15, 1996",23,"1,85 m",Germany  Turkey,right,30.06.2021
+claudio-pizarro,"Oct 3, 1978",41,"1,84 m",Peru  Italy,right,30.06.2020
+dominik-bilogrevic,"Jan 2, 1999",20,NaN,Croatia  Germany,NaN,30.06.2021
+martin-hinteregger,"Sep 7, 1992",27,"1,86 m",Austria,left,30.06.2024
+alexander-esswein,"Mar 25, 1990",29,"1,82 m",Germany,right,30.06.2020
+jan-zimmermann,"Apr 19, 1985",34,"1,90 m",Germany,left,30.06.2021
+lewis-baker,"Apr 25, 1995",24,"1,82 m",England  Jamaica,right,30.06.2020
+alfredo-morales,"May 12, 1990",29,"1,83 m",United States  Germany,right,30.06.2021
+oliver-baumann,"Jun 2, 1990",29,"1,87 m",Germany,right,30.06.2021
+marijan-cavar,"Feb 2, 1998",21,"1,84 m",Bosnia-Herzegovina  Croatia,right,30.06.2021
+alassane-plea,"Mar 10, 1993",26,"1,81 m",France  Mali,right,30.06.2023
+sebastian-vasiliadis,"Oct 4, 1997",22,"1,77 m",Greece  Germany,right,30.06.2021
+lukasz-piszczek,"Jun 3, 1985",34,"1,84 m",Poland,right,30.06.2020
+kevin-mbabu,"Apr 19, 1995",24,"1,84 m",Switzerland  DR Congo,right,30.06.2023
+salomon-kalou,"Aug 5, 1985",34,"1,84 m",Cote d'Ivoire,right,30.06.2020
+yannick-gerhardt,"Mar 13, 1994",25,"1,84 m",Germany,left,30.06.2021
+yann-sommer,"Dec 17, 1988",30,"1,83 m",Switzerland,right,30.06.2021
+jeffrey-bruma,"Nov 13, 1991",28,"1,89 m",Netherlands  Suriname,right,30.06.2021
+kai-havertz,"Jun 11, 1999",20,"1,89 m",Germany,left,30.06.2022
+stefan-bell,"Aug 24, 1991",28,"1,92 m",Germany,right,30.06.2020
+julius-kade,"May 20, 1999",20,"1,82 m",Germany,left,30.06.2021
+julian-brandt,"May 2, 1996",23,"1,86 m",Germany,right,30.06.2024
+dayot-upamecano,"Oct 27, 1998",21,"1,86 m",France  Guinea-Bissau,right,30.06.2021
+babacar-gueye,"Dec 31, 1994",24,"1,90 m",Senegal,right,30.06.2020
+kevin-volland,"Jul 30, 1992",27,"1,79 m",Germany,left,30.06.2021
+marco-terrazzino,"Apr 15, 1991",28,"1,77 m",Germany  Italy,right,30.06.2020
+roman-burki,"Nov 14, 1990",29,"1,87 m",Switzerland,right,30.06.2021
+kasim-adams,"Jun 22, 1995",24,"1,90 m",Ghana,right,30.06.2020
+mohamed-drager,"Jun 25, 1996",23,"1,80 m",Tunisia  Germany,right,30.06.2020
+phillipp-mwene,"Jan 29, 1994",25,"1,70 m",Austria  Kenya,right,30.06.2021
+ondrej-duda,"Dec 5, 1994",24,"1,81 m",Slovakia,right,-
+edimilson-fernandes,"Apr 15, 1996",23,"1,90 m",Switzerland  Portugal,right,30.06.2023
+makoto-hasebe,"Jan 18, 1984",35,"1,80 m",Japan,right,30.06.2020
+brady-scott,"Jun 30, 1999",20,"1,87 m",United States,right,30.06.2021
+arne-maier,"Jan 8, 1999",20,"1,86 m",Germany,right,30.06.2022
+davie-selke,"Jan 20, 1995",24,"1,94 m",Germany,right,30.06.2022
+christian-fruchtl,"Jan 28, 2000",19,"1,93 m",Germany,left,30.06.2020
+ruben-vargas,"Aug 5, 1998",21,"1,74 m",Switzerland  Dominican Republic,right,30.06.2024
+julian-baumgartlinger,"Jan 2, 1988",31,"1,84 m",Austria,right,30.06.2021
+chang-hun-kwon,"Jun 30, 1994",25,"1,73 m","Korea, South",left,-
+omar-mascarell,"Feb 2, 1993",26,"1,81 m",Spain,right,30.06.2022
+iago,"Mar 23, 1997",22,"1,81 m",Brazil  Italy,left,30.06.2024
+yvon-mvogo,"Jun 6, 1994",25,"1,86 m",Switzerland  Cameroon,right,30.06.2021
+josh-sargent,"Feb 20, 2000",19,"1,85 m",United States,right,30.06.2022
+amine-harit,"Jun 18, 1997",22,"1,79 m",Morocco  France,right,30.06.2021
+milos-veljkovic,"Sep 26, 1995",24,"1,88 m",Serbia  Switzerland,both,30.06.2022
+robin-knoche,"May 22, 1992",27,"1,90 m",Germany,right,30.06.2020
+florian-niederlechner,"Oct 24, 1990",29,"1,87 m",Germany,left,30.06.2022
+adrian-stanilewicz,"Feb 22, 2000",19,"1,81 m",Poland  Germany,NaN,30.06.2020
+jonathan-de-guzman,"Sep 13, 1987",32,"1,73 m",Netherlands  Canada,right,30.06.2020
+serge-gnabry,"Jul 14, 1995",24,"1,75 m",Germany  Cote d'Ivoire,right,30.06.2023
+grischa-promel,"Jan 9, 1995",24,"1,84 m",Germany,both,30.06.2020
+mamadou-doucoure,"May 21, 1998",21,"1,84 m",France  Senegal,left,30.06.2021
+jerome-roussillon,"Jan 6, 1993",26,"1,75 m",France  Guadeloupe,left,30.06.2023
+alexander-hack,"Sep 8, 1993",26,"1,93 m",Germany,left,30.06.2022
+felix-uduokhai,"Sep 9, 1997",22,"1,92 m",Germany  Nigeria,left,30.06.2020
+yunus-malli,"Feb 24, 1992",27,"1,79 m",Turkey  Germany,right,30.06.2021
+ronael-pierre-gabriel,"Jun 13, 1998",21,"1,77 m",France,right,30.06.2024
+paulinho,"Jul 15, 2000",19,"1,77 m",Brazil,right,30.06.2023
+florian-kainz,"Oct 24, 1992",27,"1,75 m",Austria,right,30.06.2022
+felix-gotze,"Feb 11, 1998",21,"1,85 m",Germany,right,30.06.2022
+jerome-gondorf,"Jun 26, 1988",31,"1,76 m",Germany,right,30.06.2021
+christoph-kramer,"Feb 19, 1991",28,"1,91 m",Germany,right,30.06.2021
+simon-asta,"Jan 25, 2001",18,"1,78 m",Germany,NaN,30.06.2019
+daniel-brosinski,"Jul 17, 1988",31,"1,78 m",Germany,right,30.06.2020
+konrad-laimer,"May 27, 1997",22,"1,80 m",Austria,right,30.06.2021
+mark-flekken,"Jun 13, 1993",26,"1,95 m",Netherlands,both,30.06.2022
+charles-aranguiz,"Apr 17, 1989",30,"1,71 m",Chile,right,30.06.2020
+dennis-geiger,"Jun 10, 1998",21,"1,72 m",Germany,right,30.06.2022
+kevin-akpoguma,"Apr 19, 1995",24,"1,92 m",Germany  Nigeria,right,30.06.2021
+andre-hoffmann,"Feb 28, 1993",26,"1,88 m",Germany,right,30.06.2023
+havard-nordtveit,"Jun 21, 1990",29,"1,88 m",Norway,right,30.06.2022
+louis-schaub,"Dec 29, 1994",24,"1,77 m",Austria  Germany,left,30.06.2022
+michael-parensen,"Jun 24, 1986",33,"1,80 m",Germany,left,30.06.2020
+jannik-huth,"Apr 15, 1994",25,"1,85 m",Germany,right,30.06.2022
+corentin-tolisso,"Aug 3, 1994",25,"1,81 m",France  Togo,right,30.06.2022
+lucas-torro,"Jul 19, 1994",25,"1,90 m",Spain,right,30.06.2023
+maurice-covic,"Apr 17, 1998",21,"1,75 m",Germany  Croatia,both,30.06.2020
+matheus-cunha,"May 27, 1999",20,"1,84 m",Brazil,right,30.06.2023
+bastian-oczipka,"Jan 12, 1989",30,"1,85 m",Germany,left,30.06.2020
+koen-casteels,"Jun 25, 1992",27,"1,97 m",Belgium,left,30.06.2021
+sebastian-schonlau,"Aug 5, 1994",25,"1,85 m",Germany,right,30.06.2021
+alexander-nubel,"Sep 30, 1996",23,"1,93 m",Germany,right,30.06.2020
+sidney-friede,"Apr 12, 1998",21,"1,88 m",Germany,right,-
+benjamin-stambouli,"Aug 13, 1990",29,"1,80 m",France  Algeria,right,30.06.2020
+tom-krauss,"Jun 22, 2001",18,"1,82 m",Germany,right,30.06.2021
+johannes-buhler,"Jul 26, 1997",22,"1,81 m",Germany,right,30.06.2021
+marwin-hitz,"Sep 18, 1987",32,"1,94 m",Switzerland,right,30.06.2021
+maximilian-arnold,"May 27, 1994",25,"1,84 m",Germany,left,30.06.2022
+julio-villalba,"Sep 17, 1998",21,"1,76 m",Paraguay,right,-
+raphael-guerreiro,"Dec 22, 1993",25,"1,70 m",Portugal  France,left,30.06.2023
+nana-ampomah,"Jan 2, 1996",23,"1,75 m",Ghana,right,30.06.2022
+niko-giesselmann,"Sep 26, 1991",28,"1,82 m",Germany,left,30.06.2020
+karim-onisiwo,"Mar 17, 1992",27,"1,88 m",Austria,right,30.06.2022
+thomas-delaney,"Sep 3, 1991",28,"1,82 m",Denmark  United States,left,30.06.2022
+leandro-barreiro-martins,"Jan 3, 2000",19,"1,74 m",Luxembourg  Portugal,right,30.06.2022
+streli-mamba,"Jun 17, 1994",25,"1,77 m",Germany  DR Congo,right,30.06.2022
+zack-steffen,"Apr 2, 1995",24,"1,91 m",United States,right,30.06.2020
+niklas-lomb,"Jul 28, 1993",26,"1,87 m",Germany,right,30.06.2020
+jeffrey-gouweleeuw,"Jul 10, 1991",28,"1,87 m",Netherlands,right,30.06.2024
+nils-petersen,"Dec 6, 1988",30,"1,88 m",Germany,right,30.06.2021
+xaver-schlager,"Sep 28, 1997",22,"1,74 m",Austria,left,30.06.2023
+ermin-bicakcic,"Jan 24, 1990",29,"1,85 m",Bosnia-Herzegovina  Germany,right,30.06.2022
+per-ciljan-skjelbred,"Jun 16, 1987",32,"1,75 m",Norway,right,30.06.2020
+maximilian-mittelstadt,"Mar 18, 1997",22,"1,80 m",Germany,left,30.06.2023
+marcel-tisserand,"Jan 10, 1993",26,"1,90 m",DR Congo  France,right,30.06.2022
+ihlas-bebou,"Apr 23, 1994",25,"1,85 m",Togo  Germany,right,30.06.2023
+theodor-gebre-selassie,"Dec 24, 1986",32,"1,81 m",Czech Republic  Ethiopia,right,30.06.2021
+elvis-rexhbecaj,"Nov 1, 1997",22,"1,82 m",Germany  Kosovo,left,30.06.2023
+jerome-boateng,"Sep 3, 1988",31,"1,92 m",Germany,right,30.06.2021
+jonathan-schmid,"Jun 22, 1990",29,"1,79 m",France,right,-
+tim-wiesner,"Nov 21, 1996",22,"1,92 m",Germany,both,30.06.2020
+admir-mehmedi,"Mar 16, 1991",28,"1,83 m",Switzerland  North Macedonia,right,30.06.2022
+leon-goretzka,"Feb 6, 1995",24,"1,89 m",Germany,right,30.06.2022
+philipp-tschauner,"Nov 3, 1985",34,"1,96 m",Germany,right,30.06.2021
+kai-proger,"May 15, 1992",27,"1,77 m",Germany,right,30.06.2022
+ishak-belfodil,"Jan 12, 1992",27,"1,91 m",Algeria  France,right,30.06.2022
+alexandru-maxim,"Jul 8, 1990",29,"1,77 m",Romania,right,30.06.2021
+mijat-gacinovic,"Feb 8, 1995",24,"1,75 m",Serbia  Bosnia-Herzegovina,right,30.06.2022
+julian-albrecht,"Aug 31, 2001",18,"1,80 m",Germany,-,
+robert-zulj,"Feb 5, 1992",27,"1,89 m",Austria  Croatia,right,30.06.2020
+taiwo-awoniyi,"Aug 12, 1997",22,"1,83 m",Nigeria,right,30.06.2020
+ismail-azzaoui,"Jan 6, 1998",21,"1,77 m",Belgium  Morocco,right,30.06.2020
+danny-da-costa,"Jul 13, 1993",26,"1,87 m",Germany  Angola,right,30.06.2022
+leonardo-balerdi,"Jan 26, 1999",20,"1,88 m",Argentina,right,30.06.2024
+diego-demme,"Nov 21, 1991",27,"1,70 m",Germany  Italy,right,30.06.2021
+suat-serdar,"Apr 11, 1997",22,"1,84 m",Germany  Turkey,right,30.06.2022
+marko-grujic,"Apr 13, 1996",23,"1,91 m",Serbia,right,30.06.2020
+luc-ihorst,"Mar 7, 2000",19,"1,90 m",Germany,both,30.06.2021
+sargis-adamyan,"May 23, 1993",26,"1,84 m",Armenia,right,30.06.2022
+eduard-lowen,"Jan 28, 1997",22,"1,88 m",Germany  Russia,right,-
+john-anthony-brooks,"Jan 28, 1993",26,"1,93 m",United States  Germany,left,30.06.2022
+dominique-heintz,"Aug 15, 1993",26,"1,90 m",Germany,left,30.06.2022
+roland-sallai,"May 22, 1997",22,"1,83 m",Hungary,both,30.06.2022
+max-grun,"Apr 5, 1987",32,"1,90 m",Germany,right,30.06.2020
+marcel-schmelzer,"Jan 22, 1988",31,"1,80 m",Germany,left,30.06.2021
+felix-klaus,"Sep 13, 1992",27,"1,79 m",Germany,right,30.06.2022
+kingsley-schindler,"Jul 12, 1993",26,"1,83 m",Germany  Ghana,right,30.06.2023
+timothy-chandler,"Mar 29, 1990",29,"1,86 m",United States  Germany,right,30.06.2022
+yussuf-poulsen,"Jun 15, 1994",25,"1,93 m",Denmark  Tanzania,right,30.06.2022
+jonjoe-kenny,"Mar 15, 1997",22,"1,76 m",England,right,30.06.2020
+anthony-ujah,"Oct 14, 1990",29,"1,80 m",Nigeria,right,30.06.2022
+jan-moravek,"Nov 1, 1989",30,"1,80 m",Czech Republic,right,30.06.2022
+dawid-kownacki,"Mar 14, 1997",22,"1,86 m",Poland,right,30.06.2023
+pavel-kaderabek,"Apr 25, 1992",27,"1,82 m",Czech Republic,right,30.06.2023
+ramy-bensebaini,"Apr 16, 1995",24,"1,86 m",Algeria,left,30.06.2023
+aleksandar-dragovic,"Mar 6, 1991",28,"1,86 m",Austria  Serbia,right,30.06.2021
+lukas-nmecha,"Dec 14, 1998",20,"1,85 m",Germany  England,right,30.06.2020
+milot-rashica,"Jun 28, 1996",23,"1,78 m",Kosovo  Albania,right,30.06.2022
+leon-bruggemeier,"Aug 23, 1997",22,"1,92 m",Germany,both,30.06.2020
+oscar-wendt,"Oct 24, 1985",34,"1,81 m",Sweden,left,30.06.2020
+gerrit-holtmann,"Mar 25, 1995",24,"1,83 m",Germany,left,30.06.2020
+joao-victor,"Mar 27, 1994",25,"1,78 m",Brazil,both,30.06.2023
+eric-oelschlagel,"Sep 20, 1995",24,"1,93 m",Germany,right,30.06.2020
+frederik-ronnow,"Aug 4, 1992",27,"1,90 m",Denmark,right,30.06.2022
+daniel-caligiuri,"Jan 15, 1988",31,"1,82 m",Italy  Germany,right,30.06.2020
+jonas-carls,"Mar 25, 1997",22,"1,79 m",Germany,left,30.06.2022
+vedad-ibisevic,"Aug 6, 1984",35,"1,88 m",Bosnia-Herzegovina  United States,right,30.06.2020
+ahmet-gurleyen,"Apr 26, 1999",20,"1,93 m",Germany  Turkey,right,30.06.2022
+ibrahima-traore,"Apr 21, 1988",31,"1,72 m",Guinea  France,left,30.06.2021
+maurice-malone,"Aug 17, 2000",19,"1,84 m",Germany  United States,left,30.06.2020
+marius-bulter,"Mar 29, 1993",26,"1,88 m",Germany,right,30.06.2020
+rifet-kapic,"Jul 3, 1995",24,"1,79 m",Bosnia-Herzegovina,left,30.06.2022
+jean-zimmer,"Dec 6, 1993",25,"1,72 m",Germany,right,30.06.2022
+jean-paul-boetius,"Mar 22, 1994",25,"1,78 m",Netherlands  Suriname,right,30.06.2022
+marcel-hilssner,"Jan 30, 1995",24,"1,83 m",Germany,left,30.06.2021
+lukas-klostermann,"Jun 3, 1996",23,"1,89 m",Germany,right,30.06.2021
+stefan-lainer,"Aug 27, 1992",27,"1,75 m",Austria,right,30.06.2024
+patrick-finger,"Jan 1, 2001",18,"1,66 m",Germany,left,30.06.2020
+patrick-herrmann,"Feb 12, 1991",28,"1,79 m",Germany,right,30.06.2022
+ellyes-skhiri,"May 10, 1995",24,"1,85 m",Tunisia  France,right,30.06.2023
+simon-terodde,"Mar 2, 1988",31,"1,91 m",Germany,right,30.06.2021
+josip-brekalo,"Jun 23, 1998",21,"1,80 m",Croatia,right,30.06.2023
+marcus-ingvartsen,"Jan 4, 1996",23,"1,87 m",Denmark,left,30.06.2022
+christian-clemens,"Aug 4, 1991",28,"1,79 m",Germany,right,30.06.2021
+tyler-adams,"Feb 14, 1999",20,"1,76 m",United States,right,30.06.2023
+amadou-haidara,"Jan 31, 1998",21,"1,75 m",Mali,right,30.06.2023
+markus-schubert,"Jun 12, 1998",21,"1,87 m",Germany,right,30.06.2023
+goncalo-paciencia,"Aug 1, 1994",25,"1,84 m",Portugal,right,30.06.2022
+lucas-holer,"Jul 10, 1994",25,"1,84 m",Germany,right,30.06.2022
+julian-krahl,"Jan 22, 2000",19,"1,94 m",Germany,right,30.06.2022
+ibrahima-konate,"May 25, 1999",20,"1,93 m",France,right,30.06.2023
+sven-michel,"Jul 15, 1990",29,"1,79 m",Germany,left,30.06.2021
+mateu-morey,"Mar 2, 2000",19,"1,72 m",Spain,right,30.06.2024
+robin-quaison,"Oct 9, 1993",26,"1,83 m",Sweden  Ghana,right,30.06.2021
+pavao-pervan,"Nov 13, 1987",32,"1,94 m",Austria,both,30.06.2021
+raphael-framberger,"Sep 6, 1995",24,"1,79 m",Germany,right,30.06.2024
+fiete-arp,"Jan 6, 2000",19,"1,84 m",Germany,right,30.06.2024
+vladimir-darida,"Aug 8, 1990",29,"1,72 m",Czech Republic,right,30.06.2021
+jordan-torunarigha,"Aug 7, 1997",22,"1,91 m",Germany  Nigeria,left,-
+andreas-luthe,"Mar 10, 1987",32,"1,95 m",Germany,right,30.06.2022
+fabian-giefer,"May 17, 1990",29,"1,96 m",Germany,right,30.06.2021
+finn-dahmen,"Mar 27, 1998",21,"1,88 m",Germany  England,right,30.06.2023
+ivan-perisic,"Feb 2, 1989",30,"1,87 m",Croatia,both,30.06.2020
+woo-yeong-jeong,"Sep 20, 1999",20,"1,79 m","Korea, South",right,-
+muhammed-kiprit,"Jul 9, 1999",20,"1,82 m",Turkey  Germany,both,30.06.2021
+levent-mercan,"Dec 10, 2000",18,"1,76 m",Germany,both,30.06.2023
+almamy-toure,"Apr 28, 1996",23,"1,83 m",France  Mali,right,30.06.2023
+malik-talabidi,"Jul 16, 2001",18,"1,84 m",Germany  Togo,right,30.06.2021
+robert-skov,"May 20, 1996",23,"1,83 m",Denmark,left,30.06.2024
+dominik-kohr,"Jan 31, 1994",25,"1,83 m",Germany,right,30.06.2024
+frederik-jakel,"Mar 7, 2001",18,"1,93 m",Germany,right,30.06.2022
+laszlo-benes,"Sep 9, 1997",22,"1,81 m",Slovakia,left,30.06.2021
+luca-waldschmidt,"May 19, 1996",23,"1,81 m",Germany,left,30.06.2022
+sergio-cordova,"Aug 9, 1997",22,"1,88 m",Venezuela,right,30.06.2022
+aaron-martin,"Apr 22, 1997",22,"1,78 m",Spain,left,30.06.2023
+sahverdi-cetin,"Sep 28, 2000",19,"1,74 m",Germany  Turkey,right,30.06.2020
+marco-reus,"May 31, 1989",30,"1,80 m",Germany,right,30.06.2023
+reece-oxford,"Dec 16, 1998",20,"1,90 m",England  Jamaica,right,30.06.2023
+robin-bormuth,"Sep 19, 1995",24,"1,90 m",Germany,right,30.06.2020
+lino-tempelmann,"Feb 2, 1999",20,"1,75 m",Germany,right,-
+philippe-coutinho,"Jun 12, 1992",27,"1,72 m",Brazil  Portugal,right,30.06.2020
+marco-russ,"Aug 4, 1985",34,"1,90 m",Germany,right,30.06.2020
+ethan-ampadu,"Sep 14, 2000",19,"1,82 m",Wales  England,right,30.06.2020
+noah-sarenren-bazee,"Aug 21, 1996",23,"1,83 m",Nigeria  Germany,right,30.06.2024
+luca-unbehaun,"Feb 27, 2001",18,"1,86 m",Germany,right,30.06.2022
+lennard-maloney,"Oct 8, 1999",20,"1,87 m",United States  Germany,right,30.06.2021
+paulo-otavio,"Nov 23, 1994",24,"1,73 m",Brazil,left,30.06.2023
+johannes-dorfler,"Aug 23, 1996",23,"1,86 m",Germany,right,30.06.2021
+sheraldo-becker,"Feb 9, 1995",24,"1,80 m",Netherlands  Suriname,right,30.06.2023
+tin-jedvaj,"Nov 28, 1995",23,"1,84 m",Croatia,right,30.06.2020
+carlos-gruezo,"Apr 19, 1995",24,"1,71 m",Ecuador,right,30.06.2024
+khiry-shelton,"Jun 26, 1993",26,"1,91 m",United States,,30.06.2021
+uwe-hunemeier,"Jan 9, 1986",33,"1,89 m",Germany,right,30.06.2020
+robert-andrich,"Sep 22, 1994",25,"1,87 m",Germany,right,30.06.2022
+gelson-fernandes,"Sep 2, 1986",33,"1,80 m",Switzerland  Cape Verde,right,30.06.2020
+andrej-kramaric,"Jun 19, 1991",28,"1,77 m",Croatia,right,30.06.2022
+konstantinos-stafylidis,"Dec 2, 1993",25,"1,78 m",Greece,left,30.06.2023
+mads-pedersen,"Sep 1, 1996",23,"1,74 m",Denmark,left,30.06.2024
+marcel-halstenberg,"Sep 27, 1991",28,"1,86 m",Germany,left,30.06.2022
+thomas-kraft,"Jul 22, 1988",31,"1,87 m",Germany,right,30.06.2020
+mats-hummels,"Dec 16, 1988",30,"1,91 m",Germany,right,30.06.2022
+tobias-raschl,"Feb 21, 2000",19,"1,77 m",Germany,right,30.06.2022
+jakob-busk,"Sep 12, 1993",26,"1,89 m",Denmark,right,30.06.2020
+renato-steffen,"Nov 3, 1991",28,"1,70 m",Switzerland,left,30.06.2021
+laurent-jans,"Aug 5, 1992",27,"1,78 m",Luxembourg,right,30.06.2020
+marek-suchy,"Mar 29, 1988",31,"1,83 m",Czech Republic,right,30.06.2021
+javi-martinez,"Sep 2, 1988",31,"1,92 m",Spain,right,30.06.2021
+wout-weghorst,"Aug 7, 1992",27,"1,97 m",Netherlands,right,30.06.2023
+adam-szalai,"Dec 9, 1987",31,"1,93 m",Hungary,right,30.06.2021
+lars-stindl,"Aug 26, 1988",31,"1,80 m",Germany,right,30.06.2021
+thorgan-hazard,"Mar 29, 1993",26,"1,74 m",Belgium,right,30.06.2024
+raphael-wolf,"Jun 6, 1988",31,"1,90 m",Germany,right,30.06.2021
+juan-miranda,"Jan 19, 2000",19,"1,85 m",Spain,left,30.06.2021
+jonathan-burkardt,"Jul 11, 2000",19,"1,81 m",Germany,right,30.06.2022
+jonas-hofmann,"Jul 14, 1992",27,"1,76 m",Germany,right,30.06.2023
+kerem-demirbay,"Jul 3, 1993",26,"1,82 m",Germany  Turkey,left,30.06.2024
+marvin-plattenhardt,"Jan 26, 1992",27,"1,81 m",Germany,left,30.06.2023
+ludwig-augustinsson,"Apr 21, 1994",25,"1,81 m",Sweden,left,30.06.2022
+jozo-stanic,"Apr 6, 1999",20,"1,84 m",Croatia  Germany,right,30.06.2022
+kingsley-ehizibue,"May 25, 1995",24,"1,89 m",Netherlands  Nigeria,right,30.06.2023
+emil-forsberg,"Oct 23, 1991",28,"1,79 m",Sweden,right,30.06.2022
+timo-horn,"May 12, 1993",26,"1,92 m",Germany,left,30.06.2023
+cauly,"Sep 15, 1995",24,"1,75 m",Brazil  Germany,both,30.06.2021
+laurenz-dehl,"Dec 12, 2001",17,"1,79 m",Germany,NaN,30.06.2021
+danny-latza,"Dec 7, 1989",29,"1,79 m",Germany,right,30.06.2021
+vincent-koziello,"Oct 28, 1995",24,"1,68 m",France  Poland,right,30.06.2022
+adam-bodzek,"Sep 7, 1985",34,"1,84 m",Poland  Germany,right,30.06.2020
+nassim-boujellab,"Jun 20, 1999",20,"1,81 m",Morocco  Germany,both,30.06.2022
+klaus-gjasula,"Dec 14, 1989",29,"1,92 m",Albania  Germany,both,30.06.2020
+jordan-beyer,"May 19, 2000",19,"1,87 m",Germany,right,30.06.2022
+florian-muller,"Nov 13, 1997",22,"1,92 m",Germany,left,30.06.2022
+niklas-tauer,"Feb 17, 2001",18,NaN,Germany,right,30.06.2023
+david-alaba,"Jun 24, 1992",27,"1,80 m",Austria,left,30.06.2021
+luan-candido,"Feb 2, 2001",18,"1,87 m",Brazil,left,30.06.2023
+niklas-klinger,"Oct 13, 1995",24,"1,87 m",Germany,right,30.06.2020
+manuel-schmiedebach,"Dec 5, 1988",30,"1,71 m",Germany,right,30.06.2021
+felix-kroos,"Mar 12, 1991",28,"1,84 m",Germany,right,30.06.2020
+jonathan-meier,"Nov 11, 1999",20,"1,81 m",Germany,left,30.06.2022
+nicolas-hofler,"Mar 9, 1990",29,"1,81 m",Germany,right,30.06.2021
+raffael,"Mar 28, 1985",34,"1,74 m",Brazil,right,30.06.2020
+rani-khedira,"Jan 27, 1994",25,"1,88 m",Germany  Tunisia,right,30.06.2021
+simon-falette,"Feb 19, 1992",27,"1,85 m",Guinea  France,left,30.06.2021
+kenan-karaman,"Mar 5, 1994",25,"1,89 m",Turkey  Germany,right,30.06.2021
+julian-schieber,"Feb 13, 1989",30,"1,86 m",Germany,left,30.06.2021
+diadie-samassekou,"Jan 11, 1996",23,"1,77 m",Mali,right,30.06.2024
+christopher-trimmel,"Feb 24, 1987",32,"1,89 m",Austria,right,30.06.2020
+thomas-muller,"Sep 13, 1989",30,"1,86 m",Germany,right,30.06.2021
+marcel-risse,"Dec 17, 1989",29,"1,83 m",Germany,right,30.06.2022
+kevin-kampl,"Oct 9, 1990",29,"1,78 m",Slovenia,right,30.06.2021
+fredrik-jensen,"Sep 9, 1997",22,"1,83 m",Finland,right,30.06.2023
+tobias-sippel,"Mar 22, 1988",31,"1,80 m",Germany,right,30.06.2021
+mario-gotze,"Jun 3, 1992",27,"1,76 m",Germany,right,30.06.2020
+leopold-zingerle,"Apr 10, 1994",25,"1,85 m",Germany,right,30.06.2021
+benno-schmitz,"Nov 17, 1994",24,"1,82 m",Germany,right,30.06.2022
+steven-skrzybski,"Nov 18, 1992",26,"1,74 m",Germany,right,30.06.2021
+panagiotis-retsos,"Aug 9, 1998",21,"1,86 m",Greece,right,30.06.2022
+luca-plogmann,"Mar 10, 2000",19,"1,89 m",Germany,both,30.06.2021
+achraf-hakimi,"Nov 4, 1998",21,"1,81 m",Morocco  Spain,right,30.06.2020
+jamilu-collins,"Aug 5, 1994",25,"1,83 m",Nigeria,left,30.06.2021
+dodi-lukebakio,"Sep 24, 1997",22,"1,87 m",Belgium  DR Congo,left,30.06.2024
+lukas-rupp,"Jan 8, 1991",28,"1,78 m",Germany,right,30.06.2020
+dennis-jastrzembski,"Feb 20, 2000",19,"1,82 m",Germany  Poland,NaN,30.06.2021
+stephan-lichtsteiner,"Jan 16, 1984",35,"1,82 m",Switzerland,right,30.06.2020
+ridle-baku,"Apr 8, 1998",21,"1,76 m",Germany  DR Congo,right,30.06.2022
+dennis-smarsch,"Jan 14, 1999",20,"1,95 m",Germany,both,30.06.2021
+robin-koch,"Jul 17, 1996",23,"1,92 m",Germany,right,30.06.2021
+christian-gunter,"Feb 28, 1993",26,"1,85 m",Germany,left,30.06.2022
+christopher-nkunku,"Nov 14, 1997 Happy Birthday",22,"1,75 m",France  DR Congo,right,30.06.2024
+matthias-bader,"Jun 17, 1997",22,"1,76 m",Germany,right,30.06.2021
+philipp-bargfrede,"Mar 3, 1989",30,"1,74 m",Germany,right,30.06.2022
+alphonso-davies,"Nov 2, 2000",19,"1,81 m",Canada  Liberia,left,30.06.2023
+timo-werner,"Mar 6, 1996",23,"1,81 m",Germany,right,30.06.2023
+karim-rekik,"Dec 2, 1994",24,"1,86 m",Netherlands  Tunisia,left,30.06.2021
+daishawn-redan,"Feb 2, 2001",18,"1,76 m",Netherlands  Suriname,right,30.06.2024
+david-abraham,"Jul 15, 1986",33,"1,88 m",Argentina  Italy,right,30.06.2021
+daley-sinkgraven,"Jul 4, 1995",24,"1,79 m",Netherlands,left,30.06.2023
+daniel-baier,"May 18, 1984",35,"1,76 m",Germany,right,30.06.2020
+christian-strohdiek,"Jan 22, 1988",31,"1,92 m",Germany,right,30.06.2021
+marco-hoger,"Sep 16, 1989",30,"1,82 m",Germany,right,30.06.2021
+peter-pekarik,"Oct 30, 1986",33,"1,77 m",Slovakia,right,30.06.2020
+kelvin-ofori,"Jul 27, 2001",18,NaN,Ghana,left,30.06.2022
+christopher-antwi-adjei,"Feb 7, 1994",25,"1,73 m",Ghana  Germany,right,30.06.2021
+sebastian-rudy,"Feb 28, 1990",29,"1,80 m",Germany,right,30.06.2020
+joshua-brenet,"Mar 20, 1994",25,"1,81 m",Netherlands  Curacao,right,30.06.2022
+phillip-menzel,"Aug 18, 1998",21,"1,92 m",Germany,right,30.06.2021
+ben-zolinski,"May 3, 1992",27,"1,81 m",Germany,right,30.06.2020
+patrik-schick,"Jan 24, 1996",23,"1,85 m",Czech Republic,left,30.06.2020
+sven-bender,"Apr 27, 1989",30,"1,86 m",Germany,right,30.06.2021
+ademola-lookman,"Oct 20, 1997",22,"1,74 m",England  Nigeria,right,30.06.2024
+luca-kilian,"Sep 1, 1999",20,"1,90 m",Germany,right,30.06.2021
+willi-orban,"Nov 3, 1992",27,"1,86 m",Hungary  Germany,right,30.06.2022
+marius-wolf,"May 27, 1995",24,"1,87 m",Germany,right,30.06.2020
+benito-raman,"Nov 7, 1994",25,"1,72 m",Belgium,right,30.06.2024
+georg-teigl,"Feb 9, 1991",28,"1,83 m",Austria,right,30.06.2022
+joshua-kimmich,"Feb 8, 1995",24,"1,76 m",Germany,right,30.06.2023
+kevin-stoger,"Aug 27, 1993",26,"1,75 m",Austria,left,30.06.2020
+lasse-sobiech,"Jan 18, 1991",28,"1,96 m",Germany,right,30.06.2022
+felix-wiedwald,"Mar 15, 1990",29,"1,90 m",Germany,right,30.06.2021
+jurgen-locadia,"Nov 7, 1993",26,"1,85 m",Netherlands  Curacao,right,30.06.2020
+wendell,"Jul 20, 1993",26,"1,78 m",Brazil,left,30.06.2021
+denis-zakaria,"Nov 20, 1996",22,"1,91 m",Switzerland  DR Congo,right,30.06.2022
+jonas-hector,"May 27, 1990",29,"1,85 m",Germany,left,30.06.2023
+stefan-ilsanker,"May 18, 1989",30,"1,89 m",Austria,right,30.06.2020
+marcus-thuram,"Aug 6, 1997",22,"1,92 m",France  Guadeloupe,right,30.06.2023
+nuri-sahin,"Sep 5, 1988",31,"1,80 m",Turkey  Germany,left,30.06.2020
+benjamin-pavard,"Mar 28, 1996",23,"1,86 m",France,right,30.06.2024
+sebastian-andersson,"Jul 15, 1991",28,"1,90 m",Sweden,right,30.06.2020
+amir-abrashi,"Mar 27, 1990",29,"1,70 m",Albania  Switzerland,right,30.06.2020
+yoric-ravet,"Sep 12, 1989",30,"1,78 m",France,right,30.06.2021
+philipp-lienhart,"Jul 11, 1996",23,"1,89 m",Austria,right,30.06.2022
+alexander-stolz,"Oct 13, 1983",36,"1,89 m",Germany,right,30.06.2020
+jeremiah-st-juste,"Oct 19, 1996",23,"1,86 m",Netherlands  St. Kitts & Nevis,right,30.06.2023
+nabil-bentaleb,"Nov 24, 1994",24,"1,87 m",Algeria  France,left,30.06.2021
+manuel-gulde,"Feb 12, 1991",28,"1,84 m",Germany,right,30.06.2022
+matthias-ginter,"Jan 19, 1994",25,"1,91 m",Germany,right,30.06.2021
+sven-ulreich,"Aug 3, 1988",31,"1,92 m",Germany,right,30.06.2021
+mads-bidstrup,"Feb 25, 2001",18,NaN,Denmark,right,30.06.2023
+fin-bartels,"Feb 7, 1987",32,"1,76 m",Germany,right,30.06.2020
+dominick-drexler,"May 26, 1990",29,"1,82 m",Germany,right,30.06.2022
+lucas-ribeiro,"Jan 19, 1999",20,"1,90 m",Brazil,NaN,30.06.2023
+yuya-osako,"May 18, 1990",29,"1,82 m",Japan,right,30.06.2022
+pascal-kopke,"Sep 3, 1995",24,"1,77 m",Germany,right,30.06.2022
+birger-verstraete,"Apr 16, 1994",25,"1,75 m",Belgium,right,30.06.2023
+dejan-joveljic,"Aug 7, 1999",20,"1,82 m",Serbia  Bosnia-Herzegovina,right,30.06.2024
+guido-burgstaller,"Apr 29, 1989",30,"1,87 m",Austria,right,30.06.2022
+rafael-czichos,"May 14, 1990",29,"1,87 m",Germany,left,30.06.2022
+marcel-sabitzer,"Mar 17, 1994",25,"1,77 m",Austria,right,30.06.2022
+tony-jantschke,"Apr 7, 1990",29,"1,77 m",Germany,right,30.06.2021
+erik-durm,"May 12, 1992",27,"1,83 m",Germany,right,30.06.2023
+javairo-dilrosun,"Jun 22, 1998",21,"1,75 m",Netherlands  Suriname,left,30.06.2022
+lucas-alario,"Oct 8, 1992",27,"1,84 m",Argentina  Italy,right,30.06.2022
+aymen-barkok,"May 21, 1998",21,"1,88 m",Germany  Morocco,right,30.06.2020
+matthias-zimmermann,"Jun 16, 1992",27,"1,77 m",Germany,right,30.06.2024
+mark-uth,"Aug 24, 1991",28,"1,85 m",Germany,left,30.06.2022
+florian-kastenmeier,"Jun 28, 1997",22,"1,92 m",Germany,right,30.06.2022
+keanan-bennetts,"Mar 9, 1999",20,"1,83 m",England  Germany,left,30.06.2022
+marco-friedl,"Mar 16, 1998",21,"1,87 m",Austria,left,30.06.2022
+darko-churlinov,"Jul 11, 2000",19,"1,80 m",North Macedonia,right,30.06.2020
+robin-zentner,"Oct 28, 1994",25,"1,95 m",Germany,right,30.06.2021
+philipp-pentke,"May 1, 1985",34,"1,91 m",Germany,right,30.06.2021
+robert-lewandowski,"Aug 21, 1988",31,"1,84 m",Poland,right,30.06.2023
+mitchell-weiser,"Apr 21, 1994",25,"1,77 m",Germany,right,30.06.2023
+benjamin-hubner,"Jul 4, 1989",30,"1,93 m",Germany,left,30.06.2022
+georgios-siadas,"Dec 27, 1999",19,"1,80 m",Germany  Greece,left,30.06.2021
+merveille-papela,"Jan 18, 2001",18,"1,74 m",Germany,right,30.06.2023
+rune-jarstein,"Sep 29, 1984",35,"1,92 m",Norway,right,30.06.2021
+florian-hubner,"Mar 1, 1991",28,"1,93 m",Germany,right,30.06.2020
+michael-rensing,"May 14, 1984",35,"1,90 m",Germany,right,30.06.2020
+nico-elvedi,"Sep 30, 1996",23,"1,87 m",Switzerland,right,30.06.2021
+paco-alcacer,"Aug 30, 1993",26,"1,75 m",Spain,right,30.06.2023
+noah-katterbach,"Apr 13, 2001",18,"1,78 m",Germany,left,30.06.2021
+nadiem-amiri,"Oct 27, 1996",23,"1,80 m",Germany  Afghanistan,right,30.06.2024
+bas-dost,"May 31, 1989",30,"1,96 m",Netherlands,right,30.06.2022
+bernard-tekpetey,"Sep 3, 1997",22,"1,72 m",Ghana,right,30.06.2021
+abdelhamid-sabiri,"Nov 28, 1996",22,"1,86 m",Germany  Morocco,right,30.06.2021
+fabian-reese,"Nov 29, 1997",21,"1,87 m",Germany,right,30.06.2020
+jorge-mere,"Apr 17, 1997",22,"1,82 m",Spain,right,30.06.2023
+markus-suttner,"Apr 16, 1987",32,"1,79 m",Austria,left,30.06.2020
+alfred-finnbogason,"Feb 1, 1989",30,"1,84 m",Iceland,right,30.06.2022
+moussa-niakhate,"Mar 8, 1996",23,"1,90 m",France  Mali,left,30.06.2023
+ismail-jakobs,"Aug 17, 1999",20,"1,84 m",Germany,both,30.06.2021
+joel-pohjanpalo,"Sep 13, 1994",25,"1,84 m",Finland,right,30.06.2022
+jadon-sancho,"Mar 25, 2000",19,"1,80 m",England,right,30.06.2022
+niklas-hauptmann,"Jun 27, 1996",23,"1,76 m",Germany,left,30.06.2023
+thiago,"Apr 11, 1991",28,"1,74 m",Spain  Brazil,right,30.06.2021
+erik-thommy,"Aug 20, 1994",25,"1,75 m",Germany,right,30.06.2020
+david-philipp,"Apr 10, 2000",19,"1,80 m",Germany,both,30.06.2022
+niclas-fullkrug,"Feb 9, 1993",26,"1,89 m",Germany,right,30.06.2023
+ozan-kabak,"Mar 25, 2000",19,"1,86 m",Turkey,right,30.06.2024
+christopher-lenz,"Sep 22, 1994",25,"1,80 m",Germany,left,30.06.2021
+marcel-sobottka,"Apr 25, 1994",25,"1,85 m",Germany,right,30.06.2022
+maurice-opfermann-arcones,"Jun 16, 2000",19,"1,72 m",Germany  Spain,,30.06.2021
+lucas-hernandez,"Feb 14, 1996",23,"1,82 m",France  Spain,left,30.06.2024
+matija-nastasic,"Mar 28, 1993",26,"1,88 m",Serbia,left,30.06.2022
+josuha-guilavogui,"Sep 19, 1990",29,"1,88 m",France  Guinea,right,30.06.2023
+breel-embolo,"Feb 14, 1997",22,"1,84 m",Switzerland  Cameroon,right,30.06.2023
+leon-bailey,"Aug 9, 1997",22,"1,78 m",Jamaica,left,30.06.2023
+steven-zuber,"Aug 17, 1991",28,"1,82 m",Switzerland,right,30.06.2020
+nico-schulz,"Apr 1, 1993",26,"1,80 m",Germany  Italy,left,30.06.2024
+pierre-kunde-malong,"Jul 26, 1995",24,"1,80 m",Cameroon,right,30.06.2022
+michael-langer,"Jan 6, 1985",34,"1,95 m",Austria,right,30.06.2021
+djibril-sow,"Feb 6, 1997",22,"1,84 m",Switzerland  Senegal,right,30.06.2024
+thomas-pledl,"May 23, 1994",25,"1,74 m",Germany,right,30.06.2021
+mathew-leckie,"Feb 4, 1991",28,"1,81 m",Australia,right,30.06.2021
+nico-schlotterbeck,"Dec 1, 1999",19,"1,91 m",Germany,left,30.06.2022
+suleiman-abdullahi,"Dec 10, 1996",22,"1,85 m",Nigeria,right,30.06.2022
+nordi-mukiele,"Nov 1, 1997",22,"1,85 m",France  DR Congo,right,30.06.2023
+kevin-trapp,"Jul 8, 1990",29,"1,89 m",Germany,right,30.06.2024
+moritz-nicolas,"Oct 21, 1997",22,"1,93 m",Germany,right,30.06.2021
+jacob-bruun-larsen,"Sep 19, 1998",21,"1,83 m",Denmark,right,30.06.2021
+lars-bender,"Apr 27, 1989",30,"1,85 m",Germany,right,30.06.2021
+florian-grillitsch,"Aug 7, 1995",24,"1,87 m",Austria,right,30.06.2022
+julian-weigl,"Sep 8, 1995",24,"1,86 m",Germany,right,30.06.2021
+dan-axel-zagadou,"Jun 3, 1999",20,"1,96 m",France  Cote d'Ivoire,left,30.06.2022
+fabian-johnson,"Dec 11, 1987",31,"1,83 m",United States  Germany,right,30.06.2020
+davor-lovren,"Oct 3, 1998",21,"1,72 m",Croatia,left,30.06.2023
+manuel-neuer,"Mar 27, 1986",33,"1,93 m",Germany,right,30.06.2021
+weston-mckennie,"Aug 28, 1998",21,"1,85 m",United States,right,30.06.2024
+florian-flecker,"Oct 29, 1995",24,"1,77 m",Austria,right,30.06.2021
+leo-oppermann,"Aug 28, 2001",18,NaN,Germany,NaN,30.06.2020
+keven-schlotterbeck,"Apr 28, 1997",22,"1,89 m",Germany,left,30.06.2020
+alexander-schwolow,"Jun 2, 1992",27,"1,90 m",Germany,right,-
+william,"Apr 3, 1995",24,"1,76 m",Brazil,right,30.06.2022
+tomas-koubek,"Aug 26, 1992",27,"1,97 m",Czech Republic,right,30.06.2024
+jan-luca-rumpf,"Jul 8, 1999",20,"1,92 m",Germany,right,30.06.2021
+akaki-gogia,"Jan 18, 1992",27,"1,78 m",Germany  Georgia,both,30.06.2021
+palko-dardai,"Apr 24, 1999",20,"1,78 m",Germany  Hungary,left,30.06.2021
+hannes-wolf,"Apr 16, 1999",20,"1,79 m",Austria,left,30.06.2024
+sebastian-polter,"Apr 1, 1991",28,"1,92 m",Germany,right,30.06.2020
+lukas-kubler,"Aug 30, 1992",27,"1,82 m",Germany,right,30.06.2020
+shinta-appelkamp,"Nov 1, 2000",19,"1,75 m",Japan  Germany,right,30.06.2021
+kevin-mohwald,"Jul 3, 1993",26,"1,83 m",Germany,right,30.06.2021
+joshua-mees,"Apr 15, 1996",23,"1,80 m",Germany,both,30.06.2021
+peter-gulacsi,"May 6, 1990",29,"1,90 m",Hungary,right,30.06.2023
+omer-hanin,"May 14, 1998",21,"1,92 m",Israel  Portugal,both,30.06.2023
+jean-philippe-mateta,"Jun 28, 1997",22,"1,92 m",France  DR Congo,right,30.06.2023
+niklas-sule,"Sep 3, 1995",24,"1,95 m",Germany,right,30.06.2022
+johannes-eggestein,"May 8, 1998",21,"1,83 m",Germany,right,30.06.2022
+nicolai-rapp,"Dec 13, 1996",22,"1,86 m",Germany,right,30.06.2022
+kaan-ayhan,"Nov 10, 1994",25,"1,85 m",Turkey  Germany,right,30.06.2022
+lars-lukas-mai,"Mar 31, 2000",19,"1,90 m",Germany,right,30.06.2022
+oliver-fink,"Jun 6, 1982",37,"1,87 m",Germany,right,30.06.2020
+lukas-hradecky,"Nov 24, 1989",29,"1,92 m",Finland  Slovakia,right,30.06.2023
+jhon-cordoba,"May 11, 1993",26,"1,88 m",Colombia,right,30.06.2021
+benjamin-goller,"Jan 1, 1999",20,"1,80 m",Germany,right,-
+philipp-max,"Sep 30, 1993",26,"1,77 m",Germany,left,30.06.2022
+neven-subotic,"Dec 10, 1988",30,"1,93 m",Germany  Serbia,right,30.06.2021
+luca-itter,"Jan 5, 1999",20,"1,83 m",Germany,left,-
+nils-stendera,"Sep 30, 2000",19,"1,77 m",Germany,NaN,30.06.2022
+diego-contento,"May 1, 1990",29,"1,77 m",Germany  Italy,left,30.06.2020
+christian-gentner,"Aug 14, 1985",34,"1,89 m",Germany,right,30.06.2020
+florian-neuhaus,"Mar 16, 1997",22,"1,84 m",Germany,right,30.06.2021
+ignacio-camacho,"May 4, 1990",29,"1,82 m",Spain,right,30.06.2021
+niklas-moisander,"Sep 29, 1985",34,"1,83 m",Finland,left,30.06.2020
+florian-kath,"Oct 21, 1994",25,"1,86 m",Germany,left,30.06.2020
+sebastian-langkamp,"Jan 15, 1988",31,"1,91 m",Germany,right,30.06.2020
+stefan-posch,"May 14, 1997",22,"1,88 m",Austria,right,30.06.2023
+michael-cuisance,"Aug 16, 1999",20,"1,81 m",France,left,30.06.2024
+julian-ryerson,"Nov 17, 1997",21,"1,83 m",Norway  United States,right,30.06.2021
+vincenzo-grifo,"Apr 7, 1993",26,"1,80 m",Italy  Germany,right,-
+andreas-poulsen,"Oct 13, 1999",20,"1,88 m",Denmark,left,30.06.2023
+sebastian-rode,"Oct 11, 1990",29,"1,79 m",Germany,right,30.06.2024
+daniel-ginczek,"Apr 13, 1991",28,"1,91 m",Germany,right,30.06.2022
+michael-lang,"Feb 8, 1991",28,"1,85 m",Switzerland,right,30.06.2020
+moussa-diaby,"Jul 7, 1999",20,"1,70 m",France  Mali,left,30.06.2024
+mahmoud-dahoud,"Jan 1, 1996",23,"1,77 m",Germany  Syria,right,30.06.2022
+maximilian-eggestein,"Dec 8, 1996",22,"1,81 m",Germany,right,30.06.2023
+davy-klaassen,"Feb 21, 1993",26,"1,81 m",Netherlands,right,30.06.2022
+rabbi-matondo,"Sep 9, 2000",19,"1,75 m",Wales  England,right,30.06.2023
+ramazan-ozcan,"Jun 28, 1984",35,"1,87 m",Austria,left,30.06.2020
+michael-ratajczak,"Apr 16, 1982",37,"1,88 m",Germany,right,30.06.2020
+marco-richter,"Nov 24, 1997",21,"1,76 m",Germany,right,30.06.2023
+omer-toprak,"Jul 21, 1989",30,"1,87 m",Turkey  Germany,right,30.06.2020
+fabrice-hartmann,"Mar 2, 2001",18,"1,78 m",Germany,left,30.06.2021
+sebastiaan-bornauw,"Mar 22, 1999",20,"1,91 m",Belgium,right,30.06.2024
+rafal-gikiewicz,"Oct 26, 1987",32,"1,90 m",Poland,right,30.06.2020
+aaron-seydel,"Feb 7, 1996",23,"1,99 m",Germany,both,30.06.2021
+andre-hahn,"Aug 13, 1990",29,"1,85 m",Germany,right,30.06.2022
+simon-straudi,"Jan 27, 1999",20,"1,76 m",Italy,right,30.06.2022
+seong-hoon-cheon,"Sep 21, 2000",19,"1,90 m","Korea, South",NaN,30.06.2023
+lukas-klunter,"May 26, 1996",23,"1,84 m",Germany,right,30.06.2022
+jonathan-tah,"Feb 11, 1996",23,"1,95 m",Germany  Cote d'Ivoire,right,30.06.2023
+florian-baak,"Mar 18, 1999",20,"1,91 m",Germany,right,30.06.2021
+kevin-vogt,"Sep 23, 1991",28,"1,94 m",Germany,right,30.06.2022
+tobias-strobl,"May 12, 1990",29,"1,88 m",Germany,right,30.06.2020
+manuel-akanji,"Jul 19, 1995",24,"1,86 m",Switzerland  Nigeria,right,30.06.2022
