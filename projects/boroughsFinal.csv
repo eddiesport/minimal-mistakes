@@ -1,4 +1,4 @@
-﻿No,Borough,Code,Population,Area,Population_Density,Mean_Age,Employment_Rate,Median_Household_Income,Median_House_Price,Degree_Proportion,Crime_Rate,Greenspace,CO2_kilotonnes,NOx_tonnes,PM_25_tonnes,PM_10_tonnes,CO2_tonnes_sqmile,NOx_tonnes_sqmile,PM_25_tonnes_sqmile,PM_10_tonnes_sqmile
+﻿No,Borough,Code,Population,Area,Population_Density,Mean_Age,Employment_Rate,Median_Household_Income,Median_House_Price,Degree_Proportion,Crime_Rate,Greenspace,CO2_kilotonnes,NOx_tonnes,PM_25_tonnes,PM_10_tonnes,CO2_kilotonnes_sqmile,NOx_tonnes_sqmile,PM_25_tonnes_sqmile,PM_10_tonnes_sqmile
 1,City of London,E09000001,8800,1.12,7859,43.2,64.6,63620,799999,50.1,84.9,4.8,220,577,45,71,196.4827586,515.3206897,40.18965517,63.41034483
 2,Barking and Dagenham,E09000002,209000,13.94,14991,32.9,65.8,29420,243500,32.2,83.4,33.6,378,909,105,235,27.1121573,65.19828302,7.531154805,16.85544171
 3,Barnet,E09000003,389600,33.49,11632,37.3,68.5,40530,445000,49,62.7,41.3,932,1832,189,469,27.82570605,54.69602305,5.642766571,14.00242075
