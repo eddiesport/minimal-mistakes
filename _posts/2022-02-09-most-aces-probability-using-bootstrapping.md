@@ -29,9 +29,11 @@ From this how would you estimate the pre match odds for the Most Aces market if:
 
     1). You have all 1200 data points and you use them once?
     
-    2). You have all 1200 data points and you can sample from them more than once?
+    2). You have all 1200 data points and you can sample from \
+    them more than once?
     
-    3). The same players were rookies and you only had 20 available data points from the sample?
+    3). The same players were rookies and you only had 20 \
+    available data points from the sample?
 
 
 
