@@ -1,3 +1,16 @@
+---
+header:
+  image: /images/tennis-ball-3.jpg
+  caption: 
+categories: 
+    - Analysis
+    - Sport
+tags: 
+    - probability
+    - modelling
+    - tennis
+---
+
 # **Bootstrap Sampling from Two Gaussian Distributions**
 
 ### The Problem
