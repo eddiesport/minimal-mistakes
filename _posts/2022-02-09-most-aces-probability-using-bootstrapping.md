@@ -11,7 +11,7 @@ tags:
     - tennis
 ---
 
-# **Bootstrap Sampling from Two Gaussian Distributions**
+## **Bootstrap Sampling from Two Gaussian Distributions**
 
 ### The Problem
 
