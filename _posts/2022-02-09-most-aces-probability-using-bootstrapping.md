@@ -21,9 +21,9 @@ Matches on different court surfaces generally yield different numbers of aces, m
 
 From your modified dataset you have determined the underlying distribution of aces for each player are Gaussian (normal) distributions. Lets make the simplifying assumption that the distributions are independent of each other.  Lets say they have the following parameters:
 
-Rafa Gaussian -  $\mu = 10, \sigma = 1.5$
+Rafa Gaussian - mean = 10,  SD = 1.5
 
-Djokovic Gaussian -  $\mu = 12, \sigma = 2.5$
+Djokovic Gaussian - mean = 12,  SD = 2.5
 
 From this how would you estimate the pre match odds for the Most Aces market if:
 
